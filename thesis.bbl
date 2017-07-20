@@ -1,0 +1,952 @@
+\begin{thebibliography}{100}
+
+\bibitem{hameroff2014consciousness}
+S.~Hameroff and R.~Penrose, ``Consciousness in the universe: A review of the
+  ‘orch or’ theory,'' {\em Physics of life reviews}, vol.~11, no.~1,
+  pp.~39--78, 2014.
+
+\bibitem{hagan2002quantum}
+S.~Hagan, S.~R. Hameroff, and J.~A. Tuszy{\'n}ski, ``Quantum computation in
+  brain microtubules: Decoherence and biological feasibility,'' {\em Physical
+  Review E}, vol.~65, no.~6, p.~061901, 2002.
+
+\bibitem{Kandel}
+K.~E. R, {\em Principles of neural science}.
+\newblock McGraw-Hill, 2013.
+
+\bibitem{volterra2005astrocytes}
+A.~Volterra and J.~Meldolesi, ``Astrocytes, from brain glue to communication
+  elements: the revolution continues,'' {\em Nature Reviews Neuroscience},
+  vol.~6, no.~8, pp.~626--640, 2005.
+
+\bibitem{olah2009regulation}
+S.~Ol{\'a}h, M.~F{\"u}le, G.~Koml{\'o}si, C.~Varga, R.~B{\'a}ldi, P.~Barz{\'o},
+  and G.~Tam{\'a}s, ``Regulation of cortical microcircuits by unitary
+  gaba-mediated volume transmission,'' {\em Nature}, vol.~461, no.~7268,
+  pp.~1278--1281, 2009.
+
+\bibitem{berenyi2014large}
+A.~Ber{\'e}nyi, Z.~Somogyv{\'a}ri, A.~J. Nagy, L.~Roux, J.~D. Long,
+  S.~Fujisawa, E.~Stark, A.~Leonardo, T.~D. Harris, and G.~Buzs{\'a}ki,
+  ``Large-scale, high-density (up to 512 channels) recording of local circuits
+  in behaving animals,'' {\em Journal of neurophysiology}, vol.~111, no.~5,
+  pp.~1132--1149, 2014.
+
+\bibitem{emiliani2015all}
+V.~Emiliani, A.~E. Cohen, K.~Deisseroth, and M.~H{\"a}usser, ``All-optical
+  interrogation of neural circuits,'' {\em The Journal of Neuroscience},
+  vol.~35, no.~41, pp.~13917--13926, 2015.
+
+\bibitem{lossi2009cell}
+L.~Lossi, S.~Alasia, C.~Salio, and A.~Merighi, ``Cell death and proliferation
+  in acute slices and organotypic cultures of mammalian cns,'' {\em Progress in
+  neurobiology}, vol.~88, no.~4, pp.~221--245, 2009.
+
+\bibitem{nelson1975nerve}
+P.~G. Nelson, ``Nerve and muscle cells in culture,'' {\em Physiological
+  reviews}, vol.~55, no.~1, pp.~1--61, 1975.
+
+\bibitem{dichter1978rat}
+M.~A. Dichter, ``Rat cortical neurons in cell culture: culture methods, cell
+  morphology, electrophysiology, and synapse formation,'' {\em Brain research},
+  vol.~149, no.~2, pp.~279--293, 1978.
+
+\bibitem{mazia1975adhesion}
+D.~Mazia, G.~Schatten, and W.~Sale, ``Adhesion of cells to surfaces coated with
+  polylysine. applications to electron microscopy.,'' {\em The Journal of cell
+  biology}, vol.~66, no.~1, pp.~198--200, 1975.
+
+\bibitem{wiertz2010regulation}
+R.~W. Wiertz, {\em Regulation of in vitro cell-cell and cell-substrate
+  adhesion}.
+\newblock PhD thesis, Universiteit Twente, 2010.
+
+\bibitem{easton2014genetic}
+C.~R. Easton, K.~Weir, A.~Scott, S.~P. Moen, Z.~Barger, A.~Folch, R.~F. Hevner,
+  and W.~J. Moody, ``Genetic elimination of gabaergic neurotransmission reveals
+  two distinct pacemakers for spontaneous waves of activity in the developing
+  mouse cortex,'' {\em The Journal of Neuroscience}, vol.~34, no.~11,
+  pp.~3854--3863, 2014.
+
+\bibitem{morrow2001sequential}
+T.~Morrow, M.-R. Song, and A.~Ghosh, ``Sequential specification of neurons and
+  glia by developmentally regulated extracellular factors,'' {\em Development},
+  vol.~128, no.~18, pp.~3585--3594, 2001.
+
+\bibitem{benson1994characterization}
+D.~Benson, F.~Watkins, O.~Steward, and G.~Banker, ``Characterization of
+  gabaergic neurons in hippocampal cell cultures,'' {\em Journal of
+  neurocytology}, vol.~23, no.~5, pp.~279--295, 1994.
+
+\bibitem{corner2002physiological}
+M.~A. Corner, J.~van Pelt, P.~Wolters, R.~Baker, and R.~Nuytinck,
+  ``Physiological effects of sustained blockade of excitatory synaptic
+  transmission on spontaneously active developing neuronal networks—an
+  inquiry into the reciprocal linkage between intrinsic biorhythms and
+  neuroplasticity in early ontogeny,'' {\em Neuroscience \& Biobehavioral
+  Reviews}, vol.~26, no.~2, pp.~127--185, 2002.
+
+\bibitem{wallach2014glutamate}
+G.~Wallach, J.~Lallouette, N.~Herzog, M.~De~Pitt{\`a}, E.~B. Jacob, H.~Berry,
+  and Y.~Hanein, ``Glutamate mediated astrocytic filtering of neuronal
+  activity,'' {\em PLoS Comput Biol}, vol.~10, no.~12, p.~e1003964, 2014.
+
+\bibitem{eytan2004dopamine}
+D.~Eytan, A.~Minerbi, N.~Ziv, and S.~Marom, ``Dopamine-induced dispersion of
+  correlations between action potentials in networks of cortical neurons,''
+  {\em Journal of neurophysiology}, vol.~92, no.~3, pp.~1817--1824, 2004.
+
+\bibitem{kaufman2012long}
+M.~Kaufman, M.~A. Corner, and N.~E. Ziv, ``Long-term relationships between
+  cholinergic tone, synchronous bursting and synaptic remodeling,'' {\em PLoS
+  One}, vol.~7, no.~7, p.~e40980, 2012.
+
+\bibitem{swanwick2006development}
+C.~C. Swanwick, N.~R. Murthy, Z.~Mtchedlishvili, W.~Sieghart, and J.~Kapur,
+  ``Development of $\gamma$-aminobutyric acidergic synapses in cultured
+  hippocampal neurons,'' {\em Journal of Comparative Neurology}, vol.~495,
+  no.~5, pp.~497--510, 2006.
+
+\bibitem{hubel1957tungsten}
+D.~H. Hubel, ``{Tungsten microelectrode for recording from single units},''
+  {\em Science}, vol.~125, no.~3247, pp.~549--550, 1957.
+
+\bibitem{herzog2011optical}
+N.~Herzog, M.~Shein-Idelson, and Y.~Hanein, ``Optical validation of in vitro
+  extra-cellular neuronal recordings,'' {\em Journal of neural engineering},
+  vol.~8, no.~5, p.~056008, 2011.
+
+\bibitem{Morin2005}
+F.~O. Morin, Y.~Takamura, and E.~Tamiya, ``{Investigating neuronal activity
+  with planar microelectrode arrays: achievements and new perspectives.},''
+  {\em Journal of bioscience and bioengineering}, vol.~100, pp.~131--43, Aug.
+  2005.
+
+\bibitem{Buzsaki2004}
+G.~Buzs\'{a}ki, ``{Large-scale recording of neuronal ensembles.},'' {\em Nature
+  neuroscience}, vol.~7, pp.~446--51, May 2004.
+
+\bibitem{PotterRev2001}
+S.~M. Potter, ``{Distributed processing in cultured neuronal networks},'' {\em
+  Progress in brain research}, vol.~130, pp.~49--62, 2001.
+
+\bibitem{Marom02}
+S.~Marom and G.~Shahaf, ``{Development, learning and memory in large random
+  networks of cortical neurons: lessons beyond anatomy},'' {\em Q Rev Biophys},
+  vol.~35, no.~1, pp.~63--87, 2002.
+
+\bibitem{wagenaar2006extremely}
+D.~A. Wagenaar, J.~Pine, and S.~M. Potter, ``An extremely rich repertoire of
+  bursting patterns during the development of cortical cultures,'' {\em BMC
+  neuroscience}, vol.~7, no.~1, p.~1, 2006.
+
+\bibitem{kamioka1996spontaneous}
+H.~Kamioka, E.~Maeda, Y.~Jimbo, H.~P. Robinson, and A.~Kawana, ``Spontaneous
+  periodic synchronized bursting during formation of mature patterns of
+  connections in cortical cultures,'' {\em Neuroscience letters}, vol.~206,
+  no.~2, pp.~109--112, 1996.
+
+\bibitem{chiappalone2006dissociated}
+M.~Chiappalone, M.~Bove, A.~Vato, M.~Tedesco, and S.~Martinoia, ``Dissociated
+  cortical networks show spontaneously correlated activity patterns during in
+  vitro development,'' {\em Brain research}, vol.~1093, no.~1, pp.~41--53,
+  2006.
+
+\bibitem{bikbaev2015brain}
+A.~Bikbaev, R.~Frischknecht, and M.~Heine, ``Brain extracellular matrix retains
+  connectivity in neuronal networks,'' {\em Scientific reports}, vol.~5, 2015.
+
+\bibitem{li2003some}
+Z.~Li and M.~Sheng, ``Some assembly required: the development of neuronal
+  synapses,'' {\em Nature reviews Molecular cell biology}, vol.~4, no.~11,
+  pp.~833--841, 2003.
+
+\bibitem{ramakers1994activity}
+G.~Ramakers, H.~Van~Galen, M.~Feenstra, M.~Corner, and G.~Boer,
+  ``Activity-dependent plasticity of inhibitory and excitatory amino acid
+  transmitter systems in cultured rat cerebral cortex,'' {\em International
+  Journal of Developmental Neuroscience}, vol.~12, no.~7, pp.~611--621, 1994.
+
+\bibitem{van2004long}
+J.~van Pelt, P.~S. Wolters, M.~A. Corner, W.~L. Rutten, and G.~J. Ramakers,
+  ``Long-term characterization of firing dynamics of spontaneous bursts in
+  cultured neural networks,'' {\em IEEE Transactions on Biomedical
+  Engineering}, vol.~51, no.~11, pp.~2051--2062, 2004.
+
+\bibitem{hensch2004critical}
+T.~K. Hensch, ``Critical period regulation,'' {\em Annu. Rev. Neurosci.},
+  vol.~27, pp.~549--579, 2004.
+
+\bibitem{mainen1995reliability}
+Z.~F. Mainen and T.~J. Sejnowski, ``Reliability of spike timing in neocortical
+  neurons,'' {\em Science}, vol.~268, no.~5216, p.~1503, 1995.
+
+\bibitem{gal2013entrainment}
+A.~Gal and S.~Marom, ``Entrainment of the intrinsic dynamics of single isolated
+  neurons by natural-like input,'' {\em The Journal of neuroscience}, vol.~33,
+  no.~18, pp.~7912--7918, 2013.
+
+\bibitem{gal2010dynamics}
+A.~Gal, D.~Eytan, A.~Wallach, M.~Sandler, J.~Schiller, and S.~Marom, ``Dynamics
+  of excitability over extended timescales in cultured cortical neurons,'' {\em
+  The Journal of Neuroscience}, vol.~30, no.~48, pp.~16332--16342, 2010.
+
+\bibitem{reinartz2014synaptic}
+S.~Reinartz, I.~Biro, A.~Gal, M.~Giugliano, and S.~Marom, ``Synaptic dynamics
+  contribute to long-term single neuron response fluctuations,'' {\em Frontiers
+  in neural circuits}, vol.~8, p.~71, 2014.
+
+\bibitem{fong2015upward}
+M.-f. Fong, J.~P. Newman, S.~M. Potter, and P.~Wenner, ``Upward synaptic
+  scaling is dependent on neurotransmission rather than spiking,'' {\em Nature
+  communications}, vol.~6, 2015.
+
+\bibitem{penn2016network}
+Y.~Penn, M.~Segal, and E.~Moses, ``Network synchronization in hippocampal
+  neurons,'' {\em Proceedings of the National Academy of Sciences}, vol.~113,
+  no.~12, pp.~3341--3346, 2016.
+
+\bibitem{levy2012enhancement}
+O.~Levy, N.~E. Ziv, and S.~Marom, ``Enhancement of neural representation
+  capacity by modular architecture in networks of cortical neurons,'' {\em
+  European Journal of Neuroscience}, vol.~35, no.~11, pp.~1753--1760, 2012.
+
+\bibitem{shein2011engineered}
+M.~Shein-Idelson, E.~Ben-Jacob, and Y.~Hanein, ``Engineered neuronal circuits:
+  a new platform for studying the role of modular topology,'' {\em Frontiers in
+  neuroengineering}, vol.~4, p.~10, 2011.
+
+\bibitem{kwiat2012highly}
+M.~Kwiat, R.~Elnathan, A.~Pevzner, A.~Peretz, B.~Barak, H.~Peretz, T.~Ducobni,
+  D.~Stein, L.~Mittelman, U.~Ashery, {\em et~al.}, ``Highly ordered large-scale
+  neuronal networks of individual cells--toward single cell to 3d nanowire
+  intracellular interfaces,'' {\em ACS applied materials \& interfaces},
+  vol.~4, no.~7, pp.~3542--3549, 2012.
+
+\bibitem{kang2010generation}
+K.~Kang, G.~Kang, B.~S. Lee, I.~S. Choi, and Y.~Nam, ``Generation of patterned
+  neuronal networks on cell-repellant poly (oligo (ethylene glycol)
+  methacrylate) films,'' {\em Chemistry--An Asian Journal}, vol.~5, no.~8,
+  pp.~1804--1809, 2010.
+
+\bibitem{feinerman2008reliable}
+O.~Feinerman, A.~Rotem, and E.~Moses, ``Reliable neuronal logic devices from
+  patterned hippocampal cultures,'' {\em Nature physics}, vol.~4, no.~12,
+  pp.~967--973, 2008.
+
+\bibitem{robertson2014chemically}
+G.~Robertson, T.~J. Bushell, and M.~Zagnoni, ``Chemically induced synaptic
+  activity between mixed primary hippocampal co-cultures in a microfluidic
+  system,'' {\em Integrative Biology}, vol.~6, no.~6, pp.~636--644, 2014.
+
+\bibitem{honegger2016microfluidic}
+T.~Honegger, M.~I. Thielen, S.~Feizi, N.~E. Sanjana, and J.~Voldman,
+  ``Microfluidic neurite guidance to study structure-function relationships in
+  topologically-complex population-based neural networks,'' {\em Scientific
+  Reports}, vol.~6, 2016.
+
+\bibitem{peyrin2011axon}
+J.-M. Peyrin, B.~Deleglise, L.~Saias, M.~Vignes, P.~Gougis, S.~Magnifico,
+  S.~Betuing, M.~Pietri, J.~Caboche, P.~Vanhoutte, {\em et~al.}, ``Axon diodes
+  for the reconstruction of oriented neuronal networks in microfluidic
+  chambers,'' {\em Lab on a Chip}, vol.~11, no.~21, pp.~3663--3673, 2011.
+
+\bibitem{dauth2016neurons}
+S.~Dauth, B.~M. Maoz, S.~P. Sheehy, M.~A. Hemphill, T.~Murty, M.~K. Macedonia,
+  A.~M. Greer, B.~Budnik, and K.~K. Parker, ``Neurons derived from different
+  brain regions are inherently different in vitro: A novel multiregional
+  brain-on-a-chip,'' {\em Journal of Neurophysiology}, pp.~jn--00575, 2016.
+
+\bibitem{agnati1995intercellular}
+L.~Agnati, M.~Zoli, I.~Str{\"o}mberg, and K.~Fuxe, ``Intercellular
+  communication in the brain: wiring versus volume transmission,'' {\em
+  Neuroscience}, vol.~69, no.~3, pp.~711--726, 1995.
+
+\bibitem{fuxe2010discovery}
+K.~Fuxe, A.~B. Dahlstr{\"o}m, G.~Jonsson, D.~Marcellino, M.~Guescini, M.~Dam,
+  P.~Manger, and L.~Agnati, ``The discovery of central monoamine neurons gave
+  volume transmission to the wired brain,'' {\em Progress in neurobiology},
+  vol.~90, no.~2, pp.~82--100, 2010.
+
+\bibitem{agnati2006volume}
+L.~Agnati, G.~Leo, A.~Zanardi, S.~Genedani, A.~Rivera, K.~Fuxe, and
+  D.~Guidolin, ``Volume transmission and wiring transmission from cellular to
+  molecular networks: history and perspectives,'' {\em Acta Physiologica},
+  vol.~187, no.~1-2, pp.~329--344, 2006.
+
+\bibitem{ding2016changes}
+F.~Ding, J.~O’Donnell, Q.~Xu, N.~Kang, N.~Goldman, and M.~Nedergaard,
+  ``Changes in the composition of brain interstitial ions control the
+  sleep-wake cycle,'' {\em Science}, vol.~352, no.~6285, pp.~550--555, 2016.
+
+\bibitem{farrant2005variations}
+M.~Farrant and Z.~Nusser, ``Variations on an inhibitory theme: phasic and tonic
+  activation of gabaa receptors,'' {\em Nature Reviews Neuroscience}, vol.~6,
+  no.~3, pp.~215--229, 2005.
+
+\bibitem{taber2014volume}
+K.~H. Taber and R.~A. Hurley, ``Volume transmission in the brain: beyond the
+  synapse,'' {\em The Journal of neuropsychiatry and clinical neurosciences},
+  vol.~26, no.~1, pp.~iv--4, 2014.
+
+\bibitem{matsui2003ectopic}
+K.~Matsui and C.~E. Jahr, ``Ectopic release of synaptic vesicles,'' {\em
+  Neuron}, vol.~40, no.~6, pp.~1173--1183, 2003.
+
+\bibitem{hamann2002tonic}
+M.~Hamann, D.~J. Rossi, and D.~Attwell, ``Tonic and spillover inhibition of
+  granule cells control information flow through cerebellar cortex,'' {\em
+  Neuron}, vol.~33, no.~4, pp.~625--633, 2002.
+
+\bibitem{bellamy2006interactions}
+T.~C. Bellamy, ``Interactions between purkinje neurones and bergmann glia,''
+  {\em The Cerebellum}, vol.~5, no.~2, pp.~116--126, 2006.
+
+\bibitem{cavelier2005tonic}
+P.~Cavelier, M.~Hamann, D.~Rossi, P.~Mobbs, and D.~Attwell, ``Tonic excitation
+  and inhibition of neurons: ambient transmitter sources and computational
+  consequences,'' {\em Progress in biophysics and molecular biology}, vol.~87,
+  no.~1, pp.~3--16, 2005.
+
+\bibitem{lee2010channel}
+S.~Lee, B.-E. Yoon, K.~Berglund, S.-J. Oh, H.~Park, H.-S. Shin, G.~J.
+  Augustine, and C.~J. Lee, ``Channel-mediated tonic gaba release from glia,''
+  {\em Science}, vol.~330, no.~6005, pp.~790--796, 2010.
+
+\bibitem{cavelier2005DIDS}
+P.~Cavelier and D.~Attwell, ``Tonic release of glutamate by a dids-sensitive
+  mechanism in rat hippocampal slices,'' {\em The Journal of physiology},
+  vol.~564, no.~2, pp.~397--410, 2005.
+
+\bibitem{mann2010control}
+E.~O. Mann and I.~Mody, ``Control of hippocampal gamma oscillation frequency by
+  tonic inhibition and excitation of interneurons,'' {\em Nature neuroscience},
+  vol.~13, no.~2, pp.~205--212, 2010.
+
+\bibitem{lenk2016understanding}
+K.~Lenk, E.~R{\"a}is{\"a}nen, and J.~A. Hyttinen, ``Understanding the role of
+  astrocytic gaba in simulated neural networks,'' in {\em Engineering in
+  Medicine and Biology Society (EMBC), 2016 IEEE 38th Annual International
+  Conference of the}, pp.~6121--6124, IEEE, 2016.
+
+\bibitem{wall2015localized}
+M.~J. Wall and M.~J. Richardson, ``Localized adenosine signaling provides
+  fine-tuned negative feedback over a wide dynamic range of neocortical network
+  activities,'' {\em Journal of neurophysiology}, vol.~113, no.~3,
+  pp.~871--882, 2015.
+
+\bibitem{zhang2003atp}
+J.-m. Zhang, H.-k. Wang, C.-q. Ye, W.~Ge, Y.~Chen, Z.-l. Jiang, C.-p. Wu, M.-m.
+  Poo, and S.~Duan, ``Atp released by astrocytes mediates glutamatergic
+  activity-dependent heterosynaptic suppression,'' {\em Neuron}, vol.~40,
+  no.~5, pp.~971--982, 2003.
+
+\bibitem{bellamy2000rapid}
+T.~C. Bellamy, J.~Wood, D.~A. Goodwin, and J.~Garthwaite, ``Rapid
+  desensitization of the nitric oxide receptor, soluble guanylyl cyclase,
+  underlies diversity of cellular cgmp responses,'' {\em Proceedings of the
+  National Academy of Sciences}, vol.~97, no.~6, pp.~2928--2933, 2000.
+
+\bibitem{rice2008dopamine}
+M.~E. Rice and S.~J. Cragg, ``Dopamine spillover after quantal release:
+  rethinking dopamine transmission in the nigrostriatal pathway,'' {\em Brain
+  research reviews}, vol.~58, no.~2, pp.~303--313, 2008.
+
+\bibitem{veening2012volume}
+J.~G. Veening, P.~O. Gerrits, and H.~P. Barendregt, ``Volume transmission of
+  beta-endorphin via the cerebrospinal fluid; a review,'' {\em Fluids and
+  Barriers of the CNS}, vol.~9, no.~1, p.~16, 2012.
+
+\bibitem{gu2002neuromodulatory}
+Q.~Gu, ``Neuromodulatory transmitter systems in the cortex and their role in
+  cortical plasticity,'' {\em Neuroscience}, vol.~111, no.~4, pp.~815--835,
+  2002.
+
+\bibitem{saper2005hypothalamic}
+C.~B. Saper, T.~E. Scammell, and J.~Lu, ``Hypothalamic regulation of sleep and
+  circadian rhythms,'' {\em Nature}, vol.~437, no.~7063, pp.~1257--1263, 2005.
+
+\bibitem{zhang2009gain}
+J.-C. Zhang, P.-M. Lau, and G.-Q. Bi, ``Gain in sensitivity and loss in
+  temporal contrast of stdp by dopaminergic modulation at hippocampal
+  synapses,'' {\em Proceedings of the National Academy of Sciences}, vol.~106,
+  no.~31, pp.~13028--13033, 2009.
+
+\bibitem{yagishita2014critical}
+S.~Yagishita, A.~Hayashi-Takagi, G.~C. Ellis-Davies, H.~Urakubo, S.~Ishii, and
+  H.~Kasai, ``A critical time window for dopamine actions on the structural
+  plasticity of dendritic spines,'' {\em Science}, vol.~345, no.~6204,
+  pp.~1616--1620, 2014.
+
+\bibitem{huang2012pull}
+S.~Huang, M.~Trevi{\~n}o, K.~He, A.~Ardiles, R.~de~Pasquale, Y.~Guo,
+  A.~Palacios, R.~Huganir, and A.~Kirkwood, ``Pull-push neuromodulation of ltp
+  and ltd enables bidirectional experience-induced synaptic scaling in visual
+  cortex,'' {\em Neuron}, vol.~73, no.~3, pp.~497--510, 2012.
+
+\bibitem{otani2015dopaminergic}
+S.~Otani, J.~Bai, and K.~Blot, ``Dopaminergic modulation of synaptic plasticity
+  in rat prefrontal neurons,'' {\em Neuroscience bulletin}, vol.~31, no.~2,
+  pp.~183--190, 2015.
+
+\bibitem{isaac2009hippocampal}
+J.~T. Isaac, K.~A. Buchanan, R.~U. Muller, and J.~R. Mellor, ``Hippocampal
+  place cell firing patterns can induce long-term synaptic plasticity in
+  vitro,'' {\em Journal of Neuroscience}, vol.~29, no.~21, pp.~6840--6850,
+  2009.
+
+\bibitem{tsai2009phasic}
+H.-C. Tsai, F.~Zhang, A.~Adamantidis, G.~D. Stuber, A.~Bonci, L.~De~Lecea, and
+  K.~Deisseroth, ``Phasic firing in dopaminergic neurons is sufficient for
+  behavioral conditioning,'' {\em Science}, vol.~324, no.~5930, pp.~1080--1084,
+  2009.
+
+\bibitem{ogren1980evidence}
+S.~{\"O}gren, T.~Archer, and S.~Ross, ``Evidence for a role of the locus
+  coeruleus noradrenaline system in learning,'' {\em Neuroscience Letters},
+  vol.~20, no.~3, pp.~351--356, 1980.
+
+\bibitem{hasselmo2006role}
+M.~E. Hasselmo, ``The role of acetylcholine in learning and memory,'' {\em
+  Current opinion in neurobiology}, vol.~16, no.~6, pp.~710--715, 2006.
+
+\bibitem{otani1998dopamine}
+S.~Otani, O.~Blond, J.-M. Desce, and F.~Crepel, ``Dopamine facilitates
+  long-term depression of glutamatergic transmission in rat prefrontal
+  cortex,'' {\em Neuroscience}, vol.~85, no.~3, pp.~669--676, 1998.
+
+\bibitem{tye2013dopamine}
+K.~M. Tye, J.~J. Mirzabekov, M.~R. Warden, E.~A. Ferenczi, H.-C. Tsai,
+  J.~Finkelstein, S.-Y. Kim, A.~Adhikari, K.~R. Thompson, A.~S. Andalman, {\em
+  et~al.}, ``Dopamine neurons modulate neural encoding and expression of
+  depression-related behaviour,'' {\em Nature}, vol.~493, no.~7433,
+  pp.~537--541, 2013.
+
+\bibitem{carter2010tuning}
+M.~E. Carter, O.~Yizhar, S.~Chikahisa, H.~Nguyen, A.~Adamantidis, S.~Nishino,
+  K.~Deisseroth, and L.~De~Lecea, ``Tuning arousal with optogenetic modulation
+  of locus coeruleus neurons,'' {\em Nature neuroscience}, vol.~13, no.~12,
+  pp.~1526--1533, 2010.
+
+\bibitem{kuchibhotla2017parallel}
+K.~V. Kuchibhotla, J.~V. Gill, G.~W. Lindsay, E.~S. Papadoyannis, R.~E. Field,
+  T.~A.~H. Sten, K.~D. Miller, and R.~C. Froemke, ``Parallel processing by
+  cortical inhibition enables context-dependent behavior,'' {\em Nature
+  Neuroscience}, vol.~20, no.~1, pp.~62--71, 2017.
+
+\bibitem{schultz2013updating}
+W.~Schultz, ``Updating dopamine reward signals,'' {\em Current opinion in
+  neurobiology}, vol.~23, no.~2, pp.~229--238, 2013.
+
+\bibitem{bromberg2010dopamine}
+E.~S. Bromberg-Martin, M.~Matsumoto, and O.~Hikosaka, ``Dopamine in
+  motivational control: rewarding, aversive, and alerting,'' {\em Neuron},
+  vol.~68, no.~5, pp.~815--834, 2010.
+
+\bibitem{pinto2013fast}
+L.~Pinto, M.~J. Goard, D.~Estandian, M.~Xu, A.~C. Kwan, S.-H. Lee, T.~C.
+  Harrison, G.~Feng, and Y.~Dan, ``Fast modulation of visual perception by
+  basal forebrain cholinergic neurons,'' {\em Nature neuroscience}, vol.~16,
+  no.~12, pp.~1857--1863, 2013.
+
+\bibitem{schultz1997neural}
+W.~Schultz, P.~Dayan, and P.~R. Montague, ``A neural substrate of prediction
+  and reward,'' {\em Science}, vol.~275, no.~5306, pp.~1593--1599, 1997.
+
+\bibitem{venton2003real}
+B.~J. Venton, H.~Zhang, P.~A. Garris, P.~E. Phillips, D.~Sulzer, and R.~M.
+  Wightman, ``Real-time decoding of dopamine concentration changes in the
+  caudate--putamen during tonic and phasic firing,'' {\em Journal of
+  neurochemistry}, vol.~87, no.~5, pp.~1284--1295, 2003.
+
+\bibitem{arbuthnott2007space}
+G.~W. Arbuthnott and J.~Wickens, ``Space, time and dopamine,'' {\em Trends in
+  neurosciences}, vol.~30, no.~2, pp.~62--69, 2007.
+
+\bibitem{sarter2009phasic}
+M.~Sarter, V.~Parikh, and W.~M. Howe, ``Phasic acetylcholine release and the
+  volume transmission hypothesis: time to move on,'' {\em Nature Reviews
+  Neuroscience}, vol.~10, no.~5, pp.~383--390, 2009.
+
+\bibitem{dugast2002vivo}
+C.~Dugast, R.~Cespuglio, and M.~Suaud-Chagny, ``In vivo monitoring of evoked
+  noradrenaline release in the rat anteroventral thalamic nucleus by continuous
+  amperometry,'' {\em Journal of neurochemistry}, vol.~82, no.~3, pp.~529--537,
+  2002.
+
+\bibitem{hebb1961organization}
+D.~O. HEBB, {\em THE ORGANIZATION OF BEHAVIOUR.}
+\newblock 1961.
+
+\bibitem{bliss1973long}
+T.~V. Bliss and T.~L{\o}mo, ``Long-lasting potentiation of synaptic
+  transmission in the dentate area of the anaesthetized rabbit following
+  stimulation of the perforant path,'' {\em The Journal of physiology},
+  vol.~232, no.~2, pp.~331--356, 1973.
+
+\bibitem{caporale2008spike}
+N.~Caporale and Y.~Dan, ``Spike timing-dependent plasticity: a hebbian learning
+  rule,'' {\em Annu. Rev. Neurosci.}, vol.~31, pp.~25--46, 2008.
+
+\bibitem{bi1998synaptic}
+G.-q. Bi and M.-m. Poo, ``Synaptic modifications in cultured hippocampal
+  neurons: dependence on spike timing, synaptic strength, and postsynaptic cell
+  type,'' {\em The Journal of neuroscience}, vol.~18, no.~24, pp.~10464--10472,
+  1998.
+
+\bibitem{brea2016does}
+J.~Brea and W.~Gerstner, ``Does computational neuroscience need new synaptic
+  learning paradigms?,'' {\em Current Opinion in Behavioral Sciences}, vol.~11,
+  pp.~61--66, 2016.
+
+\bibitem{fremaux2013reinforcement}
+N.~Fr{\'e}maux, H.~Sprekeler, and W.~Gerstner, ``Reinforcement learning using a
+  continuous time actor-critic framework with spiking neurons,'' {\em PLoS
+  Comput Biol}, vol.~9, no.~4, p.~e1003024, 2013.
+
+\bibitem{fremaux2015neuromodulated}
+N.~Fr{\'e}maux and W.~Gerstner, ``Neuromodulated spike-timing-dependent
+  plasticity, and theory of three-factor learning rules,'' {\em Frontiers in
+  neural circuits}, vol.~9, 2015.
+
+\bibitem{izhikevich2007solving}
+E.~M. Izhikevich, ``Solving the distal reward problem through linkage of stdp
+  and dopamine signaling,'' {\em Cerebral cortex}, vol.~17, no.~10,
+  pp.~2443--2452, 2007.
+
+\bibitem{jonas1993quantal}
+P.~Jonas, G.~Major, and B.~Sakmann, ``Quantal components of unitary epscs at
+  the mossy fibre synapse on ca3 pyramidal cells of rat hippocampus.,'' {\em
+  The Journal of Physiology}, vol.~472, no.~1, pp.~615--663, 1993.
+
+\bibitem{hestrin1992activation}
+S.~Hestrin, ``Activation and desensitization of glutamate-activated channels
+  mediating fast excitatory synaptic currents in the visual cortex,'' {\em
+  Neuron}, vol.~9, no.~5, pp.~991--999, 1992.
+
+\bibitem{fluidBook}
+W.~F. M, {\em Fluid Mechanics}.
+\newblock McGraw-Hill, 2009.
+
+\bibitem{takayama2001laminar}
+S.~Takayama, E.~Ostuni, P.~LeDuc, K.~Naruse, D.~E. Ingber, and G.~M.
+  Whitesides, ``Laminar flows: subcellular positioning of small molecules,''
+  {\em Nature}, vol.~411, no.~6841, p.~1016, 2001.
+
+\bibitem{bae2009rapid}
+A.~J. Bae, C.~Beta, and E.~Bodenschatz, ``Rapid switching of chemical signals
+  in microfluidic devices,'' {\em Lab on a chip}, vol.~9, no.~21,
+  pp.~3059--3065, 2009.
+
+\bibitem{taylor2005microfluidic}
+A.~M. Taylor, M.~Blurton-Jones, S.~W. Rhee, D.~H. Cribbs, C.~W. Cotman, and
+  N.~L. Jeon, ``A microfluidic culture platform for cns axonal injury,
+  regeneration and transport,'' {\em Nature methods}, vol.~2, no.~8,
+  pp.~599--605, 2005.
+
+\bibitem{taylor2010microfluidic}
+A.~M. Taylor, D.~C. Dieterich, H.~T. Ito, S.~A. Kim, and E.~M. Schuman,
+  ``Microfluidic local perfusion chambers for the visualization and
+  manipulation of synapses,'' {\em Neuron}, vol.~66, no.~1, pp.~57--68, 2010.
+
+\bibitem{renault2015combining}
+R.~Renault, N.~Sukenik, S.~Descroix, L.~Malaquin, J.-L. Viovy, J.-M. Peyrin,
+  S.~Bottani, P.~Monceau, E.~Moses, and M.~Vignes, ``Combining microfluidics,
+  optogenetics and calcium imaging to study neuronal communication in vitro,''
+  {\em PLoS One}, vol.~10, no.~4, p.~e0120680, 2015.
+
+\bibitem{millet2007microfluidic}
+L.~J. Millet, M.~E. Stewart, J.~V. Sweedler, R.~G. Nuzzo, and M.~U. Gillette,
+  ``Microfluidic devices for culturing primary mammalian neurons at low
+  densities,'' {\em Lab on a Chip}, vol.~7, no.~8, pp.~987--994, 2007.
+
+\bibitem{wang2008microfluidics}
+C.~J. Wang, X.~Li, B.~Lin, S.~Shim, G.-l. Ming, and A.~Levchenko, ``A
+  microfluidics-based turning assay reveals complex growth cone responses to
+  integrated gradients of substrate-bound ecm molecules and diffusible guidance
+  cues,'' {\em Lab on a Chip}, vol.~8, no.~2, pp.~227--237, 2008.
+
+\bibitem{morel2012amplification}
+M.~Morel, V.~Shynkar, J.-C. Galas, I.~Dupin, C.~Bouzigues, V.~Studer, and
+  M.~Dahan, ``Amplification and temporal filtering during gradient sensing by
+  nerve growth cones probed with a microfluidic assay,'' {\em Biophysical
+  journal}, vol.~103, no.~8, pp.~1648--1656, 2012.
+
+\bibitem{liu2013galanin}
+M.~Liu, W.~Song, P.~Li, Y.~Huang, X.~Gong, G.~Zhou, X.~Jia, L.~Zheng, and
+  Y.~Fan, ``Galanin protects against nerve injury after shear stress in primary
+  cultured rat cortical neurons,'' {\em PloS one}, vol.~8, no.~5, p.~e63473,
+  2013.
+
+\bibitem{choi2013neurotoxic}
+Y.~J. Choi, S.~Chae, J.~H. Kim, K.~F. Barald, J.~Y. Park, and S.-H. Lee,
+  ``Neurotoxic amyloid beta oligomeric assemblies recreated in microfluidic
+  platform with interstitial level of slow flow,'' {\em Scientific reports},
+  vol.~3, 2013.
+
+\bibitem{kumamoto2015effects}
+J.~Kumamoto, H.~Kitahata, M.~Goto, M.~Nagayama, and M.~Denda, ``Effects of
+  medium flow on axon growth with or without nerve growth factor,'' {\em
+  Biochemical and biophysical research communications}, vol.~465, no.~1,
+  pp.~26--29, 2015.
+
+\bibitem{johnstoneThesis}
+A.~Johnstone, {\em Microfluidic systems for neuronal cell culture}.
+\newblock PhD thesis, The University of Nottingham, 2015.
+
+\bibitem{hulata2002method}
+E.~Hulata, R.~Segev, and E.~Ben-Jacob, ``A method for spike sorting and
+  detection based on wavelet packets and shannon's mutual information,'' {\em
+  Journal of neuroscience methods}, vol.~117, no.~1, pp.~1--12, 2002.
+
+\bibitem{chiappalone2005burst}
+M.~Chiappalone, A.~Novellino, I.~Vajda, A.~Vato, S.~Martinoia, and J.~van Pelt,
+  ``Burst detection algorithms for the analysis of spatio-temporal patterns in
+  cortical networks of neurons,'' {\em Neurocomputing}, vol.~65, pp.~653--662,
+  2005.
+
+\bibitem{le2007conditional}
+J.~Le~Feber, W.~Rutten, J.~Stegenga, P.~Wolters, G.~Ramakers, and J.~Van~Pelt,
+  ``Conditional firing probabilities in cultured neuronal networks: a stable
+  underlying structure in widely varying spontaneous activity patterns,'' {\em
+  Journal of neural engineering}, vol.~4, no.~2, p.~54, 2007.
+
+\bibitem{van2004longterm}
+J.~Van~Pelt, M.~Corner, P.~Wolters, W.~Rutten, and G.~Ramakers, ``Longterm
+  stability and developmental changes in spontaneous network burst firing
+  patterns in dissociated rat cerebral cortex cell cultures on multielectrode
+  arrays,'' {\em Neuroscience letters}, vol.~361, no.~1, pp.~86--89, 2004.
+
+\bibitem{breskin2006percolation}
+I.~Breskin, J.~Soriano, E.~Moses, and T.~Tlusty, ``Percolation in living neural
+  networks,'' {\em Physical review letters}, vol.~97, no.~18, p.~188102, 2006.
+
+\bibitem{hensch2005critical}
+T.~K. Hensch, ``Critical period plasticity in local cortical circuits,'' {\em
+  Nature Reviews Neuroscience}, vol.~6, no.~11, pp.~877--888, 2005.
+
+\bibitem{marom2002development}
+S.~Marom and G.~Shahaf, ``Development, learning and memory in large random
+  networks of cortical neurons: lessons beyond anatomy,'' {\em Quarterly
+  reviews of biophysics}, vol.~35, no.~01, pp.~63--87, 2002.
+
+\bibitem{wagenaar2004effective}
+D.~A. Wagenaar, J.~Pine, and S.~M. Potter, ``Effective parameters for
+  stimulation of dissociated cultures using multi-electrode arrays,'' {\em
+  Journal of neuroscience methods}, vol.~138, no.~1, pp.~27--37, 2004.
+
+\bibitem{eytan2003selective}
+D.~Eytan, N.~Brenner, and S.~Marom, ``Selective adaptation in networks of
+  cortical neurons,'' {\em The Journal of neuroscience}, vol.~23, no.~28,
+  pp.~9349--9356, 2003.
+
+\bibitem{weihberger2013quantitative}
+O.~Weihberger, S.~Okujeni, J.~E. Mikkonen, and U.~Egert, ``Quantitative
+  examination of stimulus-response relations in cortical networks in vitro,''
+  {\em Journal of neurophysiology}, vol.~109, no.~7, pp.~1764--1774, 2013.
+
+\bibitem{baljon2009interaction}
+P.~L. Baljon, M.~Chiappalone, and S.~Martinoia, ``Interaction of electrically
+  evoked responses in networks of dissociated cortical neurons,'' {\em Physical
+  Review E}, vol.~80, no.~3, p.~031906, 2009.
+
+\bibitem{marom2009precarious}
+S.~Marom, R.~Meir, E.~Braun, A.~Gal, E.~Kermany, and D.~Eytan, ``On the
+  precarious path of reverse neuro-engineering,'' {\em Frontiers in
+  computational neuroscience}, vol.~3, p.~5, 2009.
+
+\bibitem{cozzi2006encoding}
+L.~Cozzi, P.~D’Angelo, and V.~Sanguineti, ``Encoding of time-varying stimuli
+  in populations of cultured neurons,'' {\em Biological cybernetics}, vol.~94,
+  no.~5, pp.~335--349, 2006.
+
+\bibitem{wagenaar2005controlling}
+D.~A. Wagenaar, R.~Madhavan, J.~Pine, and S.~M. Potter, ``Controlling bursting
+  in cortical cultures with closed-loop multi-electrode stimulation,'' {\em The
+  Journal of neuroscience}, vol.~25, no.~3, pp.~680--688, 2005.
+
+\bibitem{wagenaar2006searching}
+D.~A. Wagenaar, J.~Pine, and S.~M. Potter, ``Searching for plasticity in
+  dissociated cortical cultures on multi-electrode arrays,'' {\em Journal of
+  negative results in biomedicine}, vol.~5, no.~1, p.~1, 2006.
+
+\bibitem{kermany2010tradeoffs}
+E.~Kermany, A.~Gal, V.~Lyakhov, R.~Meir, S.~Marom, and D.~Eytan, ``Tradeoffs
+  and constraints on neural representation in networks of cortical neurons,''
+  {\em The Journal of Neuroscience}, vol.~30, no.~28, pp.~9588--9596, 2010.
+
+\bibitem{chiappalone2008network}
+M.~Chiappalone, P.~Massobrio, and S.~Martinoia, ``Network plasticity in
+  cortical assemblies,'' {\em European Journal of Neuroscience}, vol.~28,
+  no.~1, pp.~221--237, 2008.
+
+\bibitem{hamilton2015time}
+F.~Hamilton, R.~Graham, L.~Luu, and N.~Peixoto, ``Time-dependent increase in
+  network response to stimulation,'' {\em PloS one}, vol.~10, no.~11,
+  p.~e0142399, 2015.
+
+\bibitem{ruaro2005toward}
+M.~E. Ruaro, P.~Bonifazi, and V.~Torre, ``Toward the neurocomputer: image
+  processing and pattern recognition with neuronal cultures,'' {\em IEEE
+  Transactions on Biomedical Engineering}, vol.~52, no.~3, pp.~371--383, 2005.
+
+\bibitem{jimbo1999simultaneous}
+Y.~Jimbo, T.~Tateno, and H.~Robinson, ``Simultaneous induction of
+  pathway-specific potentiation and depression in networks of cortical
+  neurons,'' {\em Biophysical Journal}, vol.~76, no.~2, pp.~670--678, 1999.
+
+\bibitem{le2015repeated}
+J.~le~Feber, T.~Witteveen, T.~M. van Veenendaal, and J.~Dijkstra, ``Repeated
+  stimulation of cultured networks of rat cortical neurons induces parallel
+  memory traces,'' {\em Learning \& memory}, vol.~22, no.~12, pp.~594--603,
+  2015.
+
+\bibitem{madhavan2007plasticity}
+R.~Madhavan, Z.~C. Chao, and S.~M. Potter, ``Plasticity of recurring
+  spatiotemporal activity patterns in cortical networks,'' {\em Physical
+  biology}, vol.~4, no.~3, p.~181, 2007.
+
+\bibitem{turrigiano1999homeostatic}
+G.~G. Turrigiano, ``Homeostatic plasticity in neuronal networks: the more
+  things change, the more they stay the same,'' {\em Trends in neurosciences},
+  vol.~22, no.~5, pp.~221--227, 1999.
+
+\bibitem{vajda2008low}
+I.~Vajda, J.~Van~Pelt, P.~Wolters, M.~Chiappalone, S.~Martinoia,
+  E.~Van~Someren, and A.~Van~Ooyen, ``Low-frequency stimulation induces stable
+  transitions in stereotypical activity in cortical networks,'' {\em
+  Biophysical Journal}, vol.~94, no.~12, pp.~5028--5039, 2008.
+
+\bibitem{bakkum2008spatio}
+D.~J. Bakkum, Z.~C. Chao, and S.~M. Potter, ``Spatio-temporal electrical
+  stimuli shape behavior of an embodied cortical network in a goal-directed
+  learning task,'' {\em Journal of neural engineering}, vol.~5, no.~3, p.~310,
+  2008.
+
+\bibitem{shahaf2001learning}
+G.~Shahaf and S.~Marom, ``Learning in networks of cortical neurons,'' {\em The
+  Journal of Neuroscience}, vol.~21, no.~22, pp.~8782--8788, 2001.
+
+\bibitem{le2009slow}
+J.~le~Feber, J.~Stegenga, and W.~Rutten, ``Slow electrical stimuli affect
+  connectivity in cultured neuronal networks,'' in {\em 2009 4th International
+  IEEE/EMBS Conference on Neural Engineering}, pp.~546--549, IEEE, 2009.
+
+\bibitem{gonzalez2001dopamine}
+C.~Gonzalez-Islas and J.~J. Hablitz, ``Dopamine inhibition of evoked ipscs in
+  rat prefrontal cortex,'' {\em Journal of Neurophysiology}, vol.~86, no.~6,
+  pp.~2911--2918, 2001.
+
+\bibitem{biffi2012microfluidic}
+E.~Biffi, F.~Piraino, A.~Pedrocchi, G.~B. Fiore, G.~Ferrigno, A.~Redaelli,
+  A.~Menegon, and M.~Rasponi, ``A microfluidic platform for controlled
+  biochemical stimulation of twin neuronal networks,'' {\em Biomicrofluidics},
+  vol.~6, no.~2, p.~024106, 2012.
+
+\bibitem{pearce2005integrated}
+T.~M. Pearce, J.~A. Wilson, S.~G. Oakes, S.-Y. Chiu, and J.~C. Williams,
+  ``Integrated microelectrode array and microfluidics for temperature clamp of
+  sensory neurons in culture,'' {\em Lab on a Chip}, vol.~5, no.~1,
+  pp.~97--101, 2005.
+
+\bibitem{park2015three}
+J.~Park, B.~K. Lee, G.~S. Jeong, J.~K. Hyun, C.~J. Lee, and S.-H. Lee,
+  ``Three-dimensional brain-on-a-chip with an interstitial level of flow and
+  its application as an in vitro model of alzheimer's disease,'' {\em Lab on a
+  Chip}, vol.~15, no.~1, pp.~141--150, 2015.
+
+\bibitem{brewer1993optimized}
+G.~Brewer, J.~Torricelli, E.~Evege, and P.~Price, ``Optimized survival of
+  hippocampal neurons in b27-supplemented neurobasal™, a new serum-free
+  medium combination,'' {\em Journal of neuroscience research}, vol.~35, no.~5,
+  pp.~567--576, 1993.
+
+\bibitem{romijn1984towards}
+H.~Romijn, F.~Van~Huizen, and P.~Wolters, ``Towards an improved serum-free,
+  chemically defined medium for long-term culturing of cerebral cortex
+  tissue,'' {\em Neuroscience \& Biobehavioral Reviews}, vol.~8, no.~3,
+  pp.~301--334, 1984.
+
+\bibitem{ray1993proliferation}
+J.~Ray, D.~A. Peterson, M.~Schinstine, and F.~H. Gage, ``Proliferation,
+  differentiation, and long-term culture of primary hippocampal neurons.,''
+  {\em Proceedings of the National Academy of Sciences}, vol.~90, no.~8,
+  pp.~3602--3606, 1993.
+
+\bibitem{park2006microfluidic}
+J.~W. Park, B.~Vahidi, A.~M. Taylor, S.~W. Rhee, and N.~L. Jeon, ``Microfluidic
+  culture platform for neuroscience research,'' {\em Nature protocols}, vol.~1,
+  no.~4, pp.~2128--2136, 2006.
+
+\bibitem{park2013advances}
+J.~W. Park, H.~J. Kim, M.~W. Kang, and N.~L. Jeon, ``Advances in
+  microfluidics-based experimental methods for neuroscience research,'' {\em
+  Lab on a Chip}, vol.~13, no.~4, pp.~509--521, 2013.
+
+\bibitem{gross2007applications}
+P.~G. Gross, E.~P. Kartalov, A.~Scherer, and L.~P. Weiner, ``Applications of
+  microfluidics for neuronal studies,'' {\em Journal of the neurological
+  sciences}, vol.~252, no.~2, pp.~135--143, 2007.
+
+\bibitem{kaech2006culturing}
+S.~Kaech and G.~Banker, ``Culturing hippocampal neurons,'' {\em Nature
+  protocols}, vol.~1, no.~5, pp.~2406--2415, 2006.
+
+\bibitem{samel2007fabrication}
+B.~Samel, M.~K. Chowdhury, and G.~Stemme, ``The fabrication of microfluidic
+  structures by means of full-wafer adhesive bonding using a poly
+  (dimethylsiloxane) catalyst,'' {\em Journal of Micromechanics and
+  Microengineering}, vol.~17, no.~8, p.~1710, 2007.
+
+\bibitem{nath2010rapid}
+P.~Nath, D.~Fung, Y.~A. Kunde, A.~Zeytun, B.~Branch, and G.~Goddard, ``Rapid
+  prototyping of robust and versatile microfluidic components using adhesive
+  transfer tapes,'' {\em Lab on a Chip}, vol.~10, no.~17, pp.~2286--2291, 2010.
+
+\bibitem{banker1980trophic}
+G.~A. Banker, ``Trophic interactions between astroglial cells and hippocampal
+  neurons in culture,'' {\em Science}, vol.~209, no.~4458, pp.~809--810, 1980.
+
+\bibitem{morel2012concentration}
+M.~Morel, J.-C. Galas, M.~Dahan, and V.~Studer, ``Concentration landscape
+  generators for shear free dynamic chemical stimulation,'' {\em Lab on a
+  Chip}, vol.~12, no.~7, pp.~1340--1346, 2012.
+
+\bibitem{brewer2008neuron}
+G.~Brewer, M.~Boehler, R.~Pearson, A.~DeMaris, A.~Ide, and B.~Wheeler, ``Neuron
+  network activity scales exponentially with synapse density,'' {\em Journal of
+  neural engineering}, vol.~6, no.~1, p.~014001, 2008.
+
+\bibitem{grabrucker2009synaptogenesis}
+A.~Grabrucker, B.~Vaida, J.~Bockmann, and T.~M. Boeckers, ``Synaptogenesis of
+  hippocampal neurons in primary cell culture,'' {\em Cell and tissue
+  research}, vol.~338, no.~3, pp.~333--341, 2009.
+
+\bibitem{goyal2011neuronal}
+G.~Goyal and Y.~Nam, ``Neuronal micro-culture engineering by microchannel
+  devices of cellular scale dimensions,'' {\em Biomedical Engineering Letters},
+  vol.~1, no.~2, pp.~89--98, 2011.
+
+\bibitem{mody2004diversity}
+I.~Mody and R.~A. Pearce, ``Diversity of inhibitory neurotransmission through
+  gaba a receptors,'' {\em Trends in neurosciences}, vol.~27, no.~9,
+  pp.~569--575, 2004.
+
+\bibitem{li2007long}
+X.~Li, W.~Zhou, S.~Zeng, M.~Liu, and Q.~Luo, ``Long-term recording on
+  multi-electrode array reveals degraded inhibitory connection in neuronal
+  network development,'' {\em Biosensors and Bioelectronics}, vol.~22, no.~7,
+  pp.~1538--1543, 2007.
+
+\bibitem{clements1996transmitter}
+J.~Clements, ``Transmitter timecourse in the synaptic cleft: its role in
+  central synaptic function,'' {\em Trends in neurosciences}, vol.~19, no.~5,
+  pp.~163--171, 1996.
+
+\bibitem{sah1989tonic}
+P.~Sah, S.~Hestrin, and R.~Nicoll, ``Tonic activation of nmda receptors by
+  ambient glutamate enhances excitability of neurons,'' {\em Science},
+  vol.~246, no.~4931, pp.~815--818, 1989.
+
+\bibitem{araque1999tripartite}
+A.~Araque, V.~Parpura, R.~P. Sanzgiri, and P.~G. Haydon, ``Tripartite synapses:
+  glia, the unacknowledged partner,'' {\em Trends in neurosciences}, vol.~22,
+  no.~5, pp.~208--215, 1999.
+
+\bibitem{mittleman2008cerebellar}
+G.~Mittleman, D.~Goldowitz, D.~H. Heck, and C.~D. Blaha, ``Cerebellar
+  modulation of frontal cortex dopamine efflux in mice: relevance to autism and
+  schizophrenia,'' {\em Synapse}, vol.~62, no.~7, pp.~544--550, 2008.
+
+\bibitem{phillips2003subsecond}
+P.~E. Phillips, G.~D. Stuber, M.~L. Heien, R.~M. Wightman, and R.~M. Carelli,
+  ``Subsecond dopamine release promotes cocaine seeking,'' {\em Nature},
+  vol.~422, no.~6932, pp.~614--618, 2003.
+
+\bibitem{dankoski2015monitoring}
+E.~C. Dankoski and R.~M. Wightman, ``Monitoring serotonin signaling on a
+  subsecond time scale,'' {\em Neurobiological circuit function and computation
+  of the serotonergic and related systems}, 2015.
+
+\bibitem{trussell1993desensitization}
+L.~O. Trussell, S.~Zhang, and I.~M. Ramant, ``Desensitization of ampa receptors
+  upon multiquantal neurotransmitter release,'' {\em Neuron}, vol.~10, no.~6,
+  pp.~1185--1196, 1993.
+
+\bibitem{mayer1985action}
+M.~Mayer and G.~Westbrook, ``The action of n-methyl-d-aspartic acid on mouse
+  spinal neurones in culture.,'' {\em The Journal of Physiology}, vol.~361,
+  p.~65, 1985.
+
+\bibitem{gorelova2002mechanisms}
+N.~Gorelova, J.~K. Seamans, and C.~R. Yang, ``Mechanisms of dopamine activation
+  of fast-spiking interneurons that exert inhibition in rat prefrontal
+  cortex,'' {\em Journal of neurophysiology}, vol.~88, no.~6, pp.~3150--3166,
+  2002.
+
+\bibitem{ferron1984inhibitory}
+A.~Ferron, A.~Thierry, C.~Le~Douarin, and J.~Glowinski, ``Inhibitory influence
+  of the mesocortical dopaminergic system on spontaneous activity or excitatory
+  response induced from the thalamic mediodorsal nucleus in the rat medial
+  prefrontal cortex,'' {\em Brain research}, vol.~302, no.~2, pp.~257--265,
+  1984.
+
+\bibitem{rodgers2011tonic}
+E.~W. Rodgers, J.~J. Fu, W.-D.~C. Krenz, and D.~J. Baro, ``Tonic nanomolar
+  dopamine enables an activity-dependent phase recovery mechanism that
+  persistently alters the maximal conductance of the
+  hyperpolarization-activated current in a rhythmically active neuron,'' {\em
+  The Journal of Neuroscience}, vol.~31, no.~45, pp.~16387--16397, 2011.
+
+\bibitem{seeman1994dopamine}
+P.~Seeman and H.~H. Van~Tol, ``Dopamine receptor pharmacology,'' {\em Trends in
+  pharmacological sciences}, vol.~15, no.~7, pp.~264--270, 1994.
+
+\bibitem{richfield1989anatomical}
+E.~Richfield, J.~Penney, and A.~Young, ``Anatomical and affinity state
+  comparisons between dopamine d 1 and d 2 receptors in the rat central nervous
+  system,'' {\em Neuroscience}, vol.~30, no.~3, pp.~767--777, 1989.
+
+\bibitem{seeman1980brain}
+P.~Seeman, ``Brain dopamine receptors.,'' {\em Pharmacological Reviews},
+  vol.~32, no.~3, pp.~229--313, 1980.
+
+\bibitem{brown2011primary}
+H.~D. Brown, J.~E. McCutcheon, J.~J. Cone, M.~E. Ragozzino, and M.~F. Roitman,
+  ``Primary food reward and reward-predictive stimuli evoke different patterns
+  of phasic dopamine signaling throughout the striatum,'' {\em European journal
+  of neuroscience}, vol.~34, no.~12, pp.~1997--2006, 2011.
+
+\bibitem{squires2005microfluidics}
+T.~M. Squires and S.~R. Quake, ``Microfluidics: Fluid physics at the nanoliter
+  scale,'' {\em Reviews of modern physics}, vol.~77, no.~3, p.~977, 2005.
+
+\bibitem{decave2002shear}
+E.~D{\'e}cav{\'e}, D.~Garrivier, Y.~Br{\'e}chet, B.~Fourcade, and F.~Bruckert,
+  ``Shear flow-induced detachment kinetics of dictyostelium discoideum cells
+  from solid substrate,'' {\em Biophysical journal}, vol.~82, no.~5,
+  pp.~2383--2395, 2002.
+
+\bibitem{toh2011fluid}
+Y.-C. Toh and J.~Voldman, ``Fluid shear stress primes mouse embryonic stem
+  cells for differentiation in a self-renewing environment via heparan sulfate
+  proteoglycans transduction,'' {\em The FASEB Journal}, vol.~25, no.~4,
+  pp.~1208--1217, 2011.
+
+\bibitem{shemesh2015flow}
+J.~Shemesh, I.~Jalilian, A.~Shi, G.~H. Yeoh, M.~L.~K. Tate, and M.~E. Warkiani,
+  ``Flow-induced stress on adherent cells in microfluidic devices,'' {\em Lab
+  on a Chip}, vol.~15, no.~21, pp.~4114--4127, 2015.
+
+\bibitem{tamas2003identified}
+G.~Tam{\'a}s, A.~L{\H{o}}rincz, A.~Simon, and J.~Szabadics, ``Identified
+  sources and targets of slow inhibition in the neocortex,'' {\em Science},
+  vol.~299, no.~5614, pp.~1902--1905, 2003.
+
+\bibitem{scott2013microfluidic}
+A.~Scott, K.~Weir, C.~Easton, W.~Huynh, W.~J. Moody, and A.~Folch, ``A
+  microfluidic microelectrode array for simultaneous electrophysiology,
+  chemical stimulation, and imaging of brain slices,'' {\em Lab on a Chip},
+  vol.~13, no.~4, pp.~527--535, 2013.
+
+\end{thebibliography}

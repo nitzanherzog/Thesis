@@ -1,0 +1,21 @@
+%% Set the space above the title appropriately, for the amount of text
+%% that you have in your abstract
+\vspace*{1.5cm}
+%%\begin{center}
+
+{\Huge\textbf{List of Abbreviations}}
+%%\end{center}
+
+\vspace*{1.5cm}
+%%\normalsize
+
+\begin{longtable}{l l}
+CAD     & Computer assisted design\\
+DDW     & Double distilled water
+(EM)CCD & (Electron multiplying) charged coupled device\\
+PDMS    & Polydimethylsiloxane\\
+RPM     & Rounds per minute\\
+\end{longtable}
+
+
+

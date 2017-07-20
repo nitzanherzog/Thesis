@@ -1,0 +1,137 @@
+\chapter{Introduction}
+\label{chap:introduction}
+
+This document, and the others that accompany it, serve as a template
+and an example to how you can write your thesis using \LaTeX{}. Note that
+this is \emph{not} a guide on how to install \LaTeX{} on you PC, nor is
+it a tutorial on how to use it. Nevertheless, this template provides
+information on how to include references, images and equations. Several
+books and countless web-pages have been written on the subject; this 
+template should get you going for the specific job of writing your thesis.
+
+Here is the opening paragraph of my thesis, I've left it as-is
+because it contains several references:
+
+The work presented in this thesis is concerned with the realisation of a
+totally non-contact method of acquiring images of the interaction between
+surface acoustic waves (SAWs) and a solid material. The system uses lasers
+to generate and detect the SAWs, and has been developed from an accurate
+non-contacting laser based system for surface wave velocity measurement
+\cite{liu_vel95}. The system shall be termed the \emph{O-SAM}---an acronym
+of \emph{optical scanning acoustic microscope}--- for the duration of this
+thesis. Immediately prior to the work described in this thesis, the SAW
+excitation method used in the system had begun to evolve, to incorporate
+custom computer generated holographic zone plates \cite{matt3} to increase
+the SAW amplitude, and thus to pave the way for SAW imaging \cite{liu95}
+and methods of SAW frequency control \cite{steve1}. Much of this work is
+covered in the PhD thesis of F.  Linnane \cite{francis}.
+
+You can see from chapter1.tex how to cite references. You put the
+references into a `.bib' file in a standard format (see `example.bib').
+You then use a utility called `bibtex' to convert this information into
+beautifully-formatted text. So, in Linux, to create your document (in PDF
+format), you would enter the following commands: \\
+\texttt{pdflatex thesis \\
+bibtex thesis \\
+pdflatex thesis \\
+pdflatex thesis}
+
+You need to run pdflatex several times, so that it can work out all the 
+cross-references. This is a quirk of \LaTeX{} that you will soon get used to.
+
+	\section{Main section heading}
+
+This is where you'd introduce this main section
+
+		\subsection{This is a subsection}
+		\label{sec:first_subsection}
+
+This is where you'd go into a bit more detail. Notice in the .tex file
+we have stuck a label on this section. If you want to refer to a section
+you would say, `see section \ref{sec:first_subsection} ' (\LaTeX{} fills in
+the gaps for you).
+
+		\subsubsection{This is a subsubsection}
+
+Notice it doesn't get its own number (well technically it does, it's
+just not displayed).
+
+
+		\subsection{Example of including a figure}
+
+Now it's time for some graphics.
+
+First you'd want to introduce a figure, then include it. You would label
+the figure, and so \LaTeX{} would be able to insert the correct figure
+number when you refer to it. So, here's a snippet from my thesis:
+
+In terms of inspection of flaws in the interior of materials, the
+techniques can be broadly split into two areas: the \emph{reflection} or
+\emph{pulse-echo} technique, and the \emph{transmission} or
+\emph{pitch-catch} technique \cite{bray_nde}. These two broad areas can be
+further split into \emph{normal beam} and \emph{angle beam} techniques.  
+Figure \ref{fig:bulk_diff_techniques} illustrates schematically the
+different techniques. The insets show how the received signals relate to
+the defects present.
+
+\begin{figure}[tbp]
+\centering
+\includegraphics[width=5cm]{chapter1/figures/tux}
+
+\caption[This is a short version of the caption that will appear in 
+the List of Figures.]{This is the long version of the caption, and this
+is the version that will appear underneath your figure. You should
+describe the figure in detail here.}
+
+\label{fig:bulk_diff_techniques}
+\end{figure}
+
+We can then refer back to figure \ref{fig:bulk_diff_techniques} at a later
+date.
+
+If you use `latex' to generate your thesis, then you need to provide
+graphics in the EPS format. If you use `pdflatex' (and many Mac and Windows
+versions do) then you can use JPEG, PNG, PDF formats. In either case, just
+remove the suffix of the filename when you refer to it in the
+`includegraphics' line.
+
+Note that you can have a short caption (that appears in the list of figures)
+and a long caption that appears under your figure.
+
+		\subsection{Example of including an equation}
+
+Here's a simple equation and a text snippet copied from my thesis:
+
+Consider a signal, such that its voltage $V$ is described by:
+\begin{equation}
+V = A \cos (2 \pi f t + \phi)
+\label{eq:simp_sig}
+\end{equation}
+\noindent
+where $A$ is the amplitude, $f$ is the frequency and $\phi$ is the
+phase. Given these three pieces of information, we can calculate $V$ at
+any time $t$.
+
+Of course we labelled the equation, so we can refer back to it: see equation
+\ref{eq:simp_sig}.
+
+	\section{Further information}
+
+The \LaTeX{} Project webpage can be found at
+\texttt{http://www.latex-project.org/} and from here you can find links
+on how to download latex for your operating system of choice.
+
+For help and assistance in writing \LaTeX{} documents, see the list of
+guides at \\
+\texttt{http://www.latex-project.org/guides/} (or use Google).
+At a quick glance, the most useful one is Andrew Roberts' `Getting to
+Grip with \LaTeX{}', at \texttt{http://www.andy-roberts.net/misc/latex/} The
+section on bibliographies is definitely worth a read.
+
+The best reference book is Leslie Lamport's
+\emph{Latex: A Document Preparation System} \cite{lamport94}.
+I believe there is a copy in the University Library.
+
+Good luck with your write-up!
+
+

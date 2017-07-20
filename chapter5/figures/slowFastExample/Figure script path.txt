@@ -1,0 +1,5 @@
+H:\Slab\Matlab Scripts\App\Young old flow\Poster example fig
+
+The raw data was consulted in the case of the direct response and it seems that it indeed vanishes even in channels of very obvious spikes waveformes.
+
+The static and slow corr arrays are matched.

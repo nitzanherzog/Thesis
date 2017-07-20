@@ -1,0 +1,1770 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2016.9.6)  20 JUL 2017 11:05
+entering extended mode
+**H:/Slab/Thesis/thesis.tex
+(H:/Slab/Thesis/thesis.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+("f:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("f:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("f:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("f:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("f:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+
+("f:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("f:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("f:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("f:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("f:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(C:\Users\Nitz\AppData\Roaming\MiKTeX\2.9\tex/latex\was\gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(C:\Users\Nitz\AppData\Roaming\MiKTeX\2.9\tex/latex\wrapfig\wrapfig.sty
+\wrapoverhang=\dimen105
+\WF@size=\dimen106
+\c@WF@wrappedlines=\count89
+\WF@box=\box26
+\WF@everypar=\toks15
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\Nitz\AppData\Roaming\MiKTeX\2.9\tex/latex\tipa\tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
+
+("f:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/01/24 v2.0c Standard LaTeX package
+
+(C:\Users\Nitz\AppData\Roaming\MiKTeX\2.9\tex/latex\tipa\t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+)
+("f:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.def"
+File: ot1enc.def 2017/01/24 v2.0c Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding OT1 on input line 48.
+)))
+("f:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("f:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("f:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen107
+))
+("f:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen108
+)
+("f:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen109
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks17
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks18
+\eqnshift@=\dimen110
+\alignsep@=\dimen111
+\tagshift@=\dimen112
+\tagwidth@=\dimen113
+\totwidth@=\dimen114
+\lineht@=\dimen115
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("f:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip46
+\LTright=\skip47
+\LTpre=\skip48
+\LTpost=\skip49
+\LTchunksize=\count102
+\LTcapwidth=\dimen116
+\LT@head=\box29
+\LT@firsthead=\box30
+\LT@foot=\box31
+\LT@lastfoot=\box32
+\LT@cols=\count103
+\LT@rows=\count104
+\c@LT@tables=\count105
+\c@LT@chunks=\count106
+\LT@p@ftn=\toks21
+)
+(C:\Users\Nitz\AppData\Roaming\MiKTeX\2.9\tex/latex\textgreek\textgreek.sty
+Package: textgreek 2011/10/09 v0.7 Greek symbols in text
+Package textgreek Info: Loading the definitions for the Greek fontencoding. on 
+input line 39.
+
+(C:\Users\Nitz\AppData\Roaming\MiKTeX\2.9\tex/latex\greek-fontenc\lgrenc.def
+File: lgrenc.def 2015/12/07 v0.13.1 LGR Greek font encoding definitions
+
+(C:\Users\Nitz\AppData\Roaming\MiKTeX\2.9\tex/latex\greek-fontenc\greek-fontenc
+.def
+File: greek-fontenc.def 2015/08/04 v0.13 Common Greek font encoding definitions
+
+))
+Package textgreek Info: Loaded fontmap: {eur/*/*}{U/eur/*/*} {phv/*/*}{U/psy/*/
+*}. on input line 69.
+) ("f:\Program Files\MiKTeX 2.9\tex\latex\sidecap\sidecap.sty"
+Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
+
+("f:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\SC@BOXWD=\dimen117
+\SC@CAPWD=\dimen118
+\SC@tempdima=\dimen119
+\SC@tempdimb=\dimen120
+\c@SC@C=\count107
+\SC@BOX=\box33
+)
+("f:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("f:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+("f:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("f:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count108
+\Gm@cntv=\count109
+\c@Gm@tempcnt=\count110
+\Gm@bindingoffset=\dimen121
+\Gm@wd@mp=\dimen122
+\Gm@odd@mp=\dimen123
+\Gm@even@mp=\dimen124
+\Gm@layoutwidth=\dimen125
+\Gm@layoutheight=\dimen126
+\Gm@layouthoffset=\dimen127
+\Gm@layoutvoffset=\dimen128
+\Gm@dimlist=\toks22
+
+("f:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")) (thesis.aux
+(title.aux) (abstract.aux) (acknow.aux) (abbv.aux) (chapter1.aux) (chapter2.aux
+) (chapter3.aux) (chapter4.aux) (chapter5.aux) (chapter6.aux) (chapter7.aux)
+(appendix.aux))
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 34.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 34.
+
+(C:\Users\Nitz\AppData\Roaming\MiKTeX\2.9\tex/latex\tipa\t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 34.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 34.
+
+(C:\Users\Nitz\AppData\Roaming\MiKTeX\2.9\tex/latex\cbfonts-fd\lgrcmr.fd
+File: lgrcmr.fd 2016/03/04 v1.1 Greek European Computer Regular
+)
+LaTeX Font Info:    ... okay on input line 34.
+
+(C:\Users\Nitz\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count111
+\scratchdimen=\dimen129
+\scratchbox=\box34
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count114
+\MPscratchDim=\dimen130
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
+\everyMPtoPDFconversion=\toks24
+) ("f:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("f:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("f:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("f:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("f:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("f:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("f:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("f:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Info: Redefining \celsius on input line 34.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 34.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 34.
+Package gensymb Info: Using \Omega for \ohm on input line 34.
+
+Package gensymb Warning: Not defining \micro.
+
+("f:\Program Files\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+("f:\Program Files\MiKTeX 2.9\tex\latex\ms\everysel.sty"
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 126.
+)
+\CenteringLeftskip=\skip50
+\RaggedLeftLeftskip=\skip51
+\RaggedRightLeftskip=\skip52
+\CenteringRightskip=\skip53
+\RaggedLeftRightskip=\skip54
+\RaggedRightRightskip=\skip55
+\CenteringParfillskip=\skip56
+\RaggedLeftParfillskip=\skip57
+\RaggedRightParfillskip=\skip58
+\JustifyingParfillskip=\skip59
+\CenteringParindent=\skip60
+\RaggedLeftParindent=\skip61
+\RaggedRightParindent=\skip62
+\JustifyingParindent=\skip63
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(126.47249pt, 398.7654pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=398.7654pt
+* \textheight=700.50687pt
+* \oddsidemargin=54.2025pt
+* \evensidemargin=54.2025pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\openout2 = `title.aux'.
+
+(title.tex <UoN_logo.jpg, id=1, 414.54875pt x 122.4575pt>
+File: UoN_logo.jpg Graphic file (type jpg)
+ <use UoN_logo.jpg>
+Package pdftex.def Info: UoN_logo.jpg used on input line 5.
+(pdftex.def)             Requested size: 227.62204pt x 67.23784pt.
+
+[1
+
+
+{C:/Users/Nitz/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./UoN_logo.j
+pg>]) (thesis.toc [1
+
+
+] [2] [3])
+\tf@toc=\write3
+\openout3 = `thesis.toc'.
+
+ [4] (thesis.lof [5
+
+] [6] [7]
+Overfull \hbox (11.22159pt too wide) in paragraph at lines 83--83
+ [][] []\OT1/cmr/m/n/10 Global stim-u-la-tion re-sponse and func-tional con-nec
+-tiv-ity anal-y-sis of the dopamine 
+ []
+
+)
+\tf@lof=\write4
+\openout4 = `thesis.lof'.
+
+ [8]
+\openout2 = `abstract.aux'.
+
+ (abstract.tex [9
+
+]) [10]
+\openout2 = `acknow.aux'.
+
+ (acknow.tex) [11
+
+
+]
+\openout2 = `abbv.aux'.
+
+ (abbv.tex
+Overfull \hbox (52.17809pt too wide) in alignment at lines 12--33
+ [] [] 
+ []
+
+
+Overfull \hbox (52.17809pt too wide) in alignment at lines 33--44
+ [] [] 
+ []
+
+) [12
+
+
+]
+\openout2 = `chapter1.aux'.
+
+ (chapter1.tex
+Chapter 1.
+[13
+
+
+
+] [14] [15] [16] [17] [18] [19]
+<chapter1/figures/volTrans/volTrans.jpg, id=76, 401.3394pt x 296.7888pt>
+File: chapter1/figures/volTrans/volTrans.jpg Graphic file (type jpg)
+
+<use chapter1/figures/volTrans/volTrans.jpg>
+Package pdftex.def Info: chapter1/figures/volTrans/volTrans.jpg used on input l
+ine 46.
+(pdftex.def)             Requested size: 398.33858pt x 294.58714pt.
+ [20] [21 <./chapter1/figures/volTrans/volTrans.jpg>] [22]
+<chapter1/figures/extrinsicVolTrans/extrinsicVolTrans.jpg, id=86, 284.5029pt x 
+156.585pt>
+File: chapter1/figures/extrinsicVolTrans/extrinsicVolTrans.jpg Graphic file (ty
+pe jpg)
+ <use chapter1/figures/extrinsicVolTrans/extrinsicVolTrans.jpg>
+Package pdftex.def Info: chapter1/figures/extrinsicVolTrans/extrinsicVolTrans.j
+pg used on input line 66.
+(pdftex.def)             Requested size: 284.52756pt x 156.59894pt.
+
+[23] [24 <./chapter1/figures/extrinsicVolTrans/extrinsicVolTrans.jpg>]
+<chapter1/figures/izhiIllustration/izhiIllustration.png, id=94, 350.62994pt x 3
+86.28316pt>
+File: chapter1/figures/izhiIllustration/izhiIllustration.png Graphic file (type
+ png)
+ <use chapter1/figures/izhiIllustration/izhiIllustration.png>
+Package pdftex.def Info: chapter1/figures/izhiIllustration/izhiIllustration.png
+ used on input line 79.
+(pdftex.def)             Requested size: 341.43306pt x 376.15007pt.
+
+[25] [26 <./chapter1/figures/izhiIllustration/izhiIllustration.png>] [27]
+[28]
+<chapter1/figures/intShift/intShift.jpg, id=111, 382.42876pt x 426.75435pt>
+File: chapter1/figures/intShift/intShift.jpg Graphic file (type jpg)
+
+<use chapter1/figures/intShift/intShift.jpg>
+Package pdftex.def Info: chapter1/figures/intShift/intShift.jpg used on input l
+ine 106.
+(pdftex.def)             Requested size: 341.43306pt x 381.02788pt.
+ [29] [30 <./chapter1/figures/intShift/intShift.jpg>] [31]) [32]
+\openout2 = `chapter2.aux'.
+
+ (chapter2.tex
+Chapter 2.
+[33
+
+
+
+]
+<chapter2/figures/softLithography/softLithographyProcess.jpg, id=129, 375.4025p
+t x 263.98625pt>
+File: chapter2/figures/softLithography/softLithographyProcess.jpg Graphic file 
+(type jpg)
+
+<use chapter2/figures/softLithography/softLithographyProcess.jpg>
+Package pdftex.def Info: chapter2/figures/softLithography/softLithographyProces
+s.jpg used on input line 32.
+(pdftex.def)             Requested size: 262.77995pt x 184.78911pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+<chapter2/figures/profiles/spin_profiles.jpg, id=130, 3560.30125pt x 1782.66pt>
+File: chapter2/figures/profiles/spin_profiles.jpg Graphic file (type jpg)
+<use chapter2/figures/profiles/spin_profiles.jpg>
+Package pdftex.def Info: chapter2/figures/profiles/spin_profiles.jpg used on in
+put line 40.
+(pdftex.def)             Requested size: 398.33858pt x 199.43895pt.
+ [34]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+<chapter2/figures/mw_profile/mw_profile.jpg, id=135, 3560.30125pt x 1782.66pt>
+File: chapter2/figures/mw_profile/mw_profile.jpg Graphic file (type jpg)
+
+<use chapter2/figures/mw_profile/mw_profile.jpg>
+Package pdftex.def Info: chapter2/figures/mw_profile/mw_profile.jpg used on inp
+ut line 48.
+(pdftex.def)             Requested size: 398.33858pt x 199.43895pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+[][]
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[35 <./chapter2/figures/softLithography/softLithographyProcess.jpg>] [36 <./cha
+pter2/figures/profiles/spin_profiles.jpg>]
+<chapter2/figures/tapeBonding/tapeBonding.jpg, id=143, 439.6425pt x 270.00874pt
+>
+File: chapter2/figures/tapeBonding/tapeBonding.jpg Graphic file (type jpg)
+ <use chapter2/figures/tapeBonding/tapeBonding.jpg>
+Package pdftex.def Info: chapter2/figures/tapeBonding/tapeBonding.jpg used on i
+nput line 70.
+(pdftex.def)             Requested size: 307.74765pt x 189.00482pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[37 <./chapter2/figures/mw_profile/mw_profile.jpg>]
+<chapter2/figures/glueBonding/glueBonding.jpg, id=147, 370.38374pt x 278.03876p
+t>
+File: chapter2/figures/glueBonding/glueBonding.jpg Graphic file (type jpg)
+ <use chapter2/figures/glueBonding/glueBonding.jpg>
+Package pdftex.def Info: chapter2/figures/glueBonding/glueBonding.jpg used on i
+nput line 82.
+(pdftex.def)             Requested size: 259.26685pt x 194.6258pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[38 <./chapter2/figures/tapeBonding/tapeBonding.jpg>] [39 <./chapter2/figures/g
+lueBonding/glueBonding.jpg>] [40]
+<chapter2/figures/matchFilter/matchFilterIllustration.jpg, id=157, 3560.30125pt
+ x 2372.865pt>
+File: chapter2/figures/matchFilter/matchFilterIllustration.jpg Graphic file (ty
+pe jpg)
+ <use chapter2/figures/matchFilter/matchFilterIllustration.jpg>
+Package pdftex.def Info: chapter2/figures/matchFilter/matchFilterIllustration.j
+pg used on input line 124.
+(pdftex.def)             Requested size: 426.79134pt x 284.44186pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 124--125
+ [][] 
+ []
+
+
+<chapter2/figures/syncArtefact/syncArtefact.jpg, id=158, 3348.51pt x 4271.96pt>
+File: chapter2/figures/syncArtefact/syncArtefact.jpg Graphic file (type jpg)
+<use chapter2/figures/syncArtefact/syncArtefact.jpg>
+Package pdftex.def Info: chapter2/figures/syncArtefact/syncArtefact.jpg used on
+ input line 135.
+(pdftex.def)             Requested size: 398.33858pt x 508.18053pt.
+ [41] [42 <./chapter2/figures/matchFilter/matchFilterIllustration.jpg>]
+
+LaTeX Warning: Text page 43 contains only floats.
+
+[43 <./chapter2/figures/syncArtefact/syncArtefact.jpg>]
+<chapter2/figures/corrIllustration/corrIllustration.jpg, id=169, 3560.30125pt x
+ 4585.13pt>
+File: chapter2/figures/corrIllustration/corrIllustration.jpg Graphic file (type
+ jpg)
+ <use chapter2/figures/corrIllustration/corrIllustration.jpg>
+Package pdftex.def Info: chapter2/figures/corrIllustration/corrIllustration.jpg
+ used on input line 158.
+(pdftex.def)             Requested size: 398.33858pt x 512.97136pt.
+
+[44] [45 <./chapter2/figures/corrIllustration/corrIllustration.jpg>]
+<chapter2/figures/burstDetection/burstDetExample.jpg, id=176, 3799.19376pt x 23
+72.865pt>
+File: chapter2/figures/burstDetection/burstDetExample.jpg Graphic file (type jp
+g)
+ <use chapter2/figures/burstDetection/burstDetExample.jpg>
+Package pdftex.def Info: chapter2/figures/burstDetection/burstDetExample.jpg us
+ed on input line 173.
+(pdftex.def)             Requested size: 426.79134pt x 266.55562pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 173--174
+ [][] 
+ []
+
+[46 <./chapter2/figures/burstDetection/burstDetExample.jpg>]
+<chapter2/figures/FCDemonstration/FCDemonstration.jpg, id=180, 3560.30125pt x 1
+776.6375pt>
+File: chapter2/figures/FCDemonstration/FCDemonstration.jpg Graphic file (type j
+pg)
+ <use chapter2/figures/FCDemonstration/FCDemonstration.jpg>
+Package pdftex.def Info: chapter2/figures/FCDemonstration/FCDemonstration.jpg u
+sed on input line 189.
+(pdftex.def)             Requested size: 426.79134pt x 212.97043pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 189--190
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[47]
+<chapter2/figures/Schematics/schematics.png, id=185, 769.87625pt x 473.77pt>
+File: chapter2/figures/Schematics/schematics.png Graphic file (type png)
+
+<use chapter2/figures/Schematics/schematics.png>
+Package pdftex.def Info: chapter2/figures/Schematics/schematics.png used on inp
+ut line 208.
+(pdftex.def)             Requested size: 398.33858pt x 245.14009pt.
+ [48 <./chapter2/figures/FCDemonstration/FCDemonstration.jpg>] [49 <./chapter2/
+figures/Schematics/schematics.png>]
+<chapter2/figures/PIAssayIllustration/PIAssay.jpg, id=193, 426.6339pt x 135.385
+8pt>
+File: chapter2/figures/PIAssayIllustration/PIAssay.jpg Graphic file (type jpg)
+ <use chapter2/figures/PIAssayIllustration/PIAssay.jpg>
+Package pdftex.def Info: chapter2/figures/PIAssayIllustration/PIAssay.jpg used 
+on input line 231.
+(pdftex.def)             Requested size: 426.79134pt x 135.4371pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 231--232
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[50]) [51 <./chapter2/figures/PIAssayIllustration/PIAssay.jpg>]
+\openout2 = `chapter3.aux'.
+
+ (chapter3.tex
+Chapter 3.
+[52
+
+
+
+]
+<chapter3/figures/mouseImages/mouseImages.jpg, id=203, 426.75435pt x 421.8159pt
+>
+File: chapter3/figures/mouseImages/mouseImages.jpg Graphic file (type jpg)
+ <use chapter3/figures/mouseImages/mouseImages.jpg>
+Package pdftex.def Info: chapter3/figures/mouseImages/mouseImages.jpg used on i
+nput line 17.
+(pdftex.def)             Requested size: 426.79134pt x 421.85347pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 17--18
+ [][] 
+ []
+
+[53]
+<chapter3/figures/devExample/devActivity.jpg, id=207, 3560.30125pt x 3558.29375
+pt>
+File: chapter3/figures/devExample/devActivity.jpg Graphic file (type jpg)
+ <use chapter3/figures/devExample/devActivity.jpg>
+Package pdftex.def Info: chapter3/figures/devExample/devActivity.jpg used on in
+put line 31.
+(pdftex.def)             Requested size: 426.79134pt x 426.54247pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 31--32
+ [][] 
+ []
+
+[54 <./chapter3/figures/mouseImages/mouseImages.jpg>] [55 <./chapter3/figures/d
+evExample/devActivity.jpg>]
+<chapter3/figures/actMeasures/actMeasures.jpg, id=215, 426.75435pt x 263.66505p
+t>
+File: chapter3/figures/actMeasures/actMeasures.jpg Graphic file (type jpg)
+ <use chapter3/figures/actMeasures/actMeasures.jpg>
+Package pdftex.def Info: chapter3/figures/actMeasures/actMeasures.jpg used on i
+nput line 51.
+(pdftex.def)             Requested size: 426.79134pt x 263.68854pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 51--52
+ [][] 
+ []
+
+[56] [57 <./chapter3/figures/actMeasures/actMeasures.jpg>]
+<chapter3/figures/burstMeasures/burstMeasures.jpg, id=222, 3560.30125pt x 2264.
+46pt>
+File: chapter3/figures/burstMeasures/burstMeasures.jpg Graphic file (type jpg)
+ <use chapter3/figures/burstMeasures/burstMeasures.jpg>
+Package pdftex.def Info: chapter3/figures/burstMeasures/burstMeasures.jpg used 
+on input line 66.
+(pdftex.def)             Requested size: 426.79134pt x 271.44705pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 66--67
+ [][] 
+ []
+
+[58 <./chapter3/figures/burstMeasures/burstMeasures.jpg>] [59]
+<chapter3/figures/stimExample/stimExample.jpg, id=229, 3560.30125pt x 3557.29pt
+>
+File: chapter3/figures/stimExample/stimExample.jpg Graphic file (type jpg)
+ <use chapter3/figures/stimExample/stimExample.jpg>
+Package pdftex.def Info: chapter3/figures/stimExample/stimExample.jpg used on i
+nput line 87.
+(pdftex.def)             Requested size: 398.33858pt x 397.97952pt.
+ [60]
+
+LaTeX Warning: Text page 61 contains only floats.
+
+
+Overfull \vbox (5.4171pt too high) has occurred while \output is active []
+
+
+[61 <./chapter3/figures/stimExample/stimExample.jpg>]
+Overfull \hbox (1.0131pt too wide) in paragraph at lines 98--99
+\OT1/cmr/m/n/10 Mature neu-ronal cul-tures abide to the prin-ci-ples of spike t
+im-ing de-pen-dent plas-tic-ity (STDP),
+ []
+
+[62] [63]
+<chapter3/figures/ExpOutline/expOutlineTet.jpg, id=243, 2845.63126pt x 977.9034
+4pt>
+File: chapter3/figures/ExpOutline/expOutlineTet.jpg Graphic file (type jpg)
+ <use chapter3/figures/ExpOutline/expOutlineTet.jpg>
+Package pdftex.def Info: chapter3/figures/ExpOutline/expOutlineTet.jpg used on 
+input line 108.
+(pdftex.def)             Requested size: 426.79134pt x 146.66426pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 108--109
+ [][] 
+ []
+
+[64 <./chapter3/figures/ExpOutline/expOutlineTet.jpg>]
+<chapter3/figures/tetStimChange/tetStimChange.jpg, id=247, 3549.26pt x 3565.32p
+t>
+File: chapter3/figures/tetStimChange/tetStimChange.jpg Graphic file (type jpg)
+ <use chapter3/figures/tetStimChange/tetStimChange.jpg>
+Package pdftex.def Info: chapter3/figures/tetStimChange/tetStimChange.jpg used 
+on input line 121.
+(pdftex.def)             Requested size: 426.79134pt x 428.69038pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 121--122
+ [][] 
+ []
+
+
+<chapter3/figures/tetMapChange/tetMapChange.jpg, id=248, 3560.30125pt x 2372.86
+5pt>
+File: chapter3/figures/tetMapChange/tetMapChange.jpg Graphic file (type jpg)
+ <use chapter3/figures/tetMapChange/tetMapChange.jpg>
+Package pdftex.def Info: chapter3/figures/tetMapChange/tetMapChange.jpg used on
+ input line 131.
+(pdftex.def)             Requested size: 426.79134pt x 284.44186pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 131--132
+ [][] 
+ []
+
+
+<chapter3/figures/tetResChangeStats/tetResChangeStats.jpg, id=249, 3560.30125pt
+ x 3558.29375pt>
+File: chapter3/figures/tetResChangeStats/tetResChangeStats.jpg Graphic file (ty
+pe jpg)
+
+<use chapter3/figures/tetResChangeStats/tetResChangeStats.jpg>
+Package pdftex.def Info: chapter3/figures/tetResChangeStats/tetResChangeStats.j
+pg used on input line 140.
+(pdftex.def)             Requested size: 426.79134pt x 426.54247pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 140--141
+ [][] 
+ []
+
+[65] [66 <./chapter3/figures/tetStimChange/tetStimChange.jpg>] [67 <./chapter3/
+figures/tetMapChange/tetMapChange.jpg>]
+
+LaTeX Warning: Text page 68 contains only floats.
+
+[68 <./chapter3/figures/tetResChangeStats/tetResChangeStats.jpg>]
+<chapter3/figures/FCChangeStats/FCStats.jpg, id=263, 3560.30125pt x 2133.9725pt
+>
+File: chapter3/figures/FCChangeStats/FCStats.jpg Graphic file (type jpg)
+ <use chapter3/figures/FCChangeStats/FCStats.jpg>
+Package pdftex.def Info: chapter3/figures/FCChangeStats/FCStats.jpg used on inp
+ut line 159.
+(pdftex.def)             Requested size: 426.79134pt x 255.80516pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 159--160
+ [][] 
+ []
+
+[69]
+<chapter3/figures/mouseRatComp/ratMouseComp.jpg, id=267, 1782.66pt x 1782.66pt>
+File: chapter3/figures/mouseRatComp/ratMouseComp.jpg Graphic file (type jpg)
+<use chapter3/figures/mouseRatComp/ratMouseComp.jpg>
+Package pdftex.def Info: chapter3/figures/mouseRatComp/ratMouseComp.jpg used on
+ input line 174.
+(pdftex.def)             Requested size: 213.39566pt x 213.39314pt.
+ [70 <./chapter3/figures/FCChangeStats/FCStats.jpg>] [71 <./chapter3/figures/mo
+useRatComp/ratMouseComp.jpg>] [72]) [73]
+\openout2 = `chapter4.aux'.
+
+ (chapter4.tex
+Chapter 4.
+[74
+
+
+
+] [75] [76]
+<chapter4/figures/channelDimensions/dimensions.jpg, id=290, 417.7206pt x 178.26
+6pt>
+File: chapter4/figures/channelDimensions/dimensions.jpg Graphic file (type jpg)
+
+ <use chapter4/figures/channelDimensions/dimensions.jpg>
+Package pdftex.def Info: chapter4/figures/channelDimensions/dimensions.jpg used
+ on input line 29.
+(pdftex.def)             Requested size: 412.56496pt x 176.06497pt.
+
+Overfull \hbox (13.79956pt too wide) in paragraph at lines 29--30
+ [][] 
+ []
+
+[77 <./chapter4/figures/channelDimensions/dimensions.jpg>]
+<chapter4/figures/osmIssue/osmIssue.jpg, id=294, 407.48235pt x 348.46185pt>
+File: chapter4/figures/osmIssue/osmIssue.jpg Graphic file (type jpg)
+
+<use chapter4/figures/osmIssue/osmIssue.jpg>
+Package pdftex.def Info: chapter4/figures/osmIssue/osmIssue.jpg used on input l
+ine 41.
+(pdftex.def)             Requested size: 406.87448pt x 347.95053pt.
+
+Overfull \hbox (8.10909pt too wide) in paragraph at lines 41--42
+ [][] 
+ []
+
+
+<chapter4/figures/immersionMethod/12WellImmersion.jpg, id=295, 3276.24pt x 2457
+.18pt>
+File: chapter4/figures/immersionMethod/12WellImmersion.jpg Graphic file (type j
+pg)
+ <use chapter4/figures/immersionMethod/12WellImmersion.jpg>
+Package pdftex.def Info: chapter4/figures/immersionMethod/12WellImmersion.jpg u
+sed on input line 50.
+(pdftex.def)             Requested size: 341.43306pt x 256.0431pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+<chapter4/figures/volDensIssue/volDensIssue.jpg, id=296, 353.1594pt x 264.86955
+pt>
+File: chapter4/figures/volDensIssue/volDensIssue.jpg Graphic file (type jpg)
+ <use chapter4/figures/volDensIssue/volDensIssue.jpg>
+Package pdftex.def Info: chapter4/figures/volDensIssue/volDensIssue.jpg used on
+ input line 60.
+(pdftex.def)             Requested size: 352.814pt x 264.61021pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[78] [79 <./chapter4/figures/osmIssue/osmIssue.jpg>] [80 <./chapter4/figures/im
+mersionMethod/12WellImmersion.jpg>] [81 <./chapter4/figures/volDensIssue/volDen
+sIssue.jpg>]
+<chapter4/figures/glueBonding/glueBondingComp.jpg, id=310, 2029.5825pt x 722.7p
+t>
+File: chapter4/figures/glueBonding/glueBondingComp.jpg Graphic file (type jpg)
+ <use chapter4/figures/glueBonding/glueBondingComp.jpg>
+Package pdftex.def Info: chapter4/figures/glueBonding/glueBondingComp.jpg used 
+on input line 74.
+(pdftex.def)             Requested size: 426.79134pt x 151.96997pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 74--75
+ [][] 
+ []
+
+[82 <./chapter4/figures/glueBonding/glueBondingComp.jpg>]
+<chapter4/figures/tapeCultures/tapeCultures.jpg, id=314, 426.75435pt x 426.7543
+5pt>
+File: chapter4/figures/tapeCultures/tapeCultures.jpg Graphic file (type jpg)
+ <use chapter4/figures/tapeCultures/tapeCultures.jpg>
+Package pdftex.def Info: chapter4/figures/tapeCultures/tapeCultures.jpg used on
+ input line 86.
+(pdftex.def)             Requested size: 426.79134pt x 426.79237pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 86--87
+ [][] 
+ []
+
+[83]
+<chapter4/figures/extraction/extractionIssue.jpg, id=318, 426.75435pt x 356.772
+9pt>
+File: chapter4/figures/extraction/extractionIssue.jpg Graphic file (type jpg)
+ <use chapter4/figures/extraction/extractionIssue.jpg>
+Package pdftex.def Info: chapter4/figures/extraction/extractionIssue.jpg used o
+n input line 99.
+(pdftex.def)             Requested size: 426.79134pt x 356.80467pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 99--100
+ [][] 
+ []
+
+[84 <./chapter4/figures/tapeCultures/tapeCultures.jpg>] [85 <./chapter4/figures
+/extraction/extractionIssue.jpg>]
+<chapter4/figures/lithoMWell/lithoMWell.jpg, id=326, 247.8861pt x 154.176pt>
+File: chapter4/figures/lithoMWell/lithoMWell.jpg Graphic file (type jpg)
+
+<use chapter4/figures/lithoMWell/lithoMWell.jpg>
+Package pdftex.def Info: chapter4/figures/lithoMWell/lithoMWell.jpg used on inp
+ut line 114.
+(pdftex.def)             Requested size: 199.16928pt x 123.87967pt.
+ [86 <./chapter4/figures/lithoMWell/lithoMWell.jpg>]
+<chapter4/figures/noSupport/noSupport.jpg, id=330, 395.3169pt x 108.76636pt>
+File: chapter4/figures/noSupport/noSupport.jpg Graphic file (type jpg)
+
+<use chapter4/figures/noSupport/noSupport.jpg>
+Package pdftex.def Info: chapter4/figures/noSupport/noSupport.jpg used on input
+ line 123.
+(pdftex.def)             Requested size: 392.64812pt x 108.03252pt.
+
+<chapter4/figures/microWellsDev/microwellsDev.jpg, id=331, 390.9807pt x 325.335
+45pt>
+File: chapter4/figures/microWellsDev/microwellsDev.jpg Graphic file (type jpg)
+ <use chapter4/figures/microWellsDev/microwellsDev.jpg>
+Package pdftex.def Info: chapter4/figures/microWellsDev/microwellsDev.jpg used 
+on input line 130.
+(pdftex.def)             Requested size: 389.80266pt x 324.36165pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[87 <./chapter4/figures/noSupport/noSupport.jpg>] [88 <./chapter4/figures/micro
+WellsDev/microwellsDev.jpg>]
+<chapter4/figures/microWellsStats/mwStats.jpg, id=338, 3560.30125pt x 1782.66pt
+>
+File: chapter4/figures/microWellsStats/mwStats.jpg Graphic file (type jpg)
+ <use chapter4/figures/microWellsStats/mwStats.jpg>
+Package pdftex.def Info: chapter4/figures/microWellsStats/mwStats.jpg used on i
+nput line 143.
+(pdftex.def)             Requested size: 426.79134pt x 213.69235pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 143--144
+ [][] 
+ []
+
+[89 <./chapter4/figures/microWellsStats/mwStats.jpg>]
+<chapter4/figures/microWellsIsolation/isolationIssue.jpg, id=342, 7026.25pt x 2
+055.68pt>
+File: chapter4/figures/microWellsIsolation/isolationIssue.jpg Graphic file (typ
+e jpg)
+ <use chapter4/figures/microWellsIsolation/isolationIssue.jpg>
+Package pdftex.def Info: chapter4/figures/microWellsIsolation/isolationIssue.jp
+g used on input line 153.
+(pdftex.def)             Requested size: 426.79134pt x 124.8411pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 153--154
+ [][] 
+ []
+
+
+Overfull \hbox (2.00581pt too wide) in paragraph at lines 160--160
+[]\OT1/cmr/bx/n/14.4 Viability of neu-ronal cul-tures un-der steady mi-croflu-
+ []
+
+[90 <./chapter4/figures/microWellsIsolation/isolationIssue.jpg>]
+<chapter4/figures/degenerationExample/degenerationExample.jpg, id=347, 410.1322
+5pt x 102.74385pt>
+File: chapter4/figures/degenerationExample/degenerationExample.jpg Graphic file
+ (type jpg)
+
+<use chapter4/figures/degenerationExample/degenerationExample.jpg>
+Package pdftex.def Info: chapter4/figures/degenerationExample/degenerationExamp
+le.jpg used on input line 168.
+(pdftex.def)             Requested size: 426.79134pt x 106.91847pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 168--169
+ [][] 
+ []
+
+[91 <./chapter4/figures/degenerationExample/degenerationExample.jpg>]
+<chapter4/figures/condImpression/condImpression.jpg, id=351, 3560.30125pt x 177
+6.6375pt>
+File: chapter4/figures/condImpression/condImpression.jpg Graphic file (type jpg
+)
+ <use chapter4/figures/condImpression/condImpression.jpg>
+Package pdftex.def Info: chapter4/figures/condImpression/condImpression.jpg use
+d on input line 184.
+(pdftex.def)             Requested size: 426.79134pt x 212.97043pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 184--185
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[92]
+<chapter4/figures/condDetAnalysis/condDetAnalysis.jpg, id=355, 3560.30125pt x 3
+558.29375pt>
+File: chapter4/figures/condDetAnalysis/condDetAnalysis.jpg Graphic file (type j
+pg)
+ <use chapter4/figures/condDetAnalysis/condDetAnalysis.jpg>
+Package pdftex.def Info: chapter4/figures/condDetAnalysis/condDetAnalysis.jpg u
+sed on input line 195.
+(pdftex.def)             Requested size: 426.79134pt x 426.54247pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 195--196
+ [][] 
+ []
+
+[93 <./chapter4/figures/condImpression/condImpression.jpg>]
+<chapter4/figures/viabilityStats/viabilityStats.jpg, id=359, 3560.30125pt x 288
+6.785pt>
+File: chapter4/figures/viabilityStats/viabilityStats.jpg Graphic file (type jpg
+)
+ <use chapter4/figures/viabilityStats/viabilityStats.jpg>
+Package pdftex.def Info: chapter4/figures/viabilityStats/viabilityStats.jpg use
+d on input line 206.
+(pdftex.def)             Requested size: 426.79134pt x 346.04686pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 206--207
+ [][] 
+ []
+
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 207.
+
+("f:\Program Files\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 207.
+ [94 <./chapter4/figures/condDetAnalysis/condDetAnalysis.jpg>] [95 <./chapter4/
+figures/viabilityStats/viabilityStats.jpg>] [96]) [97]
+\openout2 = `chapter5.aux'.
+
+ (chapter5.tex
+Chapter 5.
+[98
+
+
+
+]
+<chapter5/figures/crossFlowIllustration/crossFlowIllustration.jpg, id=376, 211.
+7511pt x 91.7829pt>
+File: chapter5/figures/crossFlowIllustration/crossFlowIllustration.jpg Graphic 
+file (type jpg)
+
+<use chapter5/figures/crossFlowIllustration/crossFlowIllustration.jpg>
+Package pdftex.def Info: chapter5/figures/crossFlowIllustration/crossFlowIllust
+ration.jpg used on input line 16.
+(pdftex.def)             Requested size: 341.43306pt x 147.99283pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<chapter5/figures/crossFlowDev/culture.jpg, id=377, 426.6339pt x 426.75435pt>
+File: chapter5/figures/crossFlowDev/culture.jpg Graphic file (type jpg)
+
+<use chapter5/figures/crossFlowDev/culture.jpg>
+Package pdftex.def Info: chapter5/figures/crossFlowDev/culture.jpg used on inpu
+t line 27.
+(pdftex.def)             Requested size: 426.79134pt x 426.91609pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 27--28
+ [][] 
+ []
+
+[99] [100 <./chapter5/figures/crossFlowIllustration/crossFlowIllustration.jpg>]
+[101 <./chapter5/figures/crossFlowDev/culture.jpg>]
+<chapter5/figures/slowFastExample/slowFastExample.jpg, id=388, 427.23615pt x 37
+0.5042pt>
+File: chapter5/figures/slowFastExample/slowFastExample.jpg Graphic file (type j
+pg)
+ <use chapter5/figures/slowFastExample/slowFastExample.jpg>
+Package pdftex.def Info: chapter5/figures/slowFastExample/slowFastExample.jpg u
+sed on input line 46.
+(pdftex.def)             Requested size: 412.56496pt x 357.79436pt.
+
+Overfull \hbox (13.79956pt too wide) in paragraph at lines 46--47
+ [][] 
+ []
+
+[102]
+
+LaTeX Warning: Text page 103 contains only floats.
+
+
+Overfull \vbox (1.23193pt too high) has occurred while \output is active []
+
+
+[103 <./chapter5/figures/slowFastExample/slowFastExample.jpg>]
+<chapter5/figures/slowFastStats/slowFastStats.jpg, id=396, 427.23615pt x 386.88
+54pt>
+File: chapter5/figures/slowFastStats/slowFastStats.jpg Graphic file (type jpg)
+ <use chapter5/figures/slowFastStats/slowFastStats.jpg>
+Package pdftex.def Info: chapter5/figures/slowFastStats/slowFastStats.jpg used 
+on input line 59.
+(pdftex.def)             Requested size: 426.79134pt x 386.49483pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 59--60
+ [][] 
+ []
+
+[104]
+
+LaTeX Warning: Text page 105 contains only floats.
+
+[105 <./chapter5/figures/slowFastStats/slowFastStats.jpg>]
+<chapter5/figures/shiftedMembraneImage/shiftedMembrane.jpg, id=403, 426.75435pt
+ x 325.6968pt>
+File: chapter5/figures/shiftedMembraneImage/shiftedMembrane.jpg Graphic file (t
+ype jpg)
+ <use chapter5/figures/shiftedMembraneImage/shiftedMembrane.jpg>
+Package pdftex.def Info: chapter5/figures/shiftedMembraneImage/shiftedMembrane.
+jpg used on input line 71.
+(pdftex.def)             Requested size: 426.79134pt x 325.72581pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 71--72
+ [][] 
+ []
+
+[106 <./chapter5/figures/shiftedMembraneImage/shiftedMembrane.jpg>]
+<chapter5/figures/fastMembraneStats/fastMembraneStats.jpg, id=407, 427.23615pt 
+x 426.99525pt>
+File: chapter5/figures/fastMembraneStats/fastMembraneStats.jpg Graphic file (ty
+pe jpg)
+ <use chapter5/figures/fastMembraneStats/fastMembraneStats.jpg>
+Package pdftex.def Info: chapter5/figures/fastMembraneStats/fastMembraneStats.j
+pg used on input line 82.
+(pdftex.def)             Requested size: 426.79134pt x 426.5642pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 82--83
+ [][] 
+ []
+
+[107] [108 <./chapter5/figures/fastMembraneStats/fastMembraneStats.jpg>]
+
+LaTeX Warning: Reference `fig:crossFlow:oldOnYoungExampleRaster' on page 109 un
+defined on input line 100.
+
+
+<chapter5/figures/youngOldExample/youngOldRasterExample.jpg, id=415, 3560.30125
+pt x 3558.29375pt>
+File: chapter5/figures/youngOldExample/youngOldRasterExample.jpg Graphic file (
+type jpg)
+
+<use chapter5/figures/youngOldExample/youngOldRasterExample.jpg>
+Package pdftex.def Info: chapter5/figures/youngOldExample/youngOldRasterExample
+.jpg used on input line 104.
+(pdftex.def)             Requested size: 426.79134pt x 426.54247pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 104--105
+ [][] 
+ []
+
+[109]
+<chapter5/figures/youngOldStats/youngOldGraphs.jpg, id=419, 427.23615pt x 426.9
+9525pt>
+File: chapter5/figures/youngOldStats/youngOldGraphs.jpg Graphic file (type jpg)
+
+ <use chapter5/figures/youngOldStats/youngOldGraphs.jpg>
+Package pdftex.def Info: chapter5/figures/youngOldStats/youngOldGraphs.jpg used
+ on input line 113.
+(pdftex.def)             Requested size: 426.79134pt x 426.5642pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 113--114
+ [][] 
+ []
+
+[110 <./chapter5/figures/youngOldExample/youngOldRasterExample.jpg>] [111 <./ch
+apter5/figures/youngOldStats/youngOldGraphs.jpg>]
+<chapter5/figures/mediaChangeStats/mediaEffectStats.jpg, id=426, 427.23615pt x 
+426.99525pt>
+File: chapter5/figures/mediaChangeStats/mediaEffectStats.jpg Graphic file (type
+ jpg)
+ <use chapter5/figures/mediaChangeStats/mediaEffectStats.jpg>
+Package pdftex.def Info: chapter5/figures/mediaChangeStats/mediaEffectStats.jpg
+ used on input line 124.
+(pdftex.def)             Requested size: 426.79134pt x 426.5642pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 124--125
+ [][] 
+ []
+
+[112] [113 <./chapter5/figures/mediaChangeStats/mediaEffectStats.jpg>] [114]
+<chapter5/figures/oldOnYoung/oldOnYoung.jpg, id=437, 427.23615pt x 426.99525pt>
+File: chapter5/figures/oldOnYoung/oldOnYoung.jpg Graphic file (type jpg)
+<use chapter5/figures/oldOnYoung/oldOnYoung.jpg>
+Package pdftex.def Info: chapter5/figures/oldOnYoung/oldOnYoung.jpg used on inp
+ut line 143.
+(pdftex.def)             Requested size: 426.79134pt x 426.5642pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 143--144
+ [][] 
+ []
+
+[115 <./chapter5/figures/oldOnYoung/oldOnYoung.jpg>]
+<chapter5/figures/toneRasterExample/toneRasterExample.jpg, id=441, 3560.30125pt
+ x 2473.24pt>
+File: chapter5/figures/toneRasterExample/toneRasterExample.jpg Graphic file (ty
+pe jpg)
+ <use chapter5/figures/toneRasterExample/toneRasterExample.jpg>
+Package pdftex.def Info: chapter5/figures/toneRasterExample/toneRasterExample.j
+pg used on input line 154.
+(pdftex.def)             Requested size: 426.79134pt x 296.47409pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 154--155
+ [][] 
+ []
+
+[116 <./chapter5/figures/toneRasterExample/toneRasterExample.jpg>] [117]
+[118]
+<chapter5/figures/synapse/synapseIllustration.jpg, id=451, 142.25145pt x 169.59
+36pt>
+File: chapter5/figures/synapse/synapseIllustration.jpg Graphic file (type jpg)
+ <use chapter5/figures/synapse/synapseIllustration.jpg>
+Package pdftex.def Info: chapter5/figures/synapse/synapseIllustration.jpg used 
+on input line 172.
+(pdftex.def)             Requested size: 142.26378pt x 169.60869pt.
+ [119] [120 <./chapter5/figures/synapse/synapseIllustration.jpg>] [121]) [122]
+\openout2 = `chapter6.aux'.
+
+ (chapter6.tex
+Chapter 6.
+[123
+
+
+
+] [124]
+<chapter6/figures/circularIllustration/circularIllustration.jpg, id=471, 248.97
+015pt x 201.8742pt>
+File: chapter6/figures/circularIllustration/circularIllustration.jpg Graphic fi
+le (type jpg)
+
+<use chapter6/figures/circularIllustration/circularIllustration.jpg>
+Package pdftex.def Info: chapter6/figures/circularIllustration/circularIllustra
+tion.jpg used on input line 12.
+(pdftex.def)             Requested size: 426.79134pt x 346.05864pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 12--13
+ [][] 
+ []
+
+[125 <./chapter6/figures/circularIllustration/circularIllustration.jpg>]
+<chapter6/figures/tapeMicroculture/tapeMicroculture.jpg, id=475, 426.75435pt x 
+213.4374pt>
+File: chapter6/figures/tapeMicroculture/tapeMicroculture.jpg Graphic file (type
+ jpg)
+ <use chapter6/figures/tapeMicroculture/tapeMicroculture.jpg>
+Package pdftex.def Info: chapter6/figures/tapeMicroculture/tapeMicroculture.jpg
+ used on input line 23.
+(pdftex.def)             Requested size: 426.79134pt x 213.45639pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 23--24
+ [][] 
+ []
+
+
+<chapter6/figures/PDMSMicroculture/PDMSMicroculture.jpg, id=476, 426.75435pt x 
+137.7948pt>
+File: chapter6/figures/PDMSMicroculture/PDMSMicroculture.jpg Graphic file (type
+ jpg)
+ <use chapter6/figures/PDMSMicroculture/PDMSMicroculture.jpg>
+Package pdftex.def Info: chapter6/figures/PDMSMicroculture/PDMSMicroculture.jpg
+ used on input line 33.
+(pdftex.def)             Requested size: 426.79134pt x 137.80705pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 33--34
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[126 <./chapter6/figures/tapeMicroculture/tapeMicroculture.jpg>]
+<chapter6/figures/PDMSMicrocultureStaining/PDMSMicrocultureStaining.jpg, id=481
+, 426.75435pt x 426.75435pt>
+File: chapter6/figures/PDMSMicrocultureStaining/PDMSMicrocultureStaining.jpg Gr
+aphic file (type jpg)
+
+<use chapter6/figures/PDMSMicrocultureStaining/PDMSMicrocultureStaining.jpg>
+Package pdftex.def Info: chapter6/figures/PDMSMicrocultureStaining/PDMSMicrocul
+tureStaining.jpg used on input line 42.
+(pdftex.def)             Requested size: 426.79134pt x 426.79237pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 42--43
+ [][] 
+ []
+
+
+<chapter6/figures/clearanceDemonstration/clearanceDemonstration.jpg, id=482, 42
+6.75435pt x 426.75435pt>
+File: chapter6/figures/clearanceDemonstration/clearanceDemonstration.jpg Graphi
+c file (type jpg)
+
+<use chapter6/figures/clearanceDemonstration/clearanceDemonstration.jpg>
+Package pdftex.def Info: chapter6/figures/clearanceDemonstration/clearanceDemon
+stration.jpg used on input line 51.
+(pdftex.def)             Requested size: 426.79134pt x 426.79237pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 51--52
+ [][] 
+ []
+
+[127 <./chapter6/figures/PDMSMicroculture/PDMSMicroculture.jpg>]
+<chapter6/figures/topOfSheetSTaining/topOfSheetStaining.jpg, id=486, 412.78215p
+t x 130.5678pt>
+File: chapter6/figures/topOfSheetSTaining/topOfSheetStaining.jpg Graphic file (
+type jpg)
+
+<use chapter6/figures/topOfSheetSTaining/topOfSheetStaining.jpg>
+Package pdftex.def Info: chapter6/figures/topOfSheetSTaining/topOfSheetStaining
+.jpg used on input line 60.
+(pdftex.def)             Requested size: 426.79134pt x 135.00829pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 60--61
+ [][] 
+ []
+
+[128 <./chapter6/figures/PDMSMicrocultureStaining/PDMSMicrocultureStaining.jpg>
+] [129 <./chapter6/figures/clearanceDemonstration/clearanceDemonstration.jpg>]
+[130 <./chapter6/figures/topOfSheetSTaining/topOfSheetStaining.jpg>]
+<chapter6/figures/microcultureStimControl/microcultureStimControl.jpg, id=496, 
+3560.30125pt x 1782.66pt>
+File: chapter6/figures/microcultureStimControl/microcultureStimControl.jpg Grap
+hic file (type jpg)
+
+<use chapter6/figures/microcultureStimControl/microcultureStimControl.jpg>
+Package pdftex.def Info: chapter6/figures/microcultureStimControl/microcultureS
+timControl.jpg used on input line 75.
+(pdftex.def)             Requested size: 426.79134pt x 213.69235pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 75--76
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[131]
+<chapter6/figures/pulseSequence/pulseSequence.jpg, id=500, 426.75435pt x 136.95
+164pt>
+File: chapter6/figures/pulseSequence/pulseSequence.jpg Graphic file (type jpg)
+ <use chapter6/figures/pulseSequence/pulseSequence.jpg>
+Package pdftex.def Info: chapter6/figures/pulseSequence/pulseSequence.jpg used 
+on input line 89.
+(pdftex.def)             Requested size: 426.79134pt x 136.96382pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 89--90
+ [][] 
+ []
+
+[132 <./chapter6/figures/microcultureStimControl/microcultureStimControl.jpg>]
+<chapter6/figures/fluoAnalysis/fluoAnalysis.jpg, id=505, 3560.30125pt x 3558.29
+375pt>
+File: chapter6/figures/fluoAnalysis/fluoAnalysis.jpg Graphic file (type jpg)
+ <use chapter6/figures/fluoAnalysis/fluoAnalysis.jpg>
+Package pdftex.def Info: chapter6/figures/fluoAnalysis/fluoAnalysis.jpg used on
+ input line 98.
+(pdftex.def)             Requested size: 426.79134pt x 426.54247pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 98--99
+ [][] 
+ []
+
+[133 <./chapter6/figures/pulseSequence/pulseSequence.jpg>] [134 <./chapter6/fig
+ures/fluoAnalysis/fluoAnalysis.jpg>]
+<chapter6/figures/flowPulse/flowPulse.jpg, id=512, 3560.30125pt x 1782.66pt>
+File: chapter6/figures/flowPulse/flowPulse.jpg Graphic file (type jpg)
+
+<use chapter6/figures/flowPulse/flowPulse.jpg>
+Package pdftex.def Info: chapter6/figures/flowPulse/flowPulse.jpg used on input
+ line 109.
+(pdftex.def)             Requested size: 426.79134pt x 213.69235pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 109--110
+ [][] 
+ []
+
+
+<chapter6/figures/modelValidationIllustration/modelValidationIllustration.jpg, 
+id=513, 3043.37pt x 2992.17876pt>
+File: chapter6/figures/modelValidationIllustration/modelValidationIllustration.
+jpg Graphic file (type jpg)
+
+<use chapter6/figures/modelValidationIllustration/modelValidationIllustration.j
+pg>
+Package pdftex.def Info: chapter6/figures/modelValidationIllustration/modelVali
+dationIllustration.jpg used on input line 119.
+(pdftex.def)             Requested size: 364.19536pt x 358.0415pt.
+ [135]
+<chapter6/figures/modelValidation/modelValidation.jpg, id=517, 3560.30125pt x 1
+782.66pt>
+File: chapter6/figures/modelValidation/modelValidation.jpg Graphic file (type j
+pg)
+ <use chapter6/figures/modelValidation/modelValidation.jpg>
+Package pdftex.def Info: chapter6/figures/modelValidation/modelValidation.jpg u
+sed on input line 128.
+(pdftex.def)             Requested size: 426.79134pt x 213.69235pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 128--129
+ [][] 
+ []
+
+[136 <./chapter6/figures/flowPulse/flowPulse.jpg>] [137 <./chapter6/figures/mod
+elValidationIllustration/modelValidationIllustration.jpg>]
+<chapter6/figures/concentrationsChart/concentrationsChart.jpg, id=524, 423.3817
+4pt x 422.0568pt>
+File: chapter6/figures/concentrationsChart/concentrationsChart.jpg Graphic file
+ (type jpg)
+
+<use chapter6/figures/concentrationsChart/concentrationsChart.jpg>
+Package pdftex.def Info: chapter6/figures/concentrationsChart/concentrationsCha
+rt.jpg used on input line 139.
+(pdftex.def)             Requested size: 426.79134pt x 425.4561pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 139--140
+ [][] 
+ []
+
+[138 <./chapter6/figures/modelValidation/modelValidation.jpg>] [139 <./chapter6
+/figures/concentrationsChart/concentrationsChart.jpg>]
+<chapter6/figures/imporvedTimeScales/FlowRateDeterminedTimeScales.jpg, id=532, 
+3123.67pt x 2810.5pt>
+File: chapter6/figures/imporvedTimeScales/FlowRateDeterminedTimeScales.jpg Grap
+hic file (type jpg)
+
+<use chapter6/figures/imporvedTimeScales/FlowRateDeterminedTimeScales.jpg>
+Package pdftex.def Info: chapter6/figures/imporvedTimeScales/FlowRateDetermined
+TimeScales.jpg used on input line 153.
+(pdftex.def)             Requested size: 374.72273pt x 337.11679pt.
+
+[140] [141 <./chapter6/figures/imporvedTimeScales/FlowRateDeterminedTimeScales.
+jpg>]
+<chapter6/figures/glutamatePulses/GlutamatePulsingAvg.jpg, id=539, 3560.30125pt
+ x 1776.6375pt>
+File: chapter6/figures/glutamatePulses/GlutamatePulsingAvg.jpg Graphic file (ty
+pe jpg)
+ <use chapter6/figures/glutamatePulses/GlutamatePulsingAvg.jpg>
+Package pdftex.def Info: chapter6/figures/glutamatePulses/GlutamatePulsingAvg.j
+pg used on input line 165.
+(pdftex.def)             Requested size: 426.79134pt x 212.97043pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 165--166
+ [][] 
+ []
+
+[142 <./chapter6/figures/glutamatePulses/GlutamatePulsingAvg.jpg>]
+<chapter6/figures/ExpOutline/dopamineExpOutline1.jpg, id=543, 2845.63126pt x 14
+22.81563pt>
+File: chapter6/figures/ExpOutline/dopamineExpOutline1.jpg Graphic file (type jp
+g)
+ <use chapter6/figures/ExpOutline/dopamineExpOutline1.jpg>
+Package pdftex.def Info: chapter6/figures/ExpOutline/dopamineExpOutline1.jpg us
+ed on input line 180.
+(pdftex.def)             Requested size: 426.79134pt x 213.39142pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 180--181
+ [][] 
+ []
+
+[143 <./chapter6/figures/ExpOutline/dopamineExpOutline1.jpg>]
+<chapter6/figures/pulseTiming/dopaminePulsingPulseTiming.jpg, id=547, 1565.85pt
+ x 1758.57pt>
+File: chapter6/figures/pulseTiming/dopaminePulsingPulseTiming.jpg Graphic file 
+(type jpg)
+
+<use chapter6/figures/pulseTiming/dopaminePulsingPulseTiming.jpg>
+Package pdftex.def Info: chapter6/figures/pulseTiming/dopaminePulsingPulseTimin
+g.jpg used on input line 192.
+(pdftex.def)             Requested size: 187.78836pt x 210.88513pt.
+ [144 <./chapter6/figures/pulseTiming/dopaminePulsingPulseTiming.jpg>]
+<chapter6/figures/pulsingRasterExample/experimentRasterExample.jpg, id=552, 356
+0.30125pt x 1782.66pt>
+File: chapter6/figures/pulsingRasterExample/experimentRasterExample.jpg Graphic
+ file (type jpg)
+
+<use chapter6/figures/pulsingRasterExample/experimentRasterExample.jpg>
+Package pdftex.def Info: chapter6/figures/pulsingRasterExample/experimentRaster
+Example.jpg used on input line 205.
+(pdftex.def)             Requested size: 426.79134pt x 213.69235pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 205--206
+ [][] 
+ []
+
+[145 <./chapter6/figures/pulsingRasterExample/experimentRasterExample.jpg>]
+<chapter6/figures/pulsingChannelsExample/pulsesChannelExampleIncrease.jpg, id=5
+56, 3560.30125pt x 3558.29375pt>
+File: chapter6/figures/pulsingChannelsExample/pulsesChannelExampleIncrease.jpg 
+Graphic file (type jpg)
+
+<use chapter6/figures/pulsingChannelsExample/pulsesChannelExampleIncrease.jpg>
+Package pdftex.def Info: chapter6/figures/pulsingChannelsExample/pulsesChannelE
+xampleIncrease.jpg used on input line 214.
+(pdftex.def)             Requested size: 426.79134pt x 426.54247pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 214--215
+ [][] 
+ []
+
+
+<chapter6/figures/pulsingChannelsExample/pulsesChannelExampleDecrease.jpg, id=5
+57, 3560.30125pt x 3557.29pt>
+File: chapter6/figures/pulsingChannelsExample/pulsesChannelExampleDecrease.jpg 
+Graphic file (type jpg)
+
+<use chapter6/figures/pulsingChannelsExample/pulsesChannelExampleDecrease.jpg>
+Package pdftex.def Info: chapter6/figures/pulsingChannelsExample/pulsesChannelE
+xampleDecrease.jpg used on input line 223.
+(pdftex.def)             Requested size: 426.79134pt x 426.42215pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 223--224
+ [][] 
+ []
+
+
+<chapter6/figures/receptorSat/dopaminePulsingReceptorSat.jpg, id=558, 1746.525p
+t x 1511.6475pt>
+File: chapter6/figures/receptorSat/dopaminePulsingReceptorSat.jpg Graphic file 
+(type jpg)
+
+<use chapter6/figures/receptorSat/dopaminePulsingReceptorSat.jpg>
+Package pdftex.def Info: chapter6/figures/receptorSat/dopaminePulsingReceptorSa
+t.jpg used on input line 236.
+(pdftex.def)             Requested size: 199.16928pt x 172.37112pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[146]
+
+LaTeX Warning: Text page 147 contains only floats.
+
+[147 <./chapter6/figures/pulsingChannelsExample/pulsesChannelExampleIncrease.jp
+g>] [148 <./chapter6/figures/pulsingChannelsExample/pulsesChannelExampleDecreas
+e.jpg>]
+<chapter6/figures/FCStats/FCStats.jpg, id=568, 3560.30125pt x 3558.29375pt>
+File: chapter6/figures/FCStats/FCStats.jpg Graphic file (type jpg)
+
+<use chapter6/figures/FCStats/FCStats.jpg>
+Package pdftex.def Info: chapter6/figures/FCStats/FCStats.jpg used on input lin
+e 248.
+(pdftex.def)             Requested size: 426.79134pt x 426.54247pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 248--249
+ [][] 
+ []
+
+
+<chapter6/figures/dopamineStats/dopamineStats.jpg, id=569, 3560.30125pt x 3558.
+29375pt>
+File: chapter6/figures/dopamineStats/dopamineStats.jpg Graphic file (type jpg)
+ <use chapter6/figures/dopamineStats/dopamineStats.jpg>
+Package pdftex.def Info: chapter6/figures/dopamineStats/dopamineStats.jpg used 
+on input line 262.
+(pdftex.def)             Requested size: 426.79134pt x 426.54247pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 262--263
+ [][] 
+ []
+
+[149 <./chapter6/figures/receptorSat/dopaminePulsingReceptorSat.jpg>] [150 <./c
+hapter6/figures/FCStats/FCStats.jpg>]) [151] [152 <./chapter6/figures/dopamineS
+tats/dopamineStats.jpg>]
+\openout2 = `chapter7.aux'.
+
+ (chapter7.tex
+Chapter 7.
+[153
+
+
+
+] [154] [155] [156] [157] [158] [159] [160] [161]) [162] [163]
+\openout2 = `appendix.aux'.
+
+
+(appendix.tex
+Appendix A.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 8.
+("f:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
+
+Overfull \hbox (15.5354pt too wide) in paragraph at lines 15--32
+[][] 
+ []
+
+[164
+
+
+
+] [165]
+<chapter2/figures/Chamber/ChamberInOperation.jpg, id=624, 3276.24pt x 2457.18pt
+>
+File: chapter2/figures/Chamber/ChamberInOperation.jpg Graphic file (type jpg)
+ <use chapter2/figures/Chamber/ChamberInOperation.jpg>
+Package pdftex.def Info: chapter2/figures/Chamber/ChamberInOperation.jpg used o
+n input line 39.
+(pdftex.def)             Requested size: 426.79134pt x 320.082pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 39--40
+ [][] 
+ []
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
+(Font)              using `OT1/cmr/bx/n' instead on input line 40.
+
+<chapter2/figures/flow/3Devices.jpg, id=625, 3276.24pt x 2457.18pt>
+File: chapter2/figures/flow/3Devices.jpg Graphic file (type jpg)
+
+<use chapter2/figures/flow/3Devices.jpg>
+Package pdftex.def Info: chapter2/figures/flow/3Devices.jpg used on input line 
+47.
+(pdftex.def)             Requested size: 426.79134pt x 320.082pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 47--48
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<appendix/tissueDetachment/tissueDet.jpg, id=626, 302.8113pt x 697.6464pt>
+File: appendix/tissueDetachment/tissueDet.jpg Graphic file (type jpg)
+
+<use appendix/tissueDetachment/tissueDet.jpg>
+Package pdftex.def Info: appendix/tissueDetachment/tissueDet.jpg used on input 
+line 55.
+(pdftex.def)             Requested size: 298.75394pt x 688.36205pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/bx/sc/10 cul-tures sub-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/bx/sc/10 jected to flow
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/bx/sc/10 de-tached as a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/bx/sc/10 sin-gle sheet of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\OT1/cmr/m/it/10 in vitro \OT1/cmr/m/n/10 cul-ture,
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 sur-face and placed
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 59--59
+\OT1/cmr/m/n/10 un-der flow with a
+ []
+
+<appendix/youngOldCompare.jpg, id=627, 411.939pt x 219.219pt>
+File: appendix/youngOldCompare.jpg Graphic file (type jpg)
+
+<use appendix/youngOldCompare.jpg>
+Package pdftex.def Info: appendix/youngOldCompare.jpg used on input line 63.
+(pdftex.def)             Requested size: 412.56496pt x 219.54959pt.
+
+Overfull \hbox (13.79956pt too wide) in paragraph at lines 63--64
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+<chapter5/figures/moreOldExamples/moreOldRasterExamples.jpg, id=628, 3560.30125
+pt x 2491.3075pt>
+File: chapter5/figures/moreOldExamples/moreOldRasterExamples.jpg Graphic file (
+type jpg)
+
+<use chapter5/figures/moreOldExamples/moreOldRasterExamples.jpg>
+Package pdftex.def Info: chapter5/figures/moreOldExamples/moreOldRasterExamples
+.jpg used on input line 72.
+(pdftex.def)             Requested size: 426.79134pt x 298.6399pt.
+
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 72--73
+ [][] 
+ []
+
+) [166 <./chapter2/figures/Chamber/ChamberInOperation.jpg>] [167 <./chapter2/fi
+gures/flow/3Devices.jpg>] [168 <./appendix/tissueDetachment/tissueDet.jpg>]
+[169 <./appendix/youngOldCompare.jpg> <./chapter5/figures/moreOldExamples/moreO
+ldRasterExamples.jpg>] (thesis.bbl
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [170
+
+
+]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
+ [171] [172] [173]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [174] [175] [176]
+[177] [178] [179]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [180] [181]
+Missing character: There is no â in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+ [182] [183] [184]) [185] (thesis.aux (title.aux)
+(abstract.aux) (acknow.aux) (abbv.aux) (chapter1.aux) (chapter2.aux)
+(chapter3.aux) (chapter4.aux) (chapter5.aux) (chapter6.aux) (chapter7.aux)
+(appendix.aux))
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5803 strings out of 493334
+ 100067 string characters out of 3139256
+ 136952 words of memory out of 3000000
+ 8996 multiletter control sequences out of 15000+200000
+ 9471 words of font info for 32 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 40i,11n,26p,4393b,286s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Nitz\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cbgreek\dpi60
+0\grmn1000.pk><f:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx1
+0.pfb><f:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><f
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><f:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><f:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><f:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><f:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmmi7.pfb><f:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr10.pfb><f:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr12.pfb><f:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr17.pfb><f:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pf
+b><f:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><f:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><f:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><f:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on thesis.pdf (186 pages, 84898980 bytes).
+PDF statistics:
+ 751 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 421 words of extra memory for PDF output out of 10000 (max. 10000000)
+

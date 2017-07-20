@@ -1,0 +1,87 @@
+%% This is the master document for your thesis, and is called "thesis.tex"
+%% You shouldn't need to tinker too much with this, as all the actual 
+%% text of your thesis will be in files included by this file.
+
+%% "report" is the document class you should use to write your thesis.
+%% "10pt" and "a4paper" are options you will possibly need.
+\documentclass[10pt,a4paper]{report}
+
+\usepackage{graphicx}
+
+%% This command changes the line spacing to 1.5 lines, the minimum acceptable
+%% spacing that the Faculty of Engineering will accept.
+\renewcommand{\baselinestretch}{1.5}
+
+%% Sets up the area of text on your page
+\pagestyle{headings}
+\textwidth 15cm
+\textheight 22cm
+\oddsidemargin=1.48cm
+\evensidemargin=1.48cm
+
+\begin{document}
+
+%% The following 2 commands set the level of section numbering. Set to
+%% "2", your sections will be labelled chapter.section.subsection,
+%% e.g. "2.3.14"
+\setcounter{secnumdepth}{2}
+\setcounter{tocdepth}{2}
+
+%% Sets the format for your references, this is the IEEE style, and is
+%% stipulated in the EEE guidelines.
+\bibliographystyle{ieeetr}
+
+%% Sets up the title page.
+\pagestyle{empty}
+\thispagestyle{empty}
+%% Includes the file "title.tex"
+\include{title}
+
+%% Produces the table of contents
+\setcounter{page}{1}
+\pagestyle{plain}
+\thispagestyle{plain}
+\tableofcontents
+
+%% If you want to add a list of figures after your table of contents,
+%% include the following 4 lines. If not, comment them out.
+\newpage
+\addcontentsline{toc}{chapter}{List of Figures}   % List of Figures
+\addtocontents{toc}{\protect\vspace{-9pt}}
+\listoffigures
+
+%% Sets up the Abstract page
+\newpage
+\addcontentsline{toc}{chapter}{Abstract}
+\addtocontents{toc}{\protect\vspace{-9pt}}
+\pagestyle{plain}	
+\thispagestyle{plain}	
+%% Includes "abstract.tex"
+\include{abstract}
+
+%% Sets up the Acknowledgements page
+\addcontentsline{toc}{chapter}{Acknowledgements}
+\addtocontents{toc}{\protect\vspace{-9pt}}
+\pagestyle{plain}
+\thispagestyle{plain}
+%% Includes "acknow.tex"
+\include{acknow}
+
+\pagestyle{headings}
+
+\include{chapter1}
+%\include{chapter2}
+%\include{chapter3}
+%\include{chapter4}
+%\include{chapter5}
+%\include{chapter6}
+%\include{chapter7}
+%\include{chapter8}
+%\include{chapter9}
+\addcontentsline{toc}{chapter}{Bibliography}
+\addtocontents{toc}{\protect\vspace{-9pt}}
+
+\include{appendix}
+\bibliography{example.bib}
+
+\end{document}

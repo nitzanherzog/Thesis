@@ -1,0 +1,101 @@
+\chapter{Activity under steady microfluidic flow}
+\label{chap:activityAndFlow}
+
+\section{Introduction}
+In the previous chapter, we found that when using conditioned media for flow the cultures' viability may be extended so as to allow conducting of useful experiments. The viability assay used, however, is a crude measure of neuronal functionality and indicates that a cell has died only at late stages of apoptosis / necrosis, after the plasma membrane had been breached. This Ph.D work is concerned with how volume transmission interacts with network activity and plasticity so, in this context, electrophysiological measurements are the relevant measure of functionality. In this chapter, we used microfluidic devices bonded to commercial multi electrode arrays to monitor the network activity of the culture as it was subjected to steady flow at various flow rates and media formulations. We also explored using a semi-permeable membrane to de-couple the flow from the cells. The media formulation described in the previous chapter as `highly conditioned' was found in preliminary experiments to be inadequate for electrophysiology under flow as it gave rise to inconsistent results and generally to silencing of most of the activity. Thus, the experiments in this chapter are predominantly based on using conditioned media taken from the same culture dish (i.e., media which the particular tested culture grew in, termed `self media') and this approach was the one that finally gave usable behaviour. Nevertheless, how flowing with media from other culture dishes affects the activity was also explored.
+
+We found a strong flow rate dependent effect whereby when the flow was slow to a level where the convection was comparable to diffusion the network dynamics were preserved. For faster flow rates, a disruption to the network activity was observed consisting a partial silencing of the active MEA channels and a loss of synchronization and of the response to electrical stimulation. This disruption was present even when a semi-permeable membrane was used to de-couple the cells from the flow. Such a membrane was shown to reduce the shear underneath to negligible levels \cite{morel2012concentration} so this observation strongly suggests that the cause of the effect is a disturbance to the chemistry around the cells. An improvement in the stability of activity was provided by the use of media from older cultures but this was still inconsistent. Finally, we found that typical synchronized network dynamics were preserved in older cultures (aged over 20 days \textit{in vitro}) under fast flow but this was still strongly dependent on the source of the media (self media vs. media from younger culture).  We reason that these results indicate an interaction between the flow and intrinsic volume transmission signalling in the tissue and argue that microfluidic flow could potentially be used as a novel assay to study these poorly understood processes. Furthermore, these results highlight the important factors that need to be addressed when designing microfluidic based drug delivery systems to neuronal tissue and so further device designs for potentially improved performance are discussed. Most importantly, This study provides a protocol where network activity is preserved under rapid flow and is therefore the basis for the final microculture pulsing system presented in chapter \ref{chap:microculturePulses}.
+
+
+\section{Neuronal cultures in cross flow devices on MEAs}
+Figure \ref{fig:crossFlow:crossFlowIllustration} shows the devices used for the experiments conducted in this chapter. In contrast to the devices used for the viability study in chapter \ref{chap:devicesAndFlow}, these devices comprised multiple layers so as to allow the inclusion of the semi-permeable membrane (Whatman cyclopore, \(100 nm\) pore size, cat. no. 7060-4701). Thus they comprised a flow and cell layers which were joined either to each other or to the membrane from each side, depending on the experiment. To indicate that these devices are capable of decoupling the flow from the cells and because of the perpendicular arrangement of the flow channel in relation to the cell channel, these devices were tagged `cross flow'. Since assembly of such multi layered devices through plasma bonding is problematic and since plasma bonding of PDMS to the commercial MEAs could damage the surface and is not practical for re-use, we opted to use the tape technology (section \ref{sec:devices:bonding}). Thus prior to device placement, the MEA surfaces were treated with PEI (section \ref{sec:methods:surface}). In parallel, the device layers were cut out of the \(125 \mu m\) silicone transfer tape and aligned using a custom made alignment tool (essentially comprising two pegs holding the layers in place through alignment ports punched in distances to match the pegs). The assembled devices were oven sterilized and joined with the MEA surfaces, after these have been washed and dried from the PEI solution. The devices were manually aligned to the MEAs in such a way that the intersection area between the flow and cell channels was on top of the central electrode pads area.
+
+ \begin{figure}[h]
+       \centering
+       \includegraphics[width=15cm]{chapter5/figures/crossFlowIllustration/crossFlowIllustration.jpg}
+       \label{fig:crossFlow:crossFlowIllustration}
+  \end{figure}
+
+To seed the cross flow devices, the flow channel ports were blocked so as to prevent seeding solution from being diverted through the flow channel. The seeding volume was \(3 \mu L\) which is enough to fully saturate the cell layer (\(\approx 2 \mu L\)). The seeding density was \(7\times 10^6\frac{cells}{ml}\) which was calibrated to achieve an area density of \(\approx 1000 \frac{cells}{mm^2}\) in the central electrode pads area. Cultures seeded in such devices typically developed well for over a month. This contrasted to the standard 1-layered devices introduced in section \ref{sec:devices:protocolDev} where many of the cultures did not develop past the end of the 3\textsuperscript{rd} week. This could be attributed to the increased volume of the cross flow devices which would be associated with improved nutrient and by product circulation or to the switch to PEI surface treatment which is considered better for neuronal adhesion.
+
+
+images. discussion of plating density.
+  \begin{figure}[h]
+       \centering
+       \includegraphics[width=15cm]{chapter5/figures/crossFlowDev/culture.jpg}
+       \caption[Images of a culture growing in cross flow devices]{indicate the location of the culture}
+       \label{fig:crossFlow:crossFlowDev}
+  \end{figure}
+
+
+\section{Activity under flow for young cultures}
+        The first set of experiments were performed on cultures at ages 12-15 days \textit{in vitro} which were termed `young' cultures. This age range is similar to the one used for the viability study in section \ref{sec:devices:viability} so the results shown here probably best reflect the state of the cultures in that study. The recordings in this chapter were all performed in the presence of electrical stimulation in the form of a single test pulse delivered to a single MEA electrode every 5 seconds. The stimulating electrode and the pulse voltage amplitude were selected before the experiment so that an observable network response would be elicited by the stimulation. The reason for using stimulations is twofold: firstly, spontaneous activity is known to be inherently volatile as it probably depends on stochastic processes of intrinsic excitability and synaptic noise. Since the aim of these experiments is to identify conditions where the activity is stable we were concerned that variability associated with spontaneous activity would be confused with the destabilizing effects of flow. Thus, we argued that electrical stimulation which is more deterministic than spontaneous activity might be a more adequate basis for assessing the stability under flow. Secondly, the ability of neuronal ensembles to respond to stimulation underlies their facility for representing and transforming external information. We therefore found it is important to include a criteria where the response to stimulation would be maintained under flow.
+
+        The extracellular recordings and data analysis pipeline as well as the stimulation protocol are specified in section \ref{sec:methods:MEARecording} and have been further described in sections \ref{sec:activity:spontActivity} and \ref{sec:activity:evoked}. All the experiments described in this chapter were initiated with a 30-60 minute period of baseline recording before the sample was plugged into the flow system. When self media was used, it was withdrawn from the sample and flushed through the flow system after the baseline recording.
+
+        \subsection{Effect of flow rate}
+          \begin{figure}[h]
+            \centering
+            \includegraphics[width=15cm]{chapter5/figures/slowFastExample/slowFastExample.jpg}
+            \label{fig:crossFlow:slowFastExample}
+        \end{figure}
+
+        \begin{figure}[h]
+            \centering
+            \includegraphics[width=15cm]{chapter5/figures/slowFastStats/slowFastStats.jpg}
+            \label{fig:crossFlow:slowFastStats}
+        \end{figure}
+
+        \subsection{The microwells approach for shear reduction (optional)}
+        many figures depicting Comsol model
+        \subsection{The semi-permeable membrane approach for shear reduction}
+        \begin{figure}[h]
+            \centering
+            \includegraphics[width=15cm]{chapter5/figures/shiftedMembraneImage/shiftedMembrane.jpg}
+            \label{fig:crossFlow:shiftedMembrane}
+        \end{figure}
+
+        figure to demonstrate membrane effectiveness (at least partially). figure of effect on activity. membrane images.
+        \begin{figure}[h]
+            \centering
+            \includegraphics[width=15cm]{chapter5/figures/fastMembraneStats/fastMembraneStats.jpg}
+            \label{fig:crossFlow:fastMembraneStats}
+        \end{figure}
+            \subsubsection{The shifted membrane paradigm (optional)}
+            Figure of activity demonstrating stability over long time. Rhetorics explaining experiment aim to show survival proving that other than flow conditions are right and also prescribing a diffusion distance for which the activity isn't disturbed.
+        \subsection{Effect of old conditioned media}
+        \begin{figure}[h]
+            \centering
+            \includegraphics[width=15cm]{chapter5/figures/oldOnYoung/oldOnYoung.jpg}
+            \label{fig:crossFlow:oldOnYoungStats}
+        \end{figure}
+        \subsection{Considerations of diffusive flux}
+        comparing convective flux in slow flow to diffusive flux in fast flow and membrane. Use shifted MEA as reference. Compare to Peclet number calculations.
+\section{Activity under flow for old cultures}
+        \subsection{Effect of age under fast flow}
+        \begin{figure}[h]
+            \centering
+            \includegraphics[width=15cm]{chapter5/figures/youngOldExample/youngOldRasterExample.jpg}
+            \label{fig:crossFlow:youngOldExampleRaster}
+        \end{figure}
+        example figure. stats figure.
+        \begin{figure}[h]
+            \centering
+            \includegraphics[width=15cm]{chapter5/figures/youngOldStats/youngOldGraphs.jpg}
+            \label{fig:crossFlow:youngOldStats}
+        \end{figure}
+        \subsection{The effect of the media}
+        \begin{figure}[h]
+            \centering
+            \includegraphics[width=15cm]{chapter5/figures/mediaChangeStats/mediaEffectStats.jpg}
+            \label{fig:crossFlow:mediaChangeStats}
+        \end{figure}
+
+        \subsection{Stability of spontaneous motifs (optional)}
+        \subsection{Does flow disrupt the synaptic function?}
+        calculations
+
+\section{Putative mechanism to explain the observed results}
+        illustration
+\section{Chapter conclusion}
+
