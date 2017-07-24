@@ -11,97 +11,97 @@
 \contentsline {section}{\numberline {1.2}The MEA culture model for network activity in neuronal ensembles}{15}
 \contentsline {subsection}{\numberline {1.2.1}Measuring network spiking activity in neuronal culture}{16}
 \contentsline {subsection}{\numberline {1.2.2}Notable achievements and advantages of neuronal cultures on MEAs}{18}
-\contentsline {section}{\numberline {1.3}Volume transmission in neuronal systems}{20}
-\contentsline {subsection}{\numberline {1.3.1}Neuromodulator transmission and plasticity}{22}
+\contentsline {section}{\numberline {1.3}Volume transmission in neuronal systems}{21}
+\contentsline {subsection}{\numberline {1.3.1}Neuromodulator transmission and plasticity}{23}
 \contentsline {subsection}{\numberline {1.3.2}The Izhikevic thought experiment}{24}
-\contentsline {section}{\numberline {1.4}Proposed system and how it addresses present experimental gaps}{27}
-\contentsline {section}{\numberline {1.5}Rapid solution exchange with microfluidics}{28}
+\contentsline {section}{\numberline {1.4}Proposed system and how it addresses present experimental gaps}{28}
+\contentsline {section}{\numberline {1.5}Rapid solution exchange with microfluidics}{29}
 \contentsline {subsection}{\numberline {1.5.1}Microfluidics in neuroscience}{30}
-\contentsline {subsection}{\numberline {1.5.2}Neurons and flow}{31}
+\contentsline {subsection}{\numberline {1.5.2}Neurons and flow}{32}
 \contentsline {section}{\numberline {1.6}Ph.D objectives}{32}
-\contentsline {chapter}{\numberline {2}Methods}{33}
-\contentsline {section}{\numberline {2.1}Basic fabrication elements}{33}
-\contentsline {subsection}{\numberline {2.1.1}PDMS preparation}{33}
-\contentsline {subsection}{\numberline {2.1.2}SU-8 Embossing}{33}
-\contentsline {subsection}{\numberline {2.1.3}Soft lithography}{34}
-\contentsline {subsection}{\numberline {2.1.4}Thin film spinning}{34}
-\contentsline {subsection}{\numberline {2.1.5}PDMS extraction}{35}
-\contentsline {section}{\numberline {2.2}Bonding techniques}{36}
-\contentsline {subsection}{\numberline {2.2.1}Plasma bonding}{36}
-\contentsline {subsection}{\numberline {2.2.2}Double sided silicone tape}{37}
-\contentsline {subsection}{\numberline {2.2.3}Pre-polymer bonding}{37}
-\contentsline {section}{\numberline {2.3}Surface coating}{38}
-\contentsline {subsection}{\numberline {2.3.1}PLL coating}{38}
-\contentsline {subsection}{\numberline {2.3.2}PEI coating}{39}
-\contentsline {section}{\numberline {2.4}Seeding and maintaining of Neuronal cultures}{40}
-\contentsline {section}{\numberline {2.5}MEA recording and stimulation}{41}
-\contentsline {subsection}{\numberline {2.5.1}Spike detection and noise removal}{41}
-\contentsline {subsection}{\numberline {2.5.2}Electrical stimulation}{41}
-\contentsline {subsubsection}{\numberline {2.5.2.1}Automatic detection of responsive channels}{42}
-\contentsline {subsection}{\numberline {2.5.3}Correlation maps}{44}
-\contentsline {subsection}{\numberline {2.5.4}Burst detection}{44}
-\contentsline {subsection}{\numberline {2.5.5}Functional connectivity analysis}{46}
-\contentsline {section}{\numberline {2.6}Conditioned media production}{47}
-\contentsline {section}{\numberline {2.7}Flow experiments}{48}
-\contentsline {subsection}{\numberline {2.7.1}Viability analysis}{50}
+\contentsline {chapter}{\numberline {2}Methods}{34}
+\contentsline {section}{\numberline {2.1}Basic fabrication elements}{34}
+\contentsline {subsection}{\numberline {2.1.1}PDMS preparation}{34}
+\contentsline {subsection}{\numberline {2.1.2}SU-8 Embossing}{34}
+\contentsline {subsection}{\numberline {2.1.3}Soft lithography}{35}
+\contentsline {subsection}{\numberline {2.1.4}Thin film spinning}{35}
+\contentsline {subsection}{\numberline {2.1.5}PDMS extraction}{36}
+\contentsline {section}{\numberline {2.2}Bonding techniques}{37}
+\contentsline {subsection}{\numberline {2.2.1}Plasma bonding}{37}
+\contentsline {subsection}{\numberline {2.2.2}Double sided silicone tape}{38}
+\contentsline {subsection}{\numberline {2.2.3}Pre-polymer bonding}{38}
+\contentsline {section}{\numberline {2.3}Surface coating}{39}
+\contentsline {subsection}{\numberline {2.3.1}PLL coating}{39}
+\contentsline {subsection}{\numberline {2.3.2}PEI coating}{40}
+\contentsline {section}{\numberline {2.4}Seeding and maintaining of Neuronal cultures}{41}
+\contentsline {section}{\numberline {2.5}MEA recording and stimulation}{42}
+\contentsline {subsection}{\numberline {2.5.1}Spike detection and noise removal}{42}
+\contentsline {subsection}{\numberline {2.5.2}Electrical stimulation}{42}
+\contentsline {subsubsection}{\numberline {2.5.2.1}Automatic detection of responsive channels}{43}
+\contentsline {subsection}{\numberline {2.5.3}Correlation maps}{45}
+\contentsline {subsection}{\numberline {2.5.4}Burst detection}{45}
+\contentsline {subsection}{\numberline {2.5.5}Functional connectivity analysis}{47}
+\contentsline {section}{\numberline {2.6}Conditioned media production}{48}
+\contentsline {section}{\numberline {2.7}Flow experiments}{49}
+\contentsline {subsection}{\numberline {2.7.1}Viability analysis}{51}
 \contentsline {section}{\numberline {2.8}Immunofluorescence}{51}
-\contentsline {chapter}{\numberline {3}Establishment of a culture model for network activity in neuronal ensembles}{52}
-\contentsline {section}{\numberline {3.1}Introduction}{52}
-\contentsline {section}{\numberline {3.2}Development of spontaneous activity in Mouse cultures}{53}
-\contentsline {subsection}{\numberline {3.2.1}Statistics of activity and synchronicity measures}{56}
-\contentsline {section}{\numberline {3.3}Evoked activity}{60}
-\contentsline {section}{\numberline {3.4}Plasticity induction in the presence of dopamine}{62}
-\contentsline {subsection}{\numberline {3.4.1}Examining changes in response to stimulation}{65}
-\contentsline {subsection}{\numberline {3.4.2}Examining changes in functional connectivity}{69}
-\contentsline {subsection}{\numberline {3.4.3}Comparison between mouse and rat cultures}{69}
-\contentsline {section}{\numberline {3.5}Chapter conclusion}{72}
-\contentsline {chapter}{\numberline {4}Viability of neuronal cultures in microfluidic devices in static conditions and under steady flow}{74}
-\contentsline {section}{\numberline {4.1}Introduction}{74}
-\contentsline {section}{\numberline {4.2}Long term neuronal cultures in microfluidic devices}{76}
-\contentsline {subsection}{\numberline {4.2.1}Development of protocol}{76}
-\contentsline {subsubsection}{\numberline {4.2.1.1}Evaporation and surface chemistry considerations}{77}
-\contentsline {subsubsection}{\numberline {4.2.1.2}Considerations of factor circulation}{78}
-\contentsline {subsubsection}{\numberline {4.2.1.3}Alternative bonding methods}{82}
-\contentsline {subsubsection}{\numberline {4.2.1.4}Extraction of PDMS}{83}
-\contentsline {subsection}{\numberline {4.2.2}Growing microcultures in plasma bonded devices}{86}
-\contentsline {section}{\numberline {4.3}Viability of neuronal cultures under steady microfluidic flow}{90}
-\contentsline {subsection}{\numberline {4.3.1}Pilot flow study}{90}
-\contentsline {subsection}{\numberline {4.3.2}Quantitative viability analysis}{92}
-\contentsline {section}{\numberline {4.4}Chapter conclusion}{96}
-\contentsline {chapter}{\numberline {5}Neuronal activity under steady microfluidic flow}{98}
-\contentsline {section}{\numberline {5.1}Introduction}{98}
-\contentsline {section}{\numberline {5.2}Neuronal cultures in cross flow devices on MEAs}{98}
-\contentsline {section}{\numberline {5.3}Activity under flow for 2 weeks old cultures}{100}
-\contentsline {subsection}{\numberline {5.3.1}Effect of flow rate}{101}
-\contentsline {subsection}{\numberline {5.3.2}Using a semi-permeable membrane for shear reduction}{104}
-\contentsline {subsection}{\numberline {5.3.3}Considerations of diffusive flux}{107}
-\contentsline {section}{\numberline {5.4}Activity under flow for 3 weeks old cultures}{109}
-\contentsline {subsection}{\numberline {5.4.1}The effect of the media source}{111}
-\contentsline {subsection}{\numberline {5.4.2}How 3 weeks old conditioned media performs on 2 weeks old cultures}{114}
-\contentsline {section}{\numberline {5.5}Interpretation of the activity under flow results}{116}
-\contentsline {section}{\numberline {5.6}Chapter conclusion}{121}
-\contentsline {chapter}{\numberline {6}Rapid programmatic agonist delivery to a neuronal microculture}{123}
-\contentsline {section}{\numberline {6.1}Introduction}{123}
-\contentsline {section}{\numberline {6.2}Fabrication and establishment of long term neuronal microcultures}{124}
-\contentsline {subsection}{\numberline {6.2.1}PEI-then-all-tape devices}{125}
-\contentsline {subsection}{\numberline {6.2.2}PEI-then-PDMS-tape device}{126}
-\contentsline {subsection}{\numberline {6.2.3}Network activity in microcultures}{129}
-\contentsline {section}{\numberline {6.3}Pulsing performance in microculture devices}{131}
-\contentsline {subsection}{\numberline {6.3.1}Analysis of pulsing visualized by fluorescein}{132}
-\contentsline {subsection}{\numberline {6.3.2}Numerical simulation of drug pulsing}{134}
-\contentsline {subsection}{\numberline {6.3.3}Shortening of the transient time scales by changing microfluidic parameters}{139}
-\contentsline {section}{\numberline {6.4}Glutamate pulsing}{140}
-\contentsline {section}{\numberline {6.5}Dopamine pulsing}{143}
-\contentsline {section}{\numberline {6.6}Chapter conclusion}{151}
-\contentsline {chapter}{\numberline {7}Summary and discussion}{153}
-\contentsline {section}{\numberline {7.1}Establishment of a neuronal culture on MEAs based model}{153}
-\contentsline {section}{\numberline {7.2}Establishment of a microfluidics based neuronal culture system}{155}
-\contentsline {section}{\numberline {7.3}Activity under flow}{157}
-\contentsline {subsection}{\numberline {7.3.1}The state of the system under rapid flow}{158}
-\contentsline {section}{\numberline {7.4}The phasic neuromodulation model}{160}
-\contentsline {subsection}{\numberline {7.4.1}Future use of the model and concluding remarks}{162}
-\contentsline {chapter}{\numberline {A}Appendix}{164}
-\contentsline {section}{\numberline {A.1}Parameters of Comsol model}{164}
-\contentsline {section}{\numberline {A.2}Supplementary images and figures}{166}
-\contentsline {chapter}{Bibliography}{164}
+\contentsline {chapter}{\numberline {3}Establishment of a culture model for network activity in neuronal ensembles}{53}
+\contentsline {section}{\numberline {3.1}Introduction}{53}
+\contentsline {section}{\numberline {3.2}Development of spontaneous activity in Mouse cultures}{54}
+\contentsline {subsection}{\numberline {3.2.1}Statistics of activity and synchronicity measures}{57}
+\contentsline {section}{\numberline {3.3}Evoked activity}{61}
+\contentsline {section}{\numberline {3.4}Plasticity induction in the presence of dopamine}{63}
+\contentsline {subsection}{\numberline {3.4.1}Examining changes in response to stimulation}{66}
+\contentsline {subsection}{\numberline {3.4.2}Examining changes in functional connectivity}{70}
+\contentsline {subsection}{\numberline {3.4.3}Comparison between mouse and rat cultures}{70}
+\contentsline {section}{\numberline {3.5}Chapter conclusion}{73}
+\contentsline {chapter}{\numberline {4}Viability of neuronal cultures in microfluidic devices in static conditions and under steady flow}{75}
+\contentsline {section}{\numberline {4.1}Introduction}{75}
+\contentsline {section}{\numberline {4.2}Long term neuronal cultures in microfluidic devices}{77}
+\contentsline {subsection}{\numberline {4.2.1}Development of protocol}{77}
+\contentsline {subsubsection}{\numberline {4.2.1.1}Evaporation and surface chemistry considerations}{78}
+\contentsline {subsubsection}{\numberline {4.2.1.2}Considerations of factor circulation}{79}
+\contentsline {subsubsection}{\numberline {4.2.1.3}Alternative bonding methods}{83}
+\contentsline {subsubsection}{\numberline {4.2.1.4}Extraction of PDMS}{84}
+\contentsline {subsection}{\numberline {4.2.2}Growing microcultures in plasma bonded devices}{87}
+\contentsline {section}{\numberline {4.3}Viability of neuronal cultures under steady microfluidic flow}{91}
+\contentsline {subsection}{\numberline {4.3.1}Pilot flow study}{91}
+\contentsline {subsection}{\numberline {4.3.2}Quantitative viability analysis}{93}
+\contentsline {section}{\numberline {4.4}Chapter conclusion}{97}
+\contentsline {chapter}{\numberline {5}Neuronal activity under steady microfluidic flow}{99}
+\contentsline {section}{\numberline {5.1}Introduction}{99}
+\contentsline {section}{\numberline {5.2}Neuronal cultures in cross flow devices on MEAs}{99}
+\contentsline {section}{\numberline {5.3}Activity under flow for 2 weeks old cultures}{101}
+\contentsline {subsection}{\numberline {5.3.1}Effect of flow rate}{102}
+\contentsline {subsection}{\numberline {5.3.2}Using a semi-permeable membrane for shear reduction}{105}
+\contentsline {subsection}{\numberline {5.3.3}Considerations of diffusive flux}{108}
+\contentsline {section}{\numberline {5.4}Activity under flow for 3 weeks old cultures}{110}
+\contentsline {subsection}{\numberline {5.4.1}The effect of the media source}{112}
+\contentsline {subsection}{\numberline {5.4.2}How 3 weeks old conditioned media performs on 2 weeks old cultures}{115}
+\contentsline {section}{\numberline {5.5}Interpretation of the activity under flow results}{117}
+\contentsline {section}{\numberline {5.6}Chapter conclusion}{122}
+\contentsline {chapter}{\numberline {6}Rapid programmatic agonist delivery to a neuronal microculture}{124}
+\contentsline {section}{\numberline {6.1}Introduction}{124}
+\contentsline {section}{\numberline {6.2}Fabrication and establishment of long term neuronal microcultures}{125}
+\contentsline {subsection}{\numberline {6.2.1}PEI-then-all-tape devices}{126}
+\contentsline {subsection}{\numberline {6.2.2}PEI-then-PDMS-tape device}{127}
+\contentsline {subsection}{\numberline {6.2.3}Network activity in microcultures}{130}
+\contentsline {section}{\numberline {6.3}Pulsing performance in microculture devices}{132}
+\contentsline {subsection}{\numberline {6.3.1}Analysis of pulsing visualized by fluorescein}{133}
+\contentsline {subsection}{\numberline {6.3.2}Numerical simulation of drug pulsing}{135}
+\contentsline {subsection}{\numberline {6.3.3}Shortening of the transient time scales by changing microfluidic parameters}{140}
+\contentsline {section}{\numberline {6.4}Glutamate pulsing}{141}
+\contentsline {section}{\numberline {6.5}Dopamine pulsing}{144}
+\contentsline {section}{\numberline {6.6}Chapter conclusion}{152}
+\contentsline {chapter}{\numberline {7}Summary and discussion}{154}
+\contentsline {section}{\numberline {7.1}Establishment of a neuronal culture on MEAs based model}{154}
+\contentsline {section}{\numberline {7.2}Establishment of a microfluidics based neuronal culture system}{156}
+\contentsline {section}{\numberline {7.3}Activity under flow}{158}
+\contentsline {subsection}{\numberline {7.3.1}The state of the system under rapid flow}{159}
+\contentsline {section}{\numberline {7.4}The phasic neuromodulation model}{161}
+\contentsline {subsection}{\numberline {7.4.1}Future use of the model and concluding remarks}{163}
+\contentsline {chapter}{\numberline {A}Appendix}{165}
+\contentsline {section}{\numberline {A.1}Parameters of Comsol model}{165}
+\contentsline {section}{\numberline {A.2}Supplementary images and figures}{167}
+\contentsline {chapter}{Bibliography}{165}
 \vspace {-9pt}

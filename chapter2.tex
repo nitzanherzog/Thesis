@@ -38,7 +38,7 @@
         To generate thin films of PMDS, the mixed pre-polymers were poured onto the central third of either a 3 inch (\(76.2mm\)) silicon wafer or a \(80\times 80 mm^{2}\) glass slide and processed on a spin-coater (SPS Europe Spin 150), with film thickness determined by spin RPM and time. The substrate with the pre-polymer film was then transferred to a hotplate at 100\degree C and baked for 5 minutes, to harden the PDMS film and heat the substrate. Next, we applied a grid of thick PDMS strips to the top of the thin film. Due to the high temperature of the substrate the PDMS strips did not spread and hardened immediately thus forming think tabs around rectangular PDMS sheets which were cut out and used as the microwell layer in specific device designs. The thick tabs were required because the thin film cannot be handled unsupported. After application of the strips the substrate was left at 100\degree C for at least 30 minutes. The glass slides were used as the substrate when the features in the PDMS sheet were manually excised because a printout of the geometry placed underneath for reference could be observed. This was the case for the devices used in chapter \ref{chap:microculturePulses}. We used 2 spin speeds with the glass slides, 700 and 1000 RPM, applied for 30 seconds. These speeds resulted in film thicknesses of \(118\pm 21\) or \(79\pm 9\mu m\), respectively (figure \ref{fig:methods:profiles}).
         \begin{figure}[h]
             \includegraphics[width=14cm]{chapter2/figures/profiles/spin_profiles.jpg}
-            
+
             \caption[Profiling of PDMS thin film thicknesses]{\textbf{Profiles showing the thin film thickness obtained using the 2 spin speeds in use.} Measurements were made with a micro-tip profiler and show the step between a stretch of exposed substrate and the thin film. Solid lines show the mean across measured samples and shaded areas represent the standard deviation. Dashed lines show the mean of a step function fit which was applied to each of the measurements. Data is based on n=4 and 3 samples for 700 and 1000 RPM, respectively.}
             \label{fig:methods:profiles}
         \end{figure}
@@ -150,16 +150,14 @@ In some cases, the stimulation response data was presented in the form of a resp
 
 
 \subsection{Correlation maps}
-To produce correlation maps, i.e., a correlation matrix, channel rasters at \(1ms\) binning were convolved with a gaussian kernel of width \(\sigma=100ms\). The correlation between pair of channels was simply defined as the Pearson correlation coefficient between the respective gaussian smoothed rasters. In some cases, a surrogate correlation map was computed based on the same data but where all the channel rasters were with replaced by independent poisson processes with the same firing rate as in the respective channels (i.e., \(\lambda\) set to be the original channel firing rate). This procedure is illustrated in figure \ref{fig:methods:corrIllustration}.
+To produce correlation maps, i.e., a correlation matrix, channel rasters at \(1ms\) binning were convolved with a gaussian kernel of width \(\sigma=100ms\). The correlation between pair of channels was simply defined as the Pearson correlation coefficient between the respective gaussian smoothed rasters. In some cases, a surrogate correlation map was computed based on the same data but where all the channel rasters were replaced by independent poisson processes with the same firing rate as in the respective channels (i.e., \(\lambda\) set to be the original channel firing rate). This procedure is illustrated in figure \ref{fig:methods:corrIllustration}.
 
 \label{sec:methods:corrMaps}
 \begin{figure}[!htb]
     \centering
     \includegraphics[width=14cm]{chapter2/figures/corrIllustration/corrIllustration.jpg}
     \caption[Computation of correlation maps]{\textbf{Comparison to surrogate maps based on independent poisson raster with firing rates as in the original data highlight the correlations in the data.} (A-B) Channel raster plots and their summation at \(0.6s\) binning. (C) Gaussian smoothed raster plot for 3 channels from the recording shown in A-B. Surrogate smoothed raster plots are shown for the same channels in dotted lines with same color coding. Evidently, the original data is significantly more correlated. (D) Correlation maps for original data (left) and surrogate (right).}
-
     \label{fig:methods:corrIllustration}
-
 \end{figure}
 \subsection{Burst detection}
 Bursts are usually detected by applying a threshold to the firing rate plot. In contrast to previous attempts \cite{wagenaar2006extremely,chiappalone2005burst} where the threshold was somewhat arbitrary, we have devised a method to select an informed threshold value that would reflect whether the channels are synchronized or independent. To obtain such a threshold for a given recording we generated surrogate channel raster plots where the spike times were randomly drawn from a Poisson process with a rate parameter (\(\lambda\)) set to be the firing rate of the corresponding channel in the original data. These surrogate raster plots were summated, smoothed with a gaussian kernel with \(\sigma=70ms\) and the threshold was set to be 5 standard deviations above the mean of the resultant signal. Thus, all peaks above this threshold in the smoothed raster plot sum in the original data were defined to be bursts. Bursts that were closer than \(100ms\) were grouped into one whose time was taken to that of the highest peak.
@@ -173,7 +171,6 @@ The next stage of the analysis was to find burst limits (start and end). This pr
             \includegraphics[width=15cm]{chapter2/figures/burstDetection/burstDetExample.jpg}
             \caption[Examples of burst detection output]{\textbf{The burst detection algorithm is sensitive to a range of synchronized burst scales.} Raster plots and their sum from a single cortical mouse culture at different developmental stages are shown. Also shown are derived curves used for the burst detection procedure and the outputs of the algorithm (i.e., burst peak, start and end points). See text for further details.}
             \label{fig:methods:burstDet}
-
           \end{figure}
 
 \subsection{Functional connectivity analysis}

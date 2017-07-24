@@ -16,6 +16,10 @@
 \usepackage{textgreek}
 \usepackage{sidecap}
 
+\usepackage{caption}
+% the following format will be used to emulate the captions produced by fltpage
+\DeclareCaptionLabelFormat{adja-page}{\hrulefill\\#1 #2 \emph{(previous page)}}
+
 
 %% This command changes the line spacing to 1.5 lines, the minimum acceptable
 %% spacing that the Faculty of Engineering will accept.
