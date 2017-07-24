@@ -1,20 +1,5 @@
 \begin{thebibliography}{100}
 
-\bibitem{fong2015upward}
-M.-f. Fong, J.~P. Newman, S.~M. Potter, and P.~Wenner, ``Upward synaptic
-  scaling is dependent on neurotransmission rather than spiking,'' {\em Nature
-  communications}, vol.~6, 2015.
-
-\bibitem{gal2013entrainment}
-A.~Gal and S.~Marom, ``Entrainment of the intrinsic dynamics of single isolated
-  neurons by natural-like input,'' {\em The Journal of neuroscience}, vol.~33,
-  no.~18, pp.~7912--7918, 2013.
-
-\bibitem{penn2016network}
-Y.~Penn, M.~Segal, and E.~Moses, ``Network synchronization in hippocampal
-  neurons,'' {\em Proceedings of the National Academy of Sciences}, vol.~113,
-  no.~12, pp.~3341--3346, 2016.
-
 \bibitem{hameroff2014consciousness}
 S.~Hameroff and R.~Penrose, ``Consciousness in the universe: A review of the
   ‘orch or’ theory,'' {\em Physics of life reviews}, vol.~11, no.~1,
@@ -192,9 +177,19 @@ J.~van Pelt, P.~S. Wolters, M.~A. Corner, W.~L. Rutten, and G.~J. Ramakers,
 T.~K. Hensch, ``Critical period regulation,'' {\em Annu. Rev. Neurosci.},
   vol.~27, pp.~549--579, 2004.
 
+\bibitem{fong2015upward}
+M.-f. Fong, J.~P. Newman, S.~M. Potter, and P.~Wenner, ``Upward synaptic
+  scaling is dependent on neurotransmission rather than spiking,'' {\em Nature
+  communications}, vol.~6, 2015.
+
 \bibitem{mainen1995reliability}
 Z.~F. Mainen and T.~J. Sejnowski, ``Reliability of spike timing in neocortical
   neurons,'' {\em Science}, vol.~268, no.~5216, p.~1503, 1995.
+
+\bibitem{gal2013entrainment}
+A.~Gal and S.~Marom, ``Entrainment of the intrinsic dynamics of single isolated
+  neurons by natural-like input,'' {\em The Journal of neuroscience}, vol.~33,
+  no.~18, pp.~7912--7918, 2013.
 
 \bibitem{gal2010dynamics}
 A.~Gal, D.~Eytan, A.~Wallach, M.~Sandler, J.~Schiller, and S.~Marom, ``Dynamics
@@ -205,6 +200,11 @@ A.~Gal, D.~Eytan, A.~Wallach, M.~Sandler, J.~Schiller, and S.~Marom, ``Dynamics
 S.~Reinartz, I.~Biro, A.~Gal, M.~Giugliano, and S.~Marom, ``Synaptic dynamics
   contribute to long-term single neuron response fluctuations,'' {\em Frontiers
   in neural circuits}, vol.~8, p.~71, 2014.
+
+\bibitem{penn2016network}
+Y.~Penn, M.~Segal, and E.~Moses, ``Network synchronization in hippocampal
+  neurons,'' {\em Proceedings of the National Academy of Sciences}, vol.~113,
+  no.~12, pp.~3341--3346, 2016.
 
 \bibitem{levy2012enhancement}
 O.~Levy, N.~E. Ziv, and S.~Marom, ``Enhancement of neural representation

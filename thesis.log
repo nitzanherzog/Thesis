@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2016.9.6)  24 JUL 2017 15:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2016.9.6)  24 JUL 2017 16:13
 entering extended mode
 **H:/Slab/Thesis/thesis.tex
 (H:/Slab/Thesis/thesis.tex
@@ -470,46 +470,54 @@ sed on input line 38.
 (pdftex.def)             Requested size: 398.33858pt x 331.15128pt.
  [19 <./chapter1/figures/MEAAchievements/MEAAchievements.png>] [20
 
-] [21] [22] [23]
-<chapter1/figures/extrinsicVolTrans/extrinsicVolTrans.jpg, id=91, 284.5029pt x 
+] [21]
+<chapter1/figures/volTrans/volTrans.jpg, id=85, 401.3394pt x 296.7888pt>
+File: chapter1/figures/volTrans/volTrans.jpg Graphic file (type jpg)
+
+<use chapter1/figures/volTrans/volTrans.jpg>
+Package pdftex.def Info: chapter1/figures/volTrans/volTrans.jpg used on input l
+ine 69.
+(pdftex.def)             Requested size: 398.33858pt x 294.58714pt.
+ [22 <./chapter1/figures/volTrans/volTrans.jpg>] [23] [24]
+<chapter1/figures/extrinsicVolTrans/extrinsicVolTrans.jpg, id=96, 284.5029pt x 
 156.585pt>
 File: chapter1/figures/extrinsicVolTrans/extrinsicVolTrans.jpg Graphic file (ty
 pe jpg)
  <use chapter1/figures/extrinsicVolTrans/extrinsicVolTrans.jpg>
 Package pdftex.def Info: chapter1/figures/extrinsicVolTrans/extrinsicVolTrans.j
-pg used on input line 78.
+pg used on input line 89.
 (pdftex.def)             Requested size: 284.52756pt x 156.59894pt.
 
-[24] [25 <./chapter1/figures/extrinsicVolTrans/extrinsicVolTrans.jpg>]
-<chapter1/figures/izhiIllustration/izhiIllustration.png, id=99, 350.62994pt x 3
-86.28316pt>
+[25 <./chapter1/figures/extrinsicVolTrans/extrinsicVolTrans.jpg>] [26]
+<chapter1/figures/izhiIllustration/izhiIllustration.png, id=103, 350.62994pt x 
+386.28316pt>
 File: chapter1/figures/izhiIllustration/izhiIllustration.png Graphic file (type
  png)
  <use chapter1/figures/izhiIllustration/izhiIllustration.png>
 Package pdftex.def Info: chapter1/figures/izhiIllustration/izhiIllustration.png
- used on input line 91.
+ used on input line 102.
 (pdftex.def)             Requested size: 341.43306pt x 376.15007pt.
 
-[26] [27 <./chapter1/figures/izhiIllustration/izhiIllustration.png>] [28]
-[29]
-<chapter1/figures/intShift/intShift.jpg, id=115, 382.42876pt x 426.75435pt>
+[27] [28 <./chapter1/figures/izhiIllustration/izhiIllustration.png>] [29]
+[30]
+<chapter1/figures/intShift/intShift.jpg, id=120, 382.42876pt x 426.75435pt>
 File: chapter1/figures/intShift/intShift.jpg Graphic file (type jpg)
 
 <use chapter1/figures/intShift/intShift.jpg>
 Package pdftex.def Info: chapter1/figures/intShift/intShift.jpg used on input l
-ine 118.
+ine 129.
 (pdftex.def)             Requested size: 341.43306pt x 381.02788pt.
- [30] [31 <./chapter1/figures/intShift/intShift.jpg>] [32]) [33]
+ [31] [32 <./chapter1/figures/intShift/intShift.jpg>] [33]) [34]
 \openout2 = `chapter2.aux'.
 
  (chapter2.tex
 Chapter 2.
-[34
+[35
 
 
 
 ]
-<chapter2/figures/softLithography/softLithographyProcess.jpg, id=133, 375.4025p
+<chapter2/figures/softLithography/softLithographyProcess.jpg, id=137, 375.4025p
 t x 263.98625pt>
 File: chapter2/figures/softLithography/softLithographyProcess.jpg Graphic file 
 (type jpg)
@@ -523,7 +531,7 @@ s.jpg used on input line 32.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<chapter2/figures/profiles/spin_profiles.jpg, id=134, 3560.30125pt x 1782.66pt>
+<chapter2/figures/profiles/spin_profiles.jpg, id=138, 3560.30125pt x 1782.66pt>
 File: chapter2/figures/profiles/spin_profiles.jpg Graphic file (type jpg)
 <use chapter2/figures/profiles/spin_profiles.jpg>
 Package pdftex.def Info: chapter2/figures/profiles/spin_profiles.jpg used on in
@@ -535,15 +543,15 @@ Package caption Warning: \label without proper reference on input line 49.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `fig:methods:mwProfile' on page 35 undefined on input 
+LaTeX Warning: Reference `fig:methods:mwProfile' on page 36 undefined on input 
 line 45.
 
-[35]
+[36]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<chapter2/figures/mw_profile/mw_profile.jpg, id=139, 3560.30125pt x 1782.66pt>
+<chapter2/figures/mw_profile/mw_profile.jpg, id=144, 3560.30125pt x 1782.66pt>
 File: chapter2/figures/mw_profile/mw_profile.jpg Graphic file (type jpg)
 
 <use chapter2/figures/mw_profile/mw_profile.jpg>
@@ -558,9 +566,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--50
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[36 <./chapter2/figures/softLithography/softLithographyProcess.jpg>] [37 <./cha
+[37 <./chapter2/figures/softLithography/softLithographyProcess.jpg>] [38 <./cha
 pter2/figures/profiles/spin_profiles.jpg>]
-<chapter2/figures/tapeBonding/tapeBonding.jpg, id=147, 439.6425pt x 270.00874pt
+<chapter2/figures/tapeBonding/tapeBonding.jpg, id=151, 439.6425pt x 270.00874pt
 >
 File: chapter2/figures/tapeBonding/tapeBonding.jpg Graphic file (type jpg)
  <use chapter2/figures/tapeBonding/tapeBonding.jpg>
@@ -571,8 +579,8 @@ nput line 70.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[38 <./chapter2/figures/mw_profile/mw_profile.jpg>]
-<chapter2/figures/glueBonding/glueBonding.jpg, id=151, 370.38374pt x 278.03876p
+[39 <./chapter2/figures/mw_profile/mw_profile.jpg>]
+<chapter2/figures/glueBonding/glueBonding.jpg, id=155, 370.38374pt x 278.03876p
 t>
 File: chapter2/figures/glueBonding/glueBonding.jpg Graphic file (type jpg)
  <use chapter2/figures/glueBonding/glueBonding.jpg>
@@ -583,9 +591,9 @@ nput line 82.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[39 <./chapter2/figures/tapeBonding/tapeBonding.jpg>] [40 <./chapter2/figures/g
-lueBonding/glueBonding.jpg>] [41]
-<chapter2/figures/matchFilter/matchFilterIllustration.jpg, id=161, 3560.30125pt
+[40 <./chapter2/figures/tapeBonding/tapeBonding.jpg>] [41 <./chapter2/figures/g
+lueBonding/glueBonding.jpg>] [42]
+<chapter2/figures/matchFilter/matchFilterIllustration.jpg, id=166, 3560.30125pt
  x 2372.865pt>
 File: chapter2/figures/matchFilter/matchFilterIllustration.jpg Graphic file (ty
 pe jpg)
@@ -599,18 +607,18 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 124--125
  []
 
 
-<chapter2/figures/syncArtefact/syncArtefact.jpg, id=162, 3348.51pt x 4271.96pt>
+<chapter2/figures/syncArtefact/syncArtefact.jpg, id=167, 3348.51pt x 4271.96pt>
 File: chapter2/figures/syncArtefact/syncArtefact.jpg Graphic file (type jpg)
 <use chapter2/figures/syncArtefact/syncArtefact.jpg>
 Package pdftex.def Info: chapter2/figures/syncArtefact/syncArtefact.jpg used on
  input line 135.
 (pdftex.def)             Requested size: 398.33858pt x 508.18053pt.
- [42] [43 <./chapter2/figures/matchFilter/matchFilterIllustration.jpg>]
+ [43] [44 <./chapter2/figures/matchFilter/matchFilterIllustration.jpg>]
 
-LaTeX Warning: Text page 44 contains only floats.
+LaTeX Warning: Text page 45 contains only floats.
 
-[44 <./chapter2/figures/syncArtefact/syncArtefact.jpg>]
-<chapter2/figures/corrIllustration/corrIllustration.jpg, id=173, 3560.30125pt x
+[45 <./chapter2/figures/syncArtefact/syncArtefact.jpg>]
+<chapter2/figures/corrIllustration/corrIllustration.jpg, id=177, 3560.30125pt x
  4585.13pt>
 File: chapter2/figures/corrIllustration/corrIllustration.jpg Graphic file (type
  jpg)
@@ -619,8 +627,8 @@ Package pdftex.def Info: chapter2/figures/corrIllustration/corrIllustration.jpg
  used on input line 158.
 (pdftex.def)             Requested size: 398.33858pt x 512.97136pt.
 
-[45] [46 <./chapter2/figures/corrIllustration/corrIllustration.jpg>]
-<chapter2/figures/burstDetection/burstDetExample.jpg, id=180, 3799.19376pt x 23
+[46] [47 <./chapter2/figures/corrIllustration/corrIllustration.jpg>]
+<chapter2/figures/burstDetection/burstDetExample.jpg, id=184, 3799.19376pt x 23
 72.865pt>
 File: chapter2/figures/burstDetection/burstDetExample.jpg Graphic file (type jp
 g)
@@ -633,8 +641,8 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 171--172
  [][] 
  []
 
-[47 <./chapter2/figures/burstDetection/burstDetExample.jpg>]
-<chapter2/figures/FCDemonstration/FCDemonstration.jpg, id=185, 3560.30125pt x 1
+[48 <./chapter2/figures/burstDetection/burstDetExample.jpg>]
+<chapter2/figures/FCDemonstration/FCDemonstration.jpg, id=190, 3560.30125pt x 1
 776.6375pt>
 File: chapter2/figures/FCDemonstration/FCDemonstration.jpg Graphic file (type j
 pg)
@@ -650,17 +658,17 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 186--187
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[48]
-<chapter2/figures/Schematics/schematics.png, id=190, 769.87625pt x 473.77pt>
+[49]
+<chapter2/figures/Schematics/schematics.png, id=194, 769.87625pt x 473.77pt>
 File: chapter2/figures/Schematics/schematics.png Graphic file (type png)
 
 <use chapter2/figures/Schematics/schematics.png>
 Package pdftex.def Info: chapter2/figures/Schematics/schematics.png used on inp
 ut line 205.
 (pdftex.def)             Requested size: 398.33858pt x 245.14009pt.
- [49 <./chapter2/figures/FCDemonstration/FCDemonstration.jpg>] [50 <./chapter2/
+ [50 <./chapter2/figures/FCDemonstration/FCDemonstration.jpg>] [51 <./chapter2/
 figures/Schematics/schematics.png>]
-<chapter2/figures/PIAssayIllustration/PIAssay.jpg, id=197, 426.6339pt x 135.385
+<chapter2/figures/PIAssayIllustration/PIAssay.jpg, id=201, 426.6339pt x 135.385
 8pt>
 File: chapter2/figures/PIAssayIllustration/PIAssay.jpg Graphic file (type jpg)
  <use chapter2/figures/PIAssayIllustration/PIAssay.jpg>
@@ -675,17 +683,17 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 228--229
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[51]) [52 <./chapter2/figures/PIAssayIllustration/PIAssay.jpg>]
+[52]) [53 <./chapter2/figures/PIAssayIllustration/PIAssay.jpg>]
 \openout2 = `chapter3.aux'.
 
  (chapter3.tex
 Chapter 3.
-[53
+[54
 
 
 
 ]
-<chapter3/figures/mouseImages/mouseImages.jpg, id=207, 426.75435pt x 421.8159pt
+<chapter3/figures/mouseImages/mouseImages.jpg, id=212, 426.75435pt x 421.8159pt
 >
 File: chapter3/figures/mouseImages/mouseImages.jpg Graphic file (type jpg)
  <use chapter3/figures/mouseImages/mouseImages.jpg>
@@ -697,8 +705,8 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 17--18
  [][] 
  []
 
-[54]
-<chapter3/figures/devExample/devActivity.jpg, id=212, 3560.30125pt x 3558.29375
+[55]
+<chapter3/figures/devExample/devActivity.jpg, id=216, 3560.30125pt x 3558.29375
 pt>
 File: chapter3/figures/devExample/devActivity.jpg Graphic file (type jpg)
  <use chapter3/figures/devExample/devActivity.jpg>
@@ -710,9 +718,9 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 31--32
  [][] 
  []
 
-[55 <./chapter3/figures/mouseImages/mouseImages.jpg>] [56 <./chapter3/figures/d
+[56 <./chapter3/figures/mouseImages/mouseImages.jpg>] [57 <./chapter3/figures/d
 evExample/devActivity.jpg>]
-<chapter3/figures/actMeasures/actMeasures.jpg, id=219, 426.75435pt x 263.66505p
+<chapter3/figures/actMeasures/actMeasures.jpg, id=223, 426.75435pt x 263.66505p
 t>
 File: chapter3/figures/actMeasures/actMeasures.jpg Graphic file (type jpg)
  <use chapter3/figures/actMeasures/actMeasures.jpg>
@@ -724,8 +732,8 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 51--52
  [][] 
  []
 
-[57] [58 <./chapter3/figures/actMeasures/actMeasures.jpg>]
-<chapter3/figures/burstMeasures/burstMeasures.jpg, id=226, 3560.30125pt x 2264.
+[58] [59 <./chapter3/figures/actMeasures/actMeasures.jpg>]
+<chapter3/figures/burstMeasures/burstMeasures.jpg, id=230, 3560.30125pt x 2264.
 46pt>
 File: chapter3/figures/burstMeasures/burstMeasures.jpg Graphic file (type jpg)
  <use chapter3/figures/burstMeasures/burstMeasures.jpg>
@@ -737,30 +745,30 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 66--67
  [][] 
  []
 
-[59 <./chapter3/figures/burstMeasures/burstMeasures.jpg>] [60]
-<chapter3/figures/stimExample/stimExample.jpg, id=234, 3560.30125pt x 3557.29pt
+[60 <./chapter3/figures/burstMeasures/burstMeasures.jpg>] [61]
+<chapter3/figures/stimExample/stimExample.jpg, id=238, 3560.30125pt x 3557.29pt
 >
 File: chapter3/figures/stimExample/stimExample.jpg Graphic file (type jpg)
  <use chapter3/figures/stimExample/stimExample.jpg>
 Package pdftex.def Info: chapter3/figures/stimExample/stimExample.jpg used on i
 nput line 87.
 (pdftex.def)             Requested size: 398.33858pt x 397.97952pt.
- [61]
+ [62]
 
-LaTeX Warning: Text page 62 contains only floats.
+LaTeX Warning: Text page 63 contains only floats.
 
 
 Overfull \vbox (3.47266pt too high) has occurred while \output is active []
 
 
-[62 <./chapter3/figures/stimExample/stimExample.jpg>]
+[63 <./chapter3/figures/stimExample/stimExample.jpg>]
 Overfull \hbox (1.0131pt too wide) in paragraph at lines 98--99
 \OT1/cmr/m/n/10 Mature neu-ronal cul-tures abide to the prin-ci-ples of spike t
 im-ing de-pen-dent plas-tic-ity (STDP),
  []
 
-[63] [64]
-<chapter3/figures/ExpOutline/expOutlineTet.jpg, id=247, 2845.63126pt x 977.9034
+[64] [65]
+<chapter3/figures/ExpOutline/expOutlineTet.jpg, id=251, 2845.63126pt x 977.9034
 4pt>
 File: chapter3/figures/ExpOutline/expOutlineTet.jpg Graphic file (type jpg)
  <use chapter3/figures/ExpOutline/expOutlineTet.jpg>
@@ -772,8 +780,8 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 108--109
  [][] 
  []
 
-[65 <./chapter3/figures/ExpOutline/expOutlineTet.jpg>]
-<chapter3/figures/tetStimChange/tetStimChange.jpg, id=251, 3549.26pt x 3565.32p
+[66 <./chapter3/figures/ExpOutline/expOutlineTet.jpg>]
+<chapter3/figures/tetStimChange/tetStimChange.jpg, id=256, 3549.26pt x 3565.32p
 t>
 File: chapter3/figures/tetStimChange/tetStimChange.jpg Graphic file (type jpg)
  <use chapter3/figures/tetStimChange/tetStimChange.jpg>
@@ -786,7 +794,7 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 121--122
  []
 
 
-<chapter3/figures/tetMapChange/tetMapChange.jpg, id=252, 3560.30125pt x 2372.86
+<chapter3/figures/tetMapChange/tetMapChange.jpg, id=257, 3560.30125pt x 2372.86
 5pt>
 File: chapter3/figures/tetMapChange/tetMapChange.jpg Graphic file (type jpg)
  <use chapter3/figures/tetMapChange/tetMapChange.jpg>
@@ -799,7 +807,7 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 131--132
  []
 
 
-<chapter3/figures/tetResChangeStats/tetResChangeStats.jpg, id=253, 3560.30125pt
+<chapter3/figures/tetResChangeStats/tetResChangeStats.jpg, id=258, 3560.30125pt
  x 3558.29375pt>
 File: chapter3/figures/tetResChangeStats/tetResChangeStats.jpg Graphic file (ty
 pe jpg)
@@ -813,13 +821,13 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 140--141
  [][] 
  []
 
-[66] [67 <./chapter3/figures/tetStimChange/tetStimChange.jpg>] [68 <./chapter3/
+[67] [68 <./chapter3/figures/tetStimChange/tetStimChange.jpg>] [69 <./chapter3/
 figures/tetMapChange/tetMapChange.jpg>]
 
-LaTeX Warning: Text page 69 contains only floats.
+LaTeX Warning: Text page 70 contains only floats.
 
-[69 <./chapter3/figures/tetResChangeStats/tetResChangeStats.jpg>]
-<chapter3/figures/FCChangeStats/FCStats.jpg, id=267, 3560.30125pt x 2133.9725pt
+[70 <./chapter3/figures/tetResChangeStats/tetResChangeStats.jpg>]
+<chapter3/figures/FCChangeStats/FCStats.jpg, id=271, 3560.30125pt x 2133.9725pt
 >
 File: chapter3/figures/FCChangeStats/FCStats.jpg Graphic file (type jpg)
  <use chapter3/figures/FCChangeStats/FCStats.jpg>
@@ -831,25 +839,25 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 159--160
  [][] 
  []
 
-[70]
-<chapter3/figures/mouseRatComp/ratMouseComp.jpg, id=271, 1782.66pt x 1782.66pt>
+[71]
+<chapter3/figures/mouseRatComp/ratMouseComp.jpg, id=275, 1782.66pt x 1782.66pt>
 File: chapter3/figures/mouseRatComp/ratMouseComp.jpg Graphic file (type jpg)
 <use chapter3/figures/mouseRatComp/ratMouseComp.jpg>
 Package pdftex.def Info: chapter3/figures/mouseRatComp/ratMouseComp.jpg used on
  input line 174.
 (pdftex.def)             Requested size: 213.39566pt x 213.39314pt.
- [71 <./chapter3/figures/FCChangeStats/FCStats.jpg>] [72 <./chapter3/figures/mo
-useRatComp/ratMouseComp.jpg>] [73]) [74]
+ [72 <./chapter3/figures/FCChangeStats/FCStats.jpg>] [73 <./chapter3/figures/mo
+useRatComp/ratMouseComp.jpg>] [74]) [75]
 \openout2 = `chapter4.aux'.
 
  (chapter4.tex
 Chapter 4.
-[75
+[76
 
 
 
-] [76] [77]
-<chapter4/figures/channelDimensions/dimensions.jpg, id=294, 417.7206pt x 178.26
+] [77] [78]
+<chapter4/figures/channelDimensions/dimensions.jpg, id=299, 417.7206pt x 178.26
 6pt>
 File: chapter4/figures/channelDimensions/dimensions.jpg Graphic file (type jpg)
 
@@ -862,8 +870,8 @@ Overfull \hbox (13.79956pt too wide) in paragraph at lines 29--30
  [][] 
  []
 
-[78 <./chapter4/figures/channelDimensions/dimensions.jpg>]
-<chapter4/figures/osmIssue/osmIssue.jpg, id=299, 407.48235pt x 348.46185pt>
+[79 <./chapter4/figures/channelDimensions/dimensions.jpg>]
+<chapter4/figures/osmIssue/osmIssue.jpg, id=303, 407.48235pt x 348.46185pt>
 File: chapter4/figures/osmIssue/osmIssue.jpg Graphic file (type jpg)
 
 <use chapter4/figures/osmIssue/osmIssue.jpg>
@@ -876,7 +884,7 @@ Overfull \hbox (8.10909pt too wide) in paragraph at lines 41--42
  []
 
 
-<chapter4/figures/immersionMethod/12WellImmersion.jpg, id=300, 3276.24pt x 2457
+<chapter4/figures/immersionMethod/12WellImmersion.jpg, id=304, 3276.24pt x 2457
 .18pt>
 File: chapter4/figures/immersionMethod/12WellImmersion.jpg Graphic file (type j
 pg)
@@ -889,7 +897,7 @@ sed on input line 50.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<chapter4/figures/volDensIssue/volDensIssue.jpg, id=301, 353.1594pt x 264.86955
+<chapter4/figures/volDensIssue/volDensIssue.jpg, id=305, 353.1594pt x 264.86955
 pt>
 File: chapter4/figures/volDensIssue/volDensIssue.jpg Graphic file (type jpg)
  <use chapter4/figures/volDensIssue/volDensIssue.jpg>
@@ -900,10 +908,10 @@ Package pdftex.def Info: chapter4/figures/volDensIssue/volDensIssue.jpg used on
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[79] [80 <./chapter4/figures/osmIssue/osmIssue.jpg>] [81 <./chapter4/figures/im
-mersionMethod/12WellImmersion.jpg>] [82 <./chapter4/figures/volDensIssue/volDen
+[80] [81 <./chapter4/figures/osmIssue/osmIssue.jpg>] [82 <./chapter4/figures/im
+mersionMethod/12WellImmersion.jpg>] [83 <./chapter4/figures/volDensIssue/volDen
 sIssue.jpg>]
-<chapter4/figures/glueBonding/glueBondingComp.jpg, id=314, 2029.5825pt x 722.7p
+<chapter4/figures/glueBonding/glueBondingComp.jpg, id=318, 2029.5825pt x 722.7p
 t>
 File: chapter4/figures/glueBonding/glueBondingComp.jpg Graphic file (type jpg)
  <use chapter4/figures/glueBonding/glueBondingComp.jpg>
@@ -915,8 +923,8 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 74--75
  [][] 
  []
 
-[83 <./chapter4/figures/glueBonding/glueBondingComp.jpg>]
-<chapter4/figures/tapeCultures/tapeCultures.jpg, id=318, 426.75435pt x 426.7543
+[84 <./chapter4/figures/glueBonding/glueBondingComp.jpg>]
+<chapter4/figures/tapeCultures/tapeCultures.jpg, id=323, 426.75435pt x 426.7543
 5pt>
 File: chapter4/figures/tapeCultures/tapeCultures.jpg Graphic file (type jpg)
  <use chapter4/figures/tapeCultures/tapeCultures.jpg>
@@ -928,8 +936,8 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 86--87
  [][] 
  []
 
-[84]
-<chapter4/figures/extraction/extractionIssue.jpg, id=323, 426.75435pt x 356.772
+[85]
+<chapter4/figures/extraction/extractionIssue.jpg, id=327, 426.75435pt x 356.772
 9pt>
 File: chapter4/figures/extraction/extractionIssue.jpg Graphic file (type jpg)
  <use chapter4/figures/extraction/extractionIssue.jpg>
@@ -941,25 +949,25 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 99--100
  [][] 
  []
 
-[85 <./chapter4/figures/tapeCultures/tapeCultures.jpg>]
+[86 <./chapter4/figures/tapeCultures/tapeCultures.jpg>]
 
 Package caption Warning: \label without proper reference on input line 49.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `fig:methods:mwProfile' on page 86 undefined on input 
+LaTeX Warning: Reference `fig:methods:mwProfile' on page 87 undefined on input 
 line 109.
 
-[86 <./chapter4/figures/extraction/extractionIssue.jpg>]
-<chapter4/figures/lithoMWell/lithoMWell.jpg, id=330, 247.8861pt x 154.176pt>
+[87 <./chapter4/figures/extraction/extractionIssue.jpg>]
+<chapter4/figures/lithoMWell/lithoMWell.jpg, id=334, 247.8861pt x 154.176pt>
 File: chapter4/figures/lithoMWell/lithoMWell.jpg Graphic file (type jpg)
 
 <use chapter4/figures/lithoMWell/lithoMWell.jpg>
 Package pdftex.def Info: chapter4/figures/lithoMWell/lithoMWell.jpg used on inp
 ut line 114.
 (pdftex.def)             Requested size: 199.16928pt x 123.87967pt.
- [87 <./chapter4/figures/lithoMWell/lithoMWell.jpg>]
-<chapter4/figures/noSupport/noSupport.jpg, id=334, 395.3169pt x 108.76636pt>
+ [88 <./chapter4/figures/lithoMWell/lithoMWell.jpg>]
+<chapter4/figures/noSupport/noSupport.jpg, id=338, 395.3169pt x 108.76636pt>
 File: chapter4/figures/noSupport/noSupport.jpg Graphic file (type jpg)
 
 <use chapter4/figures/noSupport/noSupport.jpg>
@@ -967,7 +975,7 @@ Package pdftex.def Info: chapter4/figures/noSupport/noSupport.jpg used on input
  line 123.
 (pdftex.def)             Requested size: 392.64812pt x 108.03252pt.
 
-<chapter4/figures/microWellsDev/microwellsDev.jpg, id=335, 390.9807pt x 325.335
+<chapter4/figures/microWellsDev/microwellsDev.jpg, id=339, 390.9807pt x 325.335
 45pt>
 File: chapter4/figures/microWellsDev/microwellsDev.jpg Graphic file (type jpg)
  <use chapter4/figures/microWellsDev/microwellsDev.jpg>
@@ -978,9 +986,9 @@ on input line 130.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[88 <./chapter4/figures/noSupport/noSupport.jpg>] [89 <./chapter4/figures/micro
+[89 <./chapter4/figures/noSupport/noSupport.jpg>] [90 <./chapter4/figures/micro
 WellsDev/microwellsDev.jpg>]
-<chapter4/figures/microWellsStats/mwStats.jpg, id=342, 3560.30125pt x 1782.66pt
+<chapter4/figures/microWellsStats/mwStats.jpg, id=347, 3560.30125pt x 1782.66pt
 >
 File: chapter4/figures/microWellsStats/mwStats.jpg Graphic file (type jpg)
  <use chapter4/figures/microWellsStats/mwStats.jpg>
@@ -992,8 +1000,8 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 143--144
  [][] 
  []
 
-[90 <./chapter4/figures/microWellsStats/mwStats.jpg>]
-<chapter4/figures/microWellsIsolation/isolationIssue.jpg, id=347, 7026.25pt x 2
+[91 <./chapter4/figures/microWellsStats/mwStats.jpg>]
+<chapter4/figures/microWellsIsolation/isolationIssue.jpg, id=351, 7026.25pt x 2
 055.68pt>
 File: chapter4/figures/microWellsIsolation/isolationIssue.jpg Graphic file (typ
 e jpg)
@@ -1011,8 +1019,8 @@ Overfull \hbox (2.00581pt too wide) in paragraph at lines 160--160
 []\OT1/cmr/bx/n/14.4 Viability of neu-ronal cul-tures un-der steady mi-croflu-
  []
 
-[91 <./chapter4/figures/microWellsIsolation/isolationIssue.jpg>]
-<chapter4/figures/degenerationExample/degenerationExample.jpg, id=351, 410.1322
+[92 <./chapter4/figures/microWellsIsolation/isolationIssue.jpg>]
+<chapter4/figures/degenerationExample/degenerationExample.jpg, id=355, 410.1322
 5pt x 102.74385pt>
 File: chapter4/figures/degenerationExample/degenerationExample.jpg Graphic file
  (type jpg)
@@ -1026,8 +1034,8 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 168--169
  [][] 
  []
 
-[92 <./chapter4/figures/degenerationExample/degenerationExample.jpg>]
-<chapter4/figures/condImpression/condImpression.jpg, id=355, 3560.30125pt x 177
+[93 <./chapter4/figures/degenerationExample/degenerationExample.jpg>]
+<chapter4/figures/condImpression/condImpression.jpg, id=359, 3560.30125pt x 177
 6.6375pt>
 File: chapter4/figures/condImpression/condImpression.jpg Graphic file (type jpg
 )
@@ -1043,8 +1051,8 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 184--185
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[93]
-<chapter4/figures/condDetAnalysis/condDetAnalysis.jpg, id=359, 3560.30125pt x 3
+[94]
+<chapter4/figures/condDetAnalysis/condDetAnalysis.jpg, id=363, 3560.30125pt x 3
 558.29375pt>
 File: chapter4/figures/condDetAnalysis/condDetAnalysis.jpg Graphic file (type j
 pg)
@@ -1057,8 +1065,8 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 195--196
  [][] 
  []
 
-[94 <./chapter4/figures/condImpression/condImpression.jpg>]
-<chapter4/figures/viabilityStats/viabilityStats.jpg, id=363, 3560.30125pt x 288
+[95 <./chapter4/figures/condImpression/condImpression.jpg>]
+<chapter4/figures/viabilityStats/viabilityStats.jpg, id=367, 3560.30125pt x 288
 6.785pt>
 File: chapter4/figures/viabilityStats/viabilityStats.jpg Graphic file (type jpg
 )
@@ -1078,18 +1086,18 @@ File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 207.
- [95 <./chapter4/figures/condDetAnalysis/condDetAnalysis.jpg>] [96 <./chapter4/
-figures/viabilityStats/viabilityStats.jpg>] [97]) [98]
+ [96 <./chapter4/figures/condDetAnalysis/condDetAnalysis.jpg>] [97 <./chapter4/
+figures/viabilityStats/viabilityStats.jpg>] [98]) [99]
 \openout2 = `chapter5.aux'.
 
  (chapter5.tex
 Chapter 5.
-[99
+[100
 
 
 
 ]
-<chapter5/figures/crossFlowIllustration/crossFlowIllustration.jpg, id=380, 211.
+<chapter5/figures/crossFlowIllustration/crossFlowIllustration.jpg, id=384, 211.
 7511pt x 91.7829pt>
 File: chapter5/figures/crossFlowIllustration/crossFlowIllustration.jpg Graphic 
 file (type jpg)
@@ -1102,7 +1110,7 @@ ration.jpg used on input line 16.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<chapter5/figures/crossFlowDev/culture.jpg, id=381, 426.6339pt x 426.75435pt>
+<chapter5/figures/crossFlowDev/culture.jpg, id=385, 426.6339pt x 426.75435pt>
 File: chapter5/figures/crossFlowDev/culture.jpg Graphic file (type jpg)
 
 <use chapter5/figures/crossFlowDev/culture.jpg>
@@ -1114,9 +1122,9 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 27--28
  [][] 
  []
 
-[100] [101 <./chapter5/figures/crossFlowIllustration/crossFlowIllustration.jpg>
-] [102 <./chapter5/figures/crossFlowDev/culture.jpg>]
-<chapter5/figures/slowFastExample/slowFastExample.jpg, id=393, 427.23615pt x 37
+[101] [102 <./chapter5/figures/crossFlowIllustration/crossFlowIllustration.jpg>
+] [103 <./chapter5/figures/crossFlowDev/culture.jpg>]
+<chapter5/figures/slowFastExample/slowFastExample.jpg, id=397, 427.23615pt x 37
 0.5042pt>
 File: chapter5/figures/slowFastExample/slowFastExample.jpg Graphic file (type j
 pg)
@@ -1129,12 +1137,12 @@ Overfull \hbox (13.79956pt too wide) in paragraph at lines 46--47
  [][] 
  []
 
-[103]
+[104]
 
-LaTeX Warning: Text page 104 contains only floats.
+LaTeX Warning: Text page 105 contains only floats.
 
-[104 <./chapter5/figures/slowFastExample/slowFastExample.jpg>]
-<chapter5/figures/slowFastStats/slowFastStats.jpg, id=400, 427.23615pt x 386.88
+[105 <./chapter5/figures/slowFastExample/slowFastExample.jpg>]
+<chapter5/figures/slowFastStats/slowFastStats.jpg, id=404, 427.23615pt x 386.88
 54pt>
 File: chapter5/figures/slowFastStats/slowFastStats.jpg Graphic file (type jpg)
  <use chapter5/figures/slowFastStats/slowFastStats.jpg>
@@ -1146,12 +1154,12 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 59--60
  [][] 
  []
 
-[105]
+[106]
 
-LaTeX Warning: Text page 106 contains only floats.
+LaTeX Warning: Text page 107 contains only floats.
 
-[106 <./chapter5/figures/slowFastStats/slowFastStats.jpg>]
-<chapter5/figures/shiftedMembraneImage/shiftedMembrane.jpg, id=407, 426.75435pt
+[107 <./chapter5/figures/slowFastStats/slowFastStats.jpg>]
+<chapter5/figures/shiftedMembraneImage/shiftedMembrane.jpg, id=411, 426.75435pt
  x 325.6968pt>
 File: chapter5/figures/shiftedMembraneImage/shiftedMembrane.jpg Graphic file (t
 ype jpg)
@@ -1164,8 +1172,8 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 71--72
  [][] 
  []
 
-[107 <./chapter5/figures/shiftedMembraneImage/shiftedMembrane.jpg>]
-<chapter5/figures/fastMembraneStats/fastMembraneStats.jpg, id=411, 427.23615pt 
+[108 <./chapter5/figures/shiftedMembraneImage/shiftedMembrane.jpg>]
+<chapter5/figures/fastMembraneStats/fastMembraneStats.jpg, id=416, 427.23615pt 
 x 426.99525pt>
 File: chapter5/figures/fastMembraneStats/fastMembraneStats.jpg Graphic file (ty
 pe jpg)
@@ -1178,13 +1186,13 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 82--83
  [][] 
  []
 
-[108] [109 <./chapter5/figures/fastMembraneStats/fastMembraneStats.jpg>]
+[109] [110 <./chapter5/figures/fastMembraneStats/fastMembraneStats.jpg>]
 
-LaTeX Warning: Reference `fig:crossFlow:oldOnYoungExampleRaster' on page 110 un
+LaTeX Warning: Reference `fig:crossFlow:oldOnYoungExampleRaster' on page 111 un
 defined on input line 100.
 
 
-<chapter5/figures/youngOldExample/youngOldRasterExample.jpg, id=419, 3560.30125
+<chapter5/figures/youngOldExample/youngOldRasterExample.jpg, id=423, 3560.30125
 pt x 3558.29375pt>
 File: chapter5/figures/youngOldExample/youngOldRasterExample.jpg Graphic file (
 type jpg)
@@ -1198,8 +1206,8 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 104--105
  [][] 
  []
 
-[110]
-<chapter5/figures/youngOldStats/youngOldGraphs.jpg, id=423, 427.23615pt x 426.9
+[111]
+<chapter5/figures/youngOldStats/youngOldGraphs.jpg, id=427, 427.23615pt x 426.9
 9525pt>
 File: chapter5/figures/youngOldStats/youngOldGraphs.jpg Graphic file (type jpg)
 
@@ -1212,9 +1220,9 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 113--114
  [][] 
  []
 
-[111 <./chapter5/figures/youngOldExample/youngOldRasterExample.jpg>] [112 <./ch
+[112 <./chapter5/figures/youngOldExample/youngOldRasterExample.jpg>] [113 <./ch
 apter5/figures/youngOldStats/youngOldGraphs.jpg>]
-<chapter5/figures/mediaChangeStats/mediaEffectStats.jpg, id=430, 427.23615pt x 
+<chapter5/figures/mediaChangeStats/mediaEffectStats.jpg, id=434, 427.23615pt x 
 426.99525pt>
 File: chapter5/figures/mediaChangeStats/mediaEffectStats.jpg Graphic file (type
  jpg)
@@ -1227,8 +1235,8 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 124--125
  [][] 
  []
 
-[113] [114 <./chapter5/figures/mediaChangeStats/mediaEffectStats.jpg>] [115]
-<chapter5/figures/oldOnYoung/oldOnYoung.jpg, id=441, 427.23615pt x 426.99525pt>
+[114] [115 <./chapter5/figures/mediaChangeStats/mediaEffectStats.jpg>] [116]
+<chapter5/figures/oldOnYoung/oldOnYoung.jpg, id=445, 427.23615pt x 426.99525pt>
 File: chapter5/figures/oldOnYoung/oldOnYoung.jpg Graphic file (type jpg)
 <use chapter5/figures/oldOnYoung/oldOnYoung.jpg>
 Package pdftex.def Info: chapter5/figures/oldOnYoung/oldOnYoung.jpg used on inp
@@ -1239,8 +1247,8 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 143--144
  [][] 
  []
 
-[116 <./chapter5/figures/oldOnYoung/oldOnYoung.jpg>]
-<chapter5/figures/toneRasterExample/toneRasterExample.jpg, id=445, 3560.30125pt
+[117 <./chapter5/figures/oldOnYoung/oldOnYoung.jpg>]
+<chapter5/figures/toneRasterExample/toneRasterExample.jpg, id=449, 3560.30125pt
  x 2473.24pt>
 File: chapter5/figures/toneRasterExample/toneRasterExample.jpg Graphic file (ty
 pe jpg)
@@ -1253,26 +1261,26 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 154--155
  [][] 
  []
 
-[117 <./chapter5/figures/toneRasterExample/toneRasterExample.jpg>] [118]
-[119]
-<chapter5/figures/synapse/synapseIllustration.jpg, id=455, 142.25145pt x 169.59
+[118 <./chapter5/figures/toneRasterExample/toneRasterExample.jpg>] [119]
+[120]
+<chapter5/figures/synapse/synapseIllustration.jpg, id=460, 142.25145pt x 169.59
 36pt>
 File: chapter5/figures/synapse/synapseIllustration.jpg Graphic file (type jpg)
  <use chapter5/figures/synapse/synapseIllustration.jpg>
 Package pdftex.def Info: chapter5/figures/synapse/synapseIllustration.jpg used 
 on input line 172.
 (pdftex.def)             Requested size: 142.26378pt x 169.60869pt.
- [120] [121 <./chapter5/figures/synapse/synapseIllustration.jpg>] [122]) [123]
+ [121] [122 <./chapter5/figures/synapse/synapseIllustration.jpg>] [123]) [124]
 \openout2 = `chapter6.aux'.
 
  (chapter6.tex
 Chapter 6.
-[124
+[125
 
 
 
-] [125]
-<chapter6/figures/circularIllustration/circularIllustration.jpg, id=475, 248.97
+] [126]
+<chapter6/figures/circularIllustration/circularIllustration.jpg, id=480, 248.97
 015pt x 201.8742pt>
 File: chapter6/figures/circularIllustration/circularIllustration.jpg Graphic fi
 le (type jpg)
@@ -1286,8 +1294,8 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 12--13
  [][] 
  []
 
-[126 <./chapter6/figures/circularIllustration/circularIllustration.jpg>]
-<chapter6/figures/tapeMicroculture/tapeMicroculture.jpg, id=480, 426.75435pt x 
+[127 <./chapter6/figures/circularIllustration/circularIllustration.jpg>]
+<chapter6/figures/tapeMicroculture/tapeMicroculture.jpg, id=484, 426.75435pt x 
 213.4374pt>
 File: chapter6/figures/tapeMicroculture/tapeMicroculture.jpg Graphic file (type
  jpg)
@@ -1301,7 +1309,7 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 23--24
  []
 
 
-<chapter6/figures/PDMSMicroculture/PDMSMicroculture.jpg, id=481, 426.75435pt x 
+<chapter6/figures/PDMSMicroculture/PDMSMicroculture.jpg, id=485, 426.75435pt x 
 137.7948pt>
 File: chapter6/figures/PDMSMicroculture/PDMSMicroculture.jpg Graphic file (type
  jpg)
@@ -1317,8 +1325,8 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 33--34
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[127 <./chapter6/figures/tapeMicroculture/tapeMicroculture.jpg>]
-<chapter6/figures/PDMSMicrocultureStaining/PDMSMicrocultureStaining.jpg, id=485
+[128 <./chapter6/figures/tapeMicroculture/tapeMicroculture.jpg>]
+<chapter6/figures/PDMSMicrocultureStaining/PDMSMicrocultureStaining.jpg, id=489
 , 426.75435pt x 426.75435pt>
 File: chapter6/figures/PDMSMicrocultureStaining/PDMSMicrocultureStaining.jpg Gr
 aphic file (type jpg)
@@ -1333,7 +1341,7 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 42--43
  []
 
 
-<chapter6/figures/clearanceDemonstration/clearanceDemonstration.jpg, id=486, 42
+<chapter6/figures/clearanceDemonstration/clearanceDemonstration.jpg, id=490, 42
 6.75435pt x 426.75435pt>
 File: chapter6/figures/clearanceDemonstration/clearanceDemonstration.jpg Graphi
 c file (type jpg)
@@ -1347,8 +1355,8 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 51--52
  [][] 
  []
 
-[128 <./chapter6/figures/PDMSMicroculture/PDMSMicroculture.jpg>]
-<chapter6/figures/topOfSheetSTaining/topOfSheetStaining.jpg, id=490, 412.78215p
+[129 <./chapter6/figures/PDMSMicroculture/PDMSMicroculture.jpg>]
+<chapter6/figures/topOfSheetSTaining/topOfSheetStaining.jpg, id=494, 412.78215p
 t x 130.5678pt>
 File: chapter6/figures/topOfSheetSTaining/topOfSheetStaining.jpg Graphic file (
 type jpg)
@@ -1362,10 +1370,10 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 60--61
  [][] 
  []
 
-[129 <./chapter6/figures/PDMSMicrocultureStaining/PDMSMicrocultureStaining.jpg>
-] [130 <./chapter6/figures/clearanceDemonstration/clearanceDemonstration.jpg>]
-[131 <./chapter6/figures/topOfSheetSTaining/topOfSheetStaining.jpg>]
-<chapter6/figures/microcultureStimControl/microcultureStimControl.jpg, id=500, 
+[130 <./chapter6/figures/PDMSMicrocultureStaining/PDMSMicrocultureStaining.jpg>
+] [131 <./chapter6/figures/clearanceDemonstration/clearanceDemonstration.jpg>]
+[132 <./chapter6/figures/topOfSheetSTaining/topOfSheetStaining.jpg>]
+<chapter6/figures/microcultureStimControl/microcultureStimControl.jpg, id=505, 
 3560.30125pt x 1782.66pt>
 File: chapter6/figures/microcultureStimControl/microcultureStimControl.jpg Grap
 hic file (type jpg)
@@ -1382,8 +1390,8 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 75--76
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[132]
-<chapter6/figures/pulseSequence/pulseSequence.jpg, id=505, 426.75435pt x 136.95
+[133]
+<chapter6/figures/pulseSequence/pulseSequence.jpg, id=509, 426.75435pt x 136.95
 164pt>
 File: chapter6/figures/pulseSequence/pulseSequence.jpg Graphic file (type jpg)
  <use chapter6/figures/pulseSequence/pulseSequence.jpg>
@@ -1395,8 +1403,8 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 89--90
  [][] 
  []
 
-[133 <./chapter6/figures/microcultureStimControl/microcultureStimControl.jpg>]
-<chapter6/figures/fluoAnalysis/fluoAnalysis.jpg, id=509, 3560.30125pt x 3558.29
+[134 <./chapter6/figures/microcultureStimControl/microcultureStimControl.jpg>]
+<chapter6/figures/fluoAnalysis/fluoAnalysis.jpg, id=513, 3560.30125pt x 3558.29
 375pt>
 File: chapter6/figures/fluoAnalysis/fluoAnalysis.jpg Graphic file (type jpg)
  <use chapter6/figures/fluoAnalysis/fluoAnalysis.jpg>
@@ -1408,9 +1416,9 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 98--99
  [][] 
  []
 
-[134 <./chapter6/figures/pulseSequence/pulseSequence.jpg>] [135 <./chapter6/fig
+[135 <./chapter6/figures/pulseSequence/pulseSequence.jpg>] [136 <./chapter6/fig
 ures/fluoAnalysis/fluoAnalysis.jpg>]
-<chapter6/figures/flowPulse/flowPulse.jpg, id=516, 3560.30125pt x 1782.66pt>
+<chapter6/figures/flowPulse/flowPulse.jpg, id=520, 3560.30125pt x 1782.66pt>
 File: chapter6/figures/flowPulse/flowPulse.jpg Graphic file (type jpg)
 
 <use chapter6/figures/flowPulse/flowPulse.jpg>
@@ -1424,7 +1432,7 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 109--110
 
 
 <chapter6/figures/modelValidationIllustration/modelValidationIllustration.jpg, 
-id=517, 3043.37pt x 2992.17876pt>
+id=521, 3043.37pt x 2992.17876pt>
 File: chapter6/figures/modelValidationIllustration/modelValidationIllustration.
 jpg Graphic file (type jpg)
 
@@ -1433,8 +1441,8 @@ pg>
 Package pdftex.def Info: chapter6/figures/modelValidationIllustration/modelVali
 dationIllustration.jpg used on input line 119.
 (pdftex.def)             Requested size: 364.19536pt x 358.0415pt.
- [136]
-<chapter6/figures/modelValidation/modelValidation.jpg, id=521, 3560.30125pt x 1
+ [137]
+<chapter6/figures/modelValidation/modelValidation.jpg, id=525, 3560.30125pt x 1
 782.66pt>
 File: chapter6/figures/modelValidation/modelValidation.jpg Graphic file (type j
 pg)
@@ -1447,9 +1455,9 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 128--129
  [][] 
  []
 
-[137 <./chapter6/figures/flowPulse/flowPulse.jpg>] [138 <./chapter6/figures/mod
+[138 <./chapter6/figures/flowPulse/flowPulse.jpg>] [139 <./chapter6/figures/mod
 elValidationIllustration/modelValidationIllustration.jpg>]
-<chapter6/figures/concentrationsChart/concentrationsChart.jpg, id=529, 423.3817
+<chapter6/figures/concentrationsChart/concentrationsChart.jpg, id=533, 423.3817
 4pt x 422.0568pt>
 File: chapter6/figures/concentrationsChart/concentrationsChart.jpg Graphic file
  (type jpg)
@@ -1463,9 +1471,9 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 139--140
  [][] 
  []
 
-[139 <./chapter6/figures/modelValidation/modelValidation.jpg>] [140 <./chapter6
+[140 <./chapter6/figures/modelValidation/modelValidation.jpg>] [141 <./chapter6
 /figures/concentrationsChart/concentrationsChart.jpg>]
-<chapter6/figures/imporvedTimeScales/FlowRateDeterminedTimeScales.jpg, id=536, 
+<chapter6/figures/imporvedTimeScales/FlowRateDeterminedTimeScales.jpg, id=540, 
 3123.67pt x 2810.5pt>
 File: chapter6/figures/imporvedTimeScales/FlowRateDeterminedTimeScales.jpg Grap
 hic file (type jpg)
@@ -1475,9 +1483,9 @@ Package pdftex.def Info: chapter6/figures/imporvedTimeScales/FlowRateDetermined
 TimeScales.jpg used on input line 153.
 (pdftex.def)             Requested size: 374.72273pt x 337.11679pt.
 
-[141] [142 <./chapter6/figures/imporvedTimeScales/FlowRateDeterminedTimeScales.
+[142] [143 <./chapter6/figures/imporvedTimeScales/FlowRateDeterminedTimeScales.
 jpg>]
-<chapter6/figures/glutamatePulses/GlutamatePulsingAvg.jpg, id=543, 3560.30125pt
+<chapter6/figures/glutamatePulses/GlutamatePulsingAvg.jpg, id=547, 3560.30125pt
  x 1776.6375pt>
 File: chapter6/figures/glutamatePulses/GlutamatePulsingAvg.jpg Graphic file (ty
 pe jpg)
@@ -1490,8 +1498,8 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 165--166
  [][] 
  []
 
-[143 <./chapter6/figures/glutamatePulses/GlutamatePulsingAvg.jpg>]
-<chapter6/figures/ExpOutline/dopamineExpOutline1.jpg, id=547, 2845.63126pt x 14
+[144 <./chapter6/figures/glutamatePulses/GlutamatePulsingAvg.jpg>]
+<chapter6/figures/ExpOutline/dopamineExpOutline1.jpg, id=552, 2845.63126pt x 14
 22.81563pt>
 File: chapter6/figures/ExpOutline/dopamineExpOutline1.jpg Graphic file (type jp
 g)
@@ -1504,8 +1512,8 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 180--181
  [][] 
  []
 
-[144 <./chapter6/figures/ExpOutline/dopamineExpOutline1.jpg>]
-<chapter6/figures/pulseTiming/dopaminePulsingPulseTiming.jpg, id=552, 1565.85pt
+[145 <./chapter6/figures/ExpOutline/dopamineExpOutline1.jpg>]
+<chapter6/figures/pulseTiming/dopaminePulsingPulseTiming.jpg, id=556, 1565.85pt
  x 1758.57pt>
 File: chapter6/figures/pulseTiming/dopaminePulsingPulseTiming.jpg Graphic file 
 (type jpg)
@@ -1514,8 +1522,8 @@ File: chapter6/figures/pulseTiming/dopaminePulsingPulseTiming.jpg Graphic file
 Package pdftex.def Info: chapter6/figures/pulseTiming/dopaminePulsingPulseTimin
 g.jpg used on input line 192.
 (pdftex.def)             Requested size: 187.78836pt x 210.88513pt.
- [145 <./chapter6/figures/pulseTiming/dopaminePulsingPulseTiming.jpg>]
-<chapter6/figures/pulsingRasterExample/experimentRasterExample.jpg, id=556, 356
+ [146 <./chapter6/figures/pulseTiming/dopaminePulsingPulseTiming.jpg>]
+<chapter6/figures/pulsingRasterExample/experimentRasterExample.jpg, id=560, 356
 0.30125pt x 1782.66pt>
 File: chapter6/figures/pulsingRasterExample/experimentRasterExample.jpg Graphic
  file (type jpg)
@@ -1529,9 +1537,9 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 205--206
  [][] 
  []
 
-[146 <./chapter6/figures/pulsingRasterExample/experimentRasterExample.jpg>]
+[147 <./chapter6/figures/pulsingRasterExample/experimentRasterExample.jpg>]
 <chapter6/figures/pulsingChannelsExample/pulsesChannelExampleIncrease.jpg, id=5
-60, 3560.30125pt x 3558.29375pt>
+64, 3560.30125pt x 3558.29375pt>
 File: chapter6/figures/pulsingChannelsExample/pulsesChannelExampleIncrease.jpg 
 Graphic file (type jpg)
 
@@ -1546,7 +1554,7 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 214--215
 
 
 <chapter6/figures/pulsingChannelsExample/pulsesChannelExampleDecrease.jpg, id=5
-61, 3560.30125pt x 3557.29pt>
+65, 3560.30125pt x 3557.29pt>
 File: chapter6/figures/pulsingChannelsExample/pulsesChannelExampleDecrease.jpg 
 Graphic file (type jpg)
 
@@ -1560,7 +1568,7 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 223--224
  []
 
 
-<chapter6/figures/receptorSat/dopaminePulsingReceptorSat.jpg, id=562, 1746.525p
+<chapter6/figures/receptorSat/dopaminePulsingReceptorSat.jpg, id=566, 1746.525p
 t x 1511.6475pt>
 File: chapter6/figures/receptorSat/dopaminePulsingReceptorSat.jpg Graphic file 
 (type jpg)
@@ -1573,13 +1581,13 @@ t.jpg used on input line 236.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[147]
+[148]
 
-LaTeX Warning: Text page 148 contains only floats.
+LaTeX Warning: Text page 149 contains only floats.
 
-[148 <./chapter6/figures/pulsingChannelsExample/pulsesChannelExampleIncrease.jp
+[149 <./chapter6/figures/pulsingChannelsExample/pulsesChannelExampleIncrease.jp
 g>]
-<chapter6/figures/FCStats/FCStats.jpg, id=569, 3560.30125pt x 3558.29375pt>
+<chapter6/figures/FCStats/FCStats.jpg, id=573, 3560.30125pt x 3558.29375pt>
 File: chapter6/figures/FCStats/FCStats.jpg Graphic file (type jpg)
 
 <use chapter6/figures/FCStats/FCStats.jpg>
@@ -1591,9 +1599,9 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 248--249
  [][] 
  []
 
-[149 <./chapter6/figures/pulsingChannelsExample/pulsesChannelExampleDecrease.jp
+[150 <./chapter6/figures/pulsingChannelsExample/pulsesChannelExampleDecrease.jp
 g>]
-<chapter6/figures/dopamineStats/dopamineStats.jpg, id=573, 3560.30125pt x 3558.
+<chapter6/figures/dopamineStats/dopamineStats.jpg, id=578, 3560.30125pt x 3558.
 29375pt>
 File: chapter6/figures/dopamineStats/dopamineStats.jpg Graphic file (type jpg)
  <use chapter6/figures/dopamineStats/dopamineStats.jpg>
@@ -1605,18 +1613,18 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 262--263
  [][] 
  []
 
-[150 <./chapter6/figures/receptorSat/dopaminePulsingReceptorSat.jpg>] [151 <./c
-hapter6/figures/FCStats/FCStats.jpg>]) [152] [153 <./chapter6/figures/dopamineS
+[151 <./chapter6/figures/receptorSat/dopaminePulsingReceptorSat.jpg>] [152 <./c
+hapter6/figures/FCStats/FCStats.jpg>]) [153] [154 <./chapter6/figures/dopamineS
 tats/dopamineStats.jpg>]
 \openout2 = `chapter7.aux'.
 
  (chapter7.tex
 Chapter 7.
-[154
+[155
 
 
 
-] [155] [156] [157] [158] [159] [160] [161] [162]) [163] [164]
+] [156] [157] [158] [159] [160] [161] [162] [163]) [164] [165]
 \openout2 = `appendix.aux'.
 
 
@@ -1633,12 +1641,12 @@ Overfull \hbox (15.5354pt too wide) in paragraph at lines 15--32
 [][] 
  []
 
-[165
+[166
 
 
 
-] [166]
-<chapter2/figures/Chamber/ChamberInOperation.jpg, id=628, 3276.24pt x 2457.18pt
+] [167]
+<chapter2/figures/Chamber/ChamberInOperation.jpg, id=632, 3276.24pt x 2457.18pt
 >
 File: chapter2/figures/Chamber/ChamberInOperation.jpg Graphic file (type jpg)
  <use chapter2/figures/Chamber/ChamberInOperation.jpg>
@@ -1654,7 +1662,7 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 39--40
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
 (Font)              using `OT1/cmr/bx/n' instead on input line 40.
 
-<chapter2/figures/flow/3Devices.jpg, id=629, 3276.24pt x 2457.18pt>
+<chapter2/figures/flow/3Devices.jpg, id=633, 3276.24pt x 2457.18pt>
 File: chapter2/figures/flow/3Devices.jpg Graphic file (type jpg)
 
 <use chapter2/figures/flow/3Devices.jpg>
@@ -1669,7 +1677,7 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 47--48
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<appendix/tissueDetachment/tissueDet.jpg, id=630, 302.8113pt x 697.6464pt>
+<appendix/tissueDetachment/tissueDet.jpg, id=634, 302.8113pt x 697.6464pt>
 File: appendix/tissueDetachment/tissueDet.jpg Graphic file (type jpg)
 
 <use appendix/tissueDetachment/tissueDet.jpg>
@@ -1711,7 +1719,7 @@ Underfull \hbox (badness 1394) in paragraph at lines 59--59
 \OT1/cmr/m/n/10 un-der flow with a
  []
 
-<appendix/youngOldCompare.jpg, id=631, 411.939pt x 219.219pt>
+<appendix/youngOldCompare.jpg, id=635, 411.939pt x 219.219pt>
 File: appendix/youngOldCompare.jpg Graphic file (type jpg)
 
 <use appendix/youngOldCompare.jpg>
@@ -1726,7 +1734,7 @@ Overfull \hbox (13.79956pt too wide) in paragraph at lines 63--64
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<chapter5/figures/moreOldExamples/moreOldRasterExamples.jpg, id=632, 3560.30125
+<chapter5/figures/moreOldExamples/moreOldRasterExamples.jpg, id=636, 3560.30125
 pt x 2491.3075pt>
 File: chapter5/figures/moreOldExamples/moreOldRasterExamples.jpg Graphic file (
 type jpg)
@@ -1740,9 +1748,9 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 72--73
  [][] 
  []
 
-) [167 <./chapter2/figures/Chamber/ChamberInOperation.jpg>] [168 <./chapter2/fi
-gures/flow/3Devices.jpg>] [169 <./appendix/tissueDetachment/tissueDet.jpg>]
-[170 <./appendix/youngOldCompare.jpg> <./chapter5/figures/moreOldExamples/moreO
+) [168 <./chapter2/figures/Chamber/ChamberInOperation.jpg>] [169 <./chapter2/fi
+gures/flow/3Devices.jpg>] [170 <./appendix/tissueDetachment/tissueDet.jpg>]
+[171 <./appendix/youngOldCompare.jpg> <./chapter5/figures/moreOldExamples/moreO
 ldRasterExamples.jpg>] (thesis.bbl
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -1750,27 +1758,27 @@ Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [171
+ [172
 
 
 ]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
- [172] [173] [174]
+ [173] [174] [175]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [175] [176] [177]
-[178] [179] [180]
+ [176] [177] [178]
+[179] [180] [181]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [181] [182]
+ [182] [183]
 Missing character: There is no â in font cmr10!
 Missing character: There is no „ in font cmr10!
 Missing character: There is no ¢ in font cmr10!
- [183] [184] [185]) [186] (thesis.aux (title.aux)
+ [184] [185] [186]) [187] (thesis.aux (title.aux)
 (abstract.aux) (acknow.aux) (abbv.aux) (chapter1.aux) (chapter2.aux)
 (chapter3.aux) (chapter4.aux) (chapter5.aux) (chapter6.aux) (chapter7.aux)
 (appendix.aux))
@@ -1782,10 +1790,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 6888 strings out of 493334
- 120011 string characters out of 3139256
- 164260 words of memory out of 3000000
- 10072 multiletter control sequences out of 15000+200000
+ 6895 strings out of 493334
+ 120247 string characters out of 3139256
+ 159521 words of memory out of 3000000
+ 10077 multiletter control sequences out of 15000+200000
  9471 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,11n,50p,4393b,402s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1804,9 +1812,9 @@ b><f:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><f:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><f:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><f:/Program Files/MiKTeX 
 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on thesis.pdf (187 pages, 90922603 bytes).
+Output written on thesis.pdf (188 pages, 91397496 bytes).
 PDF statistics:
- 756 PDF objects out of 1000 (max. 8388607)
+ 760 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 421 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 426 words of extra memory for PDF output out of 10000 (max. 10000000)
 
