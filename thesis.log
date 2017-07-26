@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2016.9.6)  24 JUL 2017 16:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2016.9.6)  26 JUL 2017 14:45
 entering extended mode
 **H:/Slab/Thesis/thesis.tex
 (H:/Slab/Thesis/thesis.tex
@@ -693,65 +693,64 @@ Chapter 3.
 
 
 ]
-<chapter3/figures/mouseImages/mouseImages.jpg, id=212, 426.75435pt x 421.8159pt
->
+<chapter3/figures/mouseImages/mouseImages.jpg, id=212, 393.1488pt x 407.121pt>
 File: chapter3/figures/mouseImages/mouseImages.jpg Graphic file (type jpg)
- <use chapter3/figures/mouseImages/mouseImages.jpg>
+
+<use chapter3/figures/mouseImages/mouseImages.jpg>
 Package pdftex.def Info: chapter3/figures/mouseImages/mouseImages.jpg used on i
 nput line 17.
-(pdftex.def)             Requested size: 426.79134pt x 421.85347pt.
+(pdftex.def)             Requested size: 426.79134pt x 441.98264pt.
 
 Overfull \hbox (28.02594pt too wide) in paragraph at lines 17--18
  [][] 
  []
 
-[55]
-<chapter3/figures/devExample/devActivity.jpg, id=216, 3560.30125pt x 3558.29375
+[55] [56 <./chapter3/figures/mouseImages/mouseImages.jpg>]
+<chapter3/figures/devExample/devActivity.jpg, id=219, 3560.30125pt x 3558.29375
 pt>
 File: chapter3/figures/devExample/devActivity.jpg Graphic file (type jpg)
  <use chapter3/figures/devExample/devActivity.jpg>
 Package pdftex.def Info: chapter3/figures/devExample/devActivity.jpg used on in
-put line 31.
+put line 30.
 (pdftex.def)             Requested size: 426.79134pt x 426.54247pt.
 
-Overfull \hbox (28.02594pt too wide) in paragraph at lines 31--32
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 30--31
  [][] 
  []
 
-[56 <./chapter3/figures/mouseImages/mouseImages.jpg>] [57 <./chapter3/figures/d
-evExample/devActivity.jpg>]
-<chapter3/figures/actMeasures/actMeasures.jpg, id=223, 426.75435pt x 263.66505p
+[57 <./chapter3/figures/devExample/devActivity.jpg>] [58]
+<chapter3/figures/actMeasures/actMeasures.jpg, id=226, 426.75435pt x 263.66505p
 t>
 File: chapter3/figures/actMeasures/actMeasures.jpg Graphic file (type jpg)
  <use chapter3/figures/actMeasures/actMeasures.jpg>
 Package pdftex.def Info: chapter3/figures/actMeasures/actMeasures.jpg used on i
-nput line 51.
+nput line 50.
 (pdftex.def)             Requested size: 426.79134pt x 263.68854pt.
 
-Overfull \hbox (28.02594pt too wide) in paragraph at lines 51--52
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 50--51
  [][] 
  []
 
-[58] [59 <./chapter3/figures/actMeasures/actMeasures.jpg>]
+[59 <./chapter3/figures/actMeasures/actMeasures.jpg>]
 <chapter3/figures/burstMeasures/burstMeasures.jpg, id=230, 3560.30125pt x 2264.
 46pt>
 File: chapter3/figures/burstMeasures/burstMeasures.jpg Graphic file (type jpg)
  <use chapter3/figures/burstMeasures/burstMeasures.jpg>
 Package pdftex.def Info: chapter3/figures/burstMeasures/burstMeasures.jpg used 
-on input line 66.
+on input line 65.
 (pdftex.def)             Requested size: 426.79134pt x 271.44705pt.
 
-Overfull \hbox (28.02594pt too wide) in paragraph at lines 66--67
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 65--66
  [][] 
  []
 
-[60 <./chapter3/figures/burstMeasures/burstMeasures.jpg>] [61]
+[60] [61 <./chapter3/figures/burstMeasures/burstMeasures.jpg>]
 <chapter3/figures/stimExample/stimExample.jpg, id=238, 3560.30125pt x 3557.29pt
 >
 File: chapter3/figures/stimExample/stimExample.jpg Graphic file (type jpg)
  <use chapter3/figures/stimExample/stimExample.jpg>
 Package pdftex.def Info: chapter3/figures/stimExample/stimExample.jpg used on i
-nput line 87.
+nput line 86.
 (pdftex.def)             Requested size: 398.33858pt x 397.97952pt.
  [62]
 
@@ -762,7 +761,7 @@ Overfull \vbox (3.47266pt too high) has occurred while \output is active []
 
 
 [63 <./chapter3/figures/stimExample/stimExample.jpg>]
-Overfull \hbox (1.0131pt too wide) in paragraph at lines 98--99
+Overfull \hbox (1.0131pt too wide) in paragraph at lines 97--98
 \OT1/cmr/m/n/10 Mature neu-ronal cul-tures abide to the prin-ci-ples of spike t
 im-ing de-pen-dent plas-tic-ity (STDP),
  []
@@ -773,10 +772,10 @@ im-ing de-pen-dent plas-tic-ity (STDP),
 File: chapter3/figures/ExpOutline/expOutlineTet.jpg Graphic file (type jpg)
  <use chapter3/figures/ExpOutline/expOutlineTet.jpg>
 Package pdftex.def Info: chapter3/figures/ExpOutline/expOutlineTet.jpg used on 
-input line 108.
+input line 107.
 (pdftex.def)             Requested size: 426.79134pt x 146.66426pt.
 
-Overfull \hbox (28.02594pt too wide) in paragraph at lines 108--109
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 107--108
  [][] 
  []
 
@@ -786,10 +785,10 @@ t>
 File: chapter3/figures/tetStimChange/tetStimChange.jpg Graphic file (type jpg)
  <use chapter3/figures/tetStimChange/tetStimChange.jpg>
 Package pdftex.def Info: chapter3/figures/tetStimChange/tetStimChange.jpg used 
-on input line 121.
+on input line 120.
 (pdftex.def)             Requested size: 426.79134pt x 428.69038pt.
 
-Overfull \hbox (28.02594pt too wide) in paragraph at lines 121--122
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 120--121
  [][] 
  []
 
@@ -799,10 +798,10 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 121--122
 File: chapter3/figures/tetMapChange/tetMapChange.jpg Graphic file (type jpg)
  <use chapter3/figures/tetMapChange/tetMapChange.jpg>
 Package pdftex.def Info: chapter3/figures/tetMapChange/tetMapChange.jpg used on
- input line 131.
+ input line 130.
 (pdftex.def)             Requested size: 426.79134pt x 284.44186pt.
 
-Overfull \hbox (28.02594pt too wide) in paragraph at lines 131--132
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 130--131
  [][] 
  []
 
@@ -814,10 +813,10 @@ pe jpg)
 
 <use chapter3/figures/tetResChangeStats/tetResChangeStats.jpg>
 Package pdftex.def Info: chapter3/figures/tetResChangeStats/tetResChangeStats.j
-pg used on input line 140.
+pg used on input line 139.
 (pdftex.def)             Requested size: 426.79134pt x 426.54247pt.
 
-Overfull \hbox (28.02594pt too wide) in paragraph at lines 140--141
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 139--140
  [][] 
  []
 
@@ -832,10 +831,10 @@ LaTeX Warning: Text page 70 contains only floats.
 File: chapter3/figures/FCChangeStats/FCStats.jpg Graphic file (type jpg)
  <use chapter3/figures/FCChangeStats/FCStats.jpg>
 Package pdftex.def Info: chapter3/figures/FCChangeStats/FCStats.jpg used on inp
-ut line 159.
+ut line 158.
 (pdftex.def)             Requested size: 426.79134pt x 255.80516pt.
 
-Overfull \hbox (28.02594pt too wide) in paragraph at lines 159--160
+Overfull \hbox (28.02594pt too wide) in paragraph at lines 158--159
  [][] 
  []
 
@@ -844,7 +843,7 @@ Overfull \hbox (28.02594pt too wide) in paragraph at lines 159--160
 File: chapter3/figures/mouseRatComp/ratMouseComp.jpg Graphic file (type jpg)
 <use chapter3/figures/mouseRatComp/ratMouseComp.jpg>
 Package pdftex.def Info: chapter3/figures/mouseRatComp/ratMouseComp.jpg used on
- input line 174.
+ input line 173.
 (pdftex.def)             Requested size: 213.39566pt x 213.39314pt.
  [72 <./chapter3/figures/FCChangeStats/FCStats.jpg>] [73 <./chapter3/figures/mo
 useRatComp/ratMouseComp.jpg>] [74]) [75]
@@ -1790,10 +1789,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 6895 strings out of 493334
- 120247 string characters out of 3139256
- 159521 words of memory out of 3000000
- 10077 multiletter control sequences out of 15000+200000
+ 6896 strings out of 493334
+ 120268 string characters out of 3139256
+ 159524 words of memory out of 3000000
+ 10078 multiletter control sequences out of 15000+200000
  9471 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,11n,50p,4393b,402s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1812,7 +1811,7 @@ b><f:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><f:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><f:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><f:/Program Files/MiKTeX 
 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on thesis.pdf (188 pages, 91397496 bytes).
+Output written on thesis.pdf (188 pages, 90490028 bytes).
 PDF statistics:
  760 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
